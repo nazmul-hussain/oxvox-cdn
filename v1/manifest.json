@@ -1,9 +1,12 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 1,
+  "contentVersion": 2,
   "updatedAt": "2026-11-02T00:00:00Z",
   "files": {
     "words": "v1/data/words.json",
-    "listeningLessons": "v1/data/listening_lessons.json"
+    "listeningLessons": "v1/data/listening_lessons.json",
+    "planDefault": "v1/data/plan_default.json",
+    "arabic": "v1/data/arabic.json",
+    "exampleBn": "v1/data/example_bn.json"
   }
 }
