@@ -27,3 +27,10 @@ Indexes to create in Atlas:
 - `progress`: unique compound `{ userId: 1, wordId: 1 }`, and `{ userId: 1, due: 1 }` for the review queue.
 - `activity`: unique `{ userId: 1, date: 1 }`.
 - `leaderboard`: `{ weekStart: 1, xp: -1 }`.
+
+## Word meanings per language (`manifest.meanings`)
+- `manifest.meanings` maps a language code to a file, e.g. `"hi": "v1/data/meanings/hi.json"`.
+- Each file is a JSON object: `{ "<headword lowercase>": "<meaning in that language>" }`.
+- Codes match the app's language list (`lib/core/languages.dart`): bn, ar, hi, ur, fa, he, ne, si, ta, te, zh, ja, ko, th, vi, id, ms, fil, es, pt, fr, de, it, ru, uk, pl, tr, sw, am, ha.
+- Bangla (`bn`) is the `meaning` field in `plan_default.json`; Arabic is `arabic.json`. Other languages go in the `meanings` map.
+- The app downloads a language file the first time the learner picks it, and refreshes all of them when `contentVersion` changes.

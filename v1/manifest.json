@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 3,
-  "updatedAt": "2026-11-02T17:30:00Z",
+  "contentVersion": 6,
+  "updatedAt": "2026-11-03T09:10:00Z",
   "files": {
     "words": "v1/data/words.json",
     "listeningLessons": "v1/data/listening_lessons.json",
@@ -9,5 +9,35 @@
     "arabic": "v1/data/arabic.json",
     "exampleBn": "v1/data/example_bn.json"
   },
-  "audioDir": "listening"
+  "audioDir": "listening",
+  "meanings": {
+    "hi": "v1/data/meanings/hi.json",
+    "ur": "v1/data/meanings/ur.json",
+    "fa": "v1/data/meanings/fa.json",
+    "he": "v1/data/meanings/he.json",
+    "ne": "v1/data/meanings/ne.json",
+    "si": "v1/data/meanings/si.json",
+    "ta": "v1/data/meanings/ta.json",
+    "te": "v1/data/meanings/te.json",
+    "zh": "v1/data/meanings/zh.json",
+    "ja": "v1/data/meanings/ja.json",
+    "ko": "v1/data/meanings/ko.json",
+    "th": "v1/data/meanings/th.json",
+    "vi": "v1/data/meanings/vi.json",
+    "id": "v1/data/meanings/id.json",
+    "ms": "v1/data/meanings/ms.json",
+    "fil": "v1/data/meanings/fil.json",
+    "es": "v1/data/meanings/es.json",
+    "pt": "v1/data/meanings/pt.json",
+    "fr": "v1/data/meanings/fr.json",
+    "de": "v1/data/meanings/de.json",
+    "it": "v1/data/meanings/it.json",
+    "ru": "v1/data/meanings/ru.json",
+    "uk": "v1/data/meanings/uk.json",
+    "pl": "v1/data/meanings/pl.json",
+    "tr": "v1/data/meanings/tr.json",
+    "sw": "v1/data/meanings/sw.json",
+    "am": "v1/data/meanings/am.json",
+    "ha": "v1/data/meanings/ha.json"
+  }
 }
