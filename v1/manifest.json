@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 6,
-  "updatedAt": "2026-11-03T09:10:00Z",
+  "contentVersion": 7,
+  "updatedAt": "2026-11-06T18:49:43Z",
   "files": {
     "words": "v1/data/words.json",
     "listeningLessons": "v1/data/listening_lessons.json",
