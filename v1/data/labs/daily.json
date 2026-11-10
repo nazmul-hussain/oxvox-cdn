@@ -1,0 +1,474 @@
+{
+ "title": "Daily life: doctor, bank, shop",
+ "intro": "Everyday English for real errands: describe symptoms to a doctor, buy medicine, open a bank account, return things in a shop and deal with your landlord.",
+ "introBn": "প্রতিদিনের কাজের ইংরেজি: ডাক্তারকে উপসর্গ বলা, ওষুধ কেনা, ব্যাংক অ্যাকাউন্ট খোলা, দোকানে জিনিস ফেরত দেওয়া আর বাড়িওয়ালার সাথে কথা বলা।",
+ "units": [
+  {
+   "id": "health",
+   "title": "At the doctor and the pharmacy",
+   "level": "A2",
+   "idea": "To describe symptoms, say what hurts, how long it has lasted and how bad it is. Use present perfect with 'for' and 'since' for how long.",
+   "ideaBn": "উপসর্গ বলতে কী হচ্ছে, কতদিন ধরে আর কতটা খারাপ তা বলুন। কতদিন ধরে বোঝাতে present perfect + for/since।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Symptoms",
+     "pos": "I've got a headache. · I have a sore throat. · My back hurts.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "How long",
+     "pos": "I've had a fever since Tuesday. · I've been coughing for three days.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Pharmacy",
+     "pos": "Do you have anything for a cold? · How often should I take it? · Do I need a prescription?",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Present perfect + since (start point) / for (period).",
+     "bn": "since = কবে থেকে, for = কতদিন।",
+     "ex": "I've had a headache since yesterday morning."
+    },
+    {
+     "rule": "Common symptom phrases: a sore throat, a runny nose, a temperature, a cough.",
+     "bn": "উপসর্গের শব্দগুলো শিখুন।",
+     "ex": "I've got a runny nose and a slight temperature."
+    },
+    {
+     "rule": "Use 'hurt' for pain: My … hurts / It hurts when I…",
+     "bn": "ব্যথা বোঝাতে hurt।",
+     "ex": "My knee hurts when I climb the stairs."
+    },
+    {
+     "rule": "At the pharmacy: Do you have anything for…?",
+     "bn": "ফার্মেসিতে Do you have anything for…?",
+     "ex": "Do you have anything for an upset stomach?"
+    },
+    {
+     "rule": "Ask about dosage.",
+     "bn": "ওষুধের নিয়ম জিজ্ঞেস করুন।",
+     "ex": "How many tablets should I take, and how often?"
+    }
+   ],
+   "signals": [
+    "I've had… since",
+    "for three days",
+    "sore throat",
+    "It hurts when…",
+    "prescription",
+    "twice a day"
+   ],
+   "traps": [
+    {
+     "wrong": "I am having fever from yesterday.",
+     "right": "I've had a fever since yesterday.",
+     "why": "Present perfect + since; 'a fever'.",
+     "bn": "from নয়, since; আর a fever।"
+    },
+    {
+     "wrong": "My head is paining.",
+     "right": "I've got a headache. / My head hurts.",
+     "why": "'Pain' is not used as a verb like this.",
+     "bn": "is paining ভুল; hurts বা headache বলুন।"
+    },
+    {
+     "wrong": "Give me medicine of cold.",
+     "right": "Do you have anything for a cold?",
+     "why": "Medicine for something; a polite question.",
+     "bn": "of নয়, for; প্রশ্ন করে চান।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "At the doctor's in Dhaka.",
+     "s": "I've had a sore throat ___ Sunday.",
+     "o": [
+      "since",
+      "for",
+      "from",
+      "at"
+     ],
+     "a": "since",
+     "x": "Since + start point."
+    },
+    {
+     "t": "choose",
+     "q": "How long?",
+     "s": "I've been coughing ___ three days.",
+     "o": [
+      "for",
+      "since",
+      "during",
+      "from"
+     ],
+     "a": "for",
+     "x": "For + period."
+    },
+    {
+     "t": "type",
+     "q": "Symptoms.",
+     "s": "I've ___ a headache since this morning.",
+     "hint": "have",
+     "a": [
+      "had"
+     ],
+     "x": "I've had…"
+    },
+    {
+     "t": "bn",
+     "q": "আমার পেট খারাপ। এর জন্য কিছু আছে?",
+     "o": [
+      "I've got an upset stomach. Do you have anything for it?",
+      "My stomach is bad. Any medicine of it?",
+      "I have stomach upset. Give something.",
+      "My stomach paining. You have anything?"
+     ],
+     "a": "I've got an upset stomach. Do you have anything for it?",
+     "x": "Upset stomach + anything for it."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "My back is paining.",
+      "My back hurts when I sit for a long time.",
+      "My back is hurting since a week.",
+      "I have pain on back."
+     ],
+     "a": "My back hurts when I sit for a long time.",
+     "x": "Hurt as a verb."
+    },
+    {
+     "t": "choose",
+     "q": "Pharmacy.",
+     "s": "How ___ should I take these tablets?",
+     "o": [
+      "often",
+      "much time",
+      "many times a",
+      "long time"
+     ],
+     "a": "often",
+     "x": "How often…?"
+    },
+    {
+     "t": "type",
+     "q": "Pharmacist's instructions.",
+     "s": "Take one tablet twice a day ___ meals.",
+     "hint": "after",
+     "a": [
+      "after"
+     ],
+     "x": "After meals."
+    },
+    {
+     "t": "choose",
+     "q": "Doctor in Singapore: \"How long have you felt like this?\"",
+     "s": "\"I've ___ dizzy since I got off the plane.\"",
+     "o": [
+      "felt",
+      "feel",
+      "feeling",
+      "been feel"
+     ],
+     "a": "felt",
+     "x": "Present perfect: I've felt.",
+     "lv": "adv"
+    },
+    {
+     "t": "fix",
+     "q": "Pick the clearest description for a doctor.",
+     "o": [
+      "I am sick, very sick.",
+      "I've had a high temperature and a bad cough for four days, and it hurts when I breathe deeply.",
+      "Fever, cough, everything.",
+      "I feel not good since many days."
+     ],
+     "a": "I've had a high temperature and a bad cough for four days, and it hurts when I breathe deeply.",
+     "x": "What, how long, how bad.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "money",
+   "title": "Bank, shopping and renting",
+   "level": "B1",
+   "idea": "At the bank, in shops and with landlords you ask questions, make requests and sometimes complain. Be clear about what you want and polite about how you ask.",
+   "ideaBn": "ব্যাংক, দোকান আর বাড়িওয়ালার সাথে প্রশ্ন, অনুরোধ, কখনও অভিযোগ করতে হয়। কী চান তা পরিষ্কার, কিন্তু চাওয়ার ধরন ভদ্র রাখুন।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Bank",
+     "pos": "I'd like to open a savings account. · What documents do I need? · Is there a minimum balance?",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Shop & returns",
+     "pos": "I'd like to return this, please. · Could I exchange it for a bigger size? · Here's the receipt.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Renting",
+     "pos": "Is the rent negotiable? · Are bills included? · Could you get the tap fixed, please?",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Open an account: I'd like to open…",
+     "bn": "অ্যাকাউন্ট খুলতে I'd like to open…",
+     "ex": "I'd like to open a savings account. What documents do I need?"
+    },
+    {
+     "rule": "Returns: return (get money back) vs exchange (swap).",
+     "bn": "return = টাকা ফেরত, exchange = বদল।",
+     "ex": "Could I exchange this shirt for a large?"
+    },
+    {
+     "rule": "Renting questions: Are … included? Is … negotiable?",
+     "bn": "ভাড়ার প্রশ্ন: included? negotiable?",
+     "ex": "Are gas and electricity included in the rent?"
+    },
+    {
+     "rule": "Requests to a landlord: get + thing + fixed/repaired.",
+     "bn": "কিছু ঠিক করিয়ে দিতে get … fixed।",
+     "ex": "Could you get the bathroom light fixed this week?"
+    },
+    {
+     "rule": "Describe faults with 'doesn't work' / 'is broken' / 'is leaking'.",
+     "bn": "ত্রুটি বোঝাতে doesn't work, is leaking।",
+     "ex": "The kitchen tap is leaking."
+    }
+   ],
+   "signals": [
+    "open an account",
+    "minimum balance",
+    "receipt",
+    "refund",
+    "exchange it for",
+    "get it fixed"
+   ],
+   "traps": [
+    {
+     "wrong": "I want to return back this.",
+     "right": "I'd like to return this, please.",
+     "why": "'Return' already means back.",
+     "bn": "return back নয়, শুধু return।"
+    },
+    {
+     "wrong": "The fan is not working from last week.",
+     "right": "The fan hasn't been working since last week.",
+     "why": "Since + present perfect.",
+     "bn": "from নয়, since + present perfect।"
+    },
+    {
+     "wrong": "Please fix the tap urgently, otherwise I will not pay rent.",
+     "right": "The kitchen tap is leaking. Could you get it fixed this week, please?",
+     "why": "Threats damage the relationship; ask clearly first.",
+     "bn": "প্রথমেই হুমকি নয়; পরিষ্কার ও ভদ্রভাবে অনুরোধ করুন।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Bank in Dhaka.",
+     "s": "I'd like to ___ a savings account.",
+     "o": [
+      "open",
+      "make",
+      "start up",
+      "do"
+     ],
+     "a": "open",
+     "x": "Open an account."
+    },
+    {
+     "t": "type",
+     "q": "Documents.",
+     "s": "What documents do I ___ to bring?",
+     "hint": "need",
+     "a": [
+      "need"
+     ],
+     "x": "Do I need to…?"
+    },
+    {
+     "t": "choose",
+     "q": "Shop.",
+     "s": "Could I exchange this ___ a smaller size?",
+     "o": [
+      "for",
+      "to",
+      "with",
+      "by"
+     ],
+     "a": "for",
+     "x": "Exchange A for B."
+    },
+    {
+     "t": "bn",
+     "q": "বিদ্যুৎ বিল কি ভাড়ার মধ্যে ধরা?",
+     "o": [
+      "Is electricity included in the rent?",
+      "Electricity bill is inside the rent?",
+      "Is the rent including electric?",
+      "Electricity is with rent?"
+     ],
+     "a": "Is electricity included in the rent?",
+     "x": "Included in the rent."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "I want to return back this phone.",
+      "I'd like to return this phone. It stopped working after two days.",
+      "I am returning back this.",
+      "Take back this phone, it is not working from two days."
+     ],
+     "a": "I'd like to return this phone. It stopped working after two days.",
+     "x": "Return (no 'back') + clear reason."
+    },
+    {
+     "t": "type",
+     "q": "Request to the landlord.",
+     "s": "Could you get the kitchen tap ___, please? It's leaking.",
+     "hint": "fix",
+     "a": [
+      "fixed",
+      "repaired"
+     ],
+     "x": "Get + thing + past participle."
+    },
+    {
+     "t": "choose",
+     "q": "Refund.",
+     "s": "Do you have the ___? We can't give a refund without it.",
+     "o": [
+      "receipt",
+      "recipe",
+      "reception",
+      "receive"
+     ],
+     "a": "receipt",
+     "x": "Receipt (silent p)."
+    },
+    {
+     "t": "choose",
+     "q": "Rafi talks to his new landlord in Dhaka.",
+     "s": "The water pump ___ working since Friday.",
+     "o": [
+      "hasn't been",
+      "isn't",
+      "wasn't",
+      "doesn't"
+     ],
+     "a": "hasn't been",
+     "x": "Since + present perfect continuous.",
+     "lv": "adv"
+    },
+    {
+     "t": "fix",
+     "q": "Pick the most natural question when renting a flat.",
+     "o": [
+      "The rent is how much negotiable?",
+      "Is the rent negotiable at all?",
+      "Can rent be less or not?",
+      "You will reduce rent?"
+     ],
+     "a": "Is the rent negotiable at all?",
+     "x": "Natural, polite question.",
+     "lv": "adv"
+    }
+   ]
+  }
+ ],
+ "mastery": [
+  {
+   "t": "choose",
+   "q": "Doctor.",
+   "s": "I've had this cough ___ two weeks.",
+   "o": [
+    "for",
+    "since",
+    "from",
+    "during"
+   ],
+   "a": "for",
+   "x": "For + period."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "My tooth is paining since yesterday.",
+    "My tooth has been hurting since yesterday.",
+    "My tooth hurts from yesterday.",
+    "I have tooth pain from yesterday."
+   ],
+   "a": "My tooth has been hurting since yesterday.",
+   "x": "Present perfect continuous + since."
+  },
+  {
+   "t": "type",
+   "q": "Pharmacy.",
+   "s": "Do you have anything ___ a sore throat?",
+   "hint": "preposition",
+   "a": [
+    "for"
+   ],
+   "x": "Anything for…"
+  },
+  {
+   "t": "bn",
+   "q": "আমি এটা একটা বড় সাইজের সাথে বদলাতে চাই।",
+   "o": [
+    "I'd like to exchange this for a bigger size.",
+    "I want to change this with big size.",
+    "I'd like to exchange this to a bigger size.",
+    "Change this bigger size."
+   ],
+   "a": "I'd like to exchange this for a bigger size.",
+   "x": "Exchange for."
+  },
+  {
+   "t": "choose",
+   "q": "Bank.",
+   "s": "Is there a minimum ___ for this account?",
+   "o": [
+    "balance",
+    "balancing",
+    "amount of balance money",
+    "rest"
+   ],
+   "a": "balance",
+   "x": "Minimum balance."
+  },
+  {
+   "t": "choose",
+   "q": "Landlord.",
+   "s": "Could you get the lock ___ this week?",
+   "o": [
+    "repaired",
+    "repair",
+    "repairing",
+    "to repair"
+   ],
+   "a": "repaired",
+   "x": "Get + object + past participle."
+  }
+ ],
+ "decide": []
+}

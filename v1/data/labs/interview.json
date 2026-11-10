@@ -1,0 +1,458 @@
+{
+ "title": "Job interview",
+ "intro": "Interviews test your English and your confidence. Learn to talk about experience with the right tense, show results with numbers, handle tricky questions and ask good questions yourself.",
+ "introBn": "ইন্টারভিউতে ইংরেজি আর আত্মবিশ্বাস দুটোই দেখা হয়। সঠিক tense, সংখ্যা দিয়ে সাফল্য, কঠিন প্রশ্ন সামলানো আর নিজের প্রশ্ন করা শিখুন।",
+ "units": [
+  {
+   "id": "experience",
+   "title": "Talking about your experience",
+   "level": "B1",
+   "idea": "Use the present perfect for experience up to now with no finished time (I've worked, I've led). Use the past simple for finished jobs and dates (I worked there in 2023). Give results with numbers.",
+   "ideaBn": "এখন পর্যন্ত অভিজ্ঞতা বোঝাতে present perfect (I've worked)। নির্দিষ্ট অতীত সময় বা শেষ হওয়া চাকরিতে past simple (I worked in 2023)। ফলাফল সংখ্যা দিয়ে বলুন।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Up to now",
+     "pos": "I've worked in sales for two years. · I've managed a team of five.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Finished",
+     "pos": "I worked at BRAC from 2021 to 2023. · Last year I led a project.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Results",
+     "pos": "I increased sales by 20%. · I cut response time from 2 days to 6 hours.",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Present perfect + for/since for a job you still do.",
+     "bn": "এখনও করছেন এমন কাজে have + for/since।",
+     "ex": "I've been a software tester since 2023."
+    },
+    {
+     "rule": "Past simple with finished time: in 2022, last year, ago.",
+     "bn": "নির্দিষ্ট অতীত সময়ে past simple।",
+     "ex": "I graduated from Rajshahi University in 2022."
+    },
+    {
+     "rule": "Achievements: action verb + number + result.",
+     "bn": "ক্রিয়া + সংখ্যা + ফল।",
+     "ex": "I reduced customer complaints by 30% in six months."
+    },
+    {
+     "rule": "Use 'responsible for' + noun or -ing.",
+     "bn": "responsible for এর পরে noun বা -ing।",
+     "ex": "I was responsible for training new staff."
+    },
+    {
+     "rule": "Tell a short story: situation, action, result.",
+     "bn": "পরিস্থিতি, কাজ, ফল।",
+     "ex": "A client was unhappy, so I called him daily, and he renewed the contract."
+    }
+   ],
+   "signals": [
+    "I've worked",
+    "since",
+    "for",
+    "in 2022",
+    "I increased… by…%",
+    "responsible for"
+   ],
+   "traps": [
+    {
+     "wrong": "I have completed my graduation in 2022.",
+     "right": "I graduated in 2022.",
+     "why": "Finished date needs past simple; 'complete graduation' is unnatural.",
+     "bn": "সাল থাকলে past simple; I graduated।"
+    },
+    {
+     "wrong": "I am working here for two years.",
+     "right": "I've been working here for two years.",
+     "why": "'For' + up to now needs present perfect.",
+     "bn": "for দিয়ে এখন পর্যন্ত = have been।"
+    },
+    {
+     "wrong": "I was responsible to handle clients.",
+     "right": "I was responsible for handling clients.",
+     "why": "Responsible for + -ing.",
+     "bn": "responsible for + -ing।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Interview in Dhaka.",
+     "s": "I ___ in customer service for three years, and I still enjoy it.",
+     "o": [
+      "have worked",
+      "worked",
+      "am working",
+      "work"
+     ],
+     "a": "have worked",
+     "x": "Up to now → present perfect."
+    },
+    {
+     "t": "choose",
+     "q": "Finished job.",
+     "s": "I ___ at a garments company in Gazipur from 2021 to 2023.",
+     "o": [
+      "worked",
+      "have worked",
+      "have been working",
+      "am working"
+     ],
+     "a": "worked",
+     "x": "Finished period → past simple."
+    },
+    {
+     "t": "type",
+     "q": "Achievement.",
+     "s": "I increased online sales ___ 25% in one year.",
+     "hint": "preposition",
+     "a": [
+      "by"
+     ],
+     "x": "Increase by + amount."
+    },
+    {
+     "t": "bn",
+     "q": "আমি ২০২২ সালে রাজশাহী বিশ্ববিদ্যালয় থেকে স্নাতক করেছি।",
+     "o": [
+      "I graduated from Rajshahi University in 2022.",
+      "I have graduated from Rajshahi University in 2022.",
+      "I completed my graduation from Rajshahi University in 2022 year.",
+      "I was graduated Rajshahi University in 2022."
+     ],
+     "a": "I graduated from Rajshahi University in 2022.",
+     "x": "Finished date → past simple."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the strongest answer.",
+     "o": [
+      "I did many works.",
+      "I was good in my job.",
+      "I led a team of four and cut delivery delays by 40%.",
+      "I am hardworking person."
+     ],
+     "a": "I led a team of four and cut delivery delays by 40%.",
+     "x": "Action + number + result."
+    },
+    {
+     "t": "type",
+     "q": "Role.",
+     "s": "In my last job, I was responsible ___ training new staff.",
+     "hint": "preposition",
+     "a": [
+      "for"
+     ],
+     "x": "Responsible for."
+    },
+    {
+     "t": "choose",
+     "q": "Still in the job.",
+     "s": "I've been a junior developer ___ March 2024.",
+     "o": [
+      "since",
+      "for",
+      "from",
+      "in"
+     ],
+     "a": "since",
+     "x": "Since + start point."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "I have joined the company last year.",
+      "I joined the company last year and have worked on three big projects since then.",
+      "I join the company last year.",
+      "I was joined the company last year."
+     ],
+     "a": "I joined the company last year and have worked on three big projects since then.",
+     "x": "Past for the date, present perfect for up to now.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "answers",
+   "title": "Strengths, weaknesses, tricky questions and your questions",
+   "level": "B2",
+   "idea": "Back up strengths with an example. Describe a real weakness and what you're doing about it. Buy time on hard questions, stay positive about past employers, and always ask the interviewer a question at the end.",
+   "ideaBn": "শক্তির পক্ষে উদাহরণ দিন। একটা সত্যিকারের দুর্বলতা আর তা ঠিক করার চেষ্টা বলুন। কঠিন প্রশ্নে একটু সময় নিন, পুরনো অফিসের নিন্দা নয়, আর শেষে নিজেও প্রশ্ন করুন।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Strength",
+     "pos": "One of my strengths is… · For example, …",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Weakness",
+     "pos": "I sometimes find it hard to… so I've started… · I'm working on…",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Time / ask",
+     "pos": "That's a good question. Let me think. · Could you tell me more about the team? · What would a typical day look like?",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "'One of my strengths is' + noun or -ing.",
+     "bn": "One of my strengths is + noun/-ing।",
+     "ex": "One of my strengths is solving problems under pressure."
+    },
+    {
+     "rule": "Weakness + action you're taking (present perfect / continuous).",
+     "bn": "দুর্বলতা + কী করছেন।",
+     "ex": "I used to find public speaking hard, so I've joined a Toastmasters club."
+    },
+    {
+     "rule": "Buy time politely.",
+     "bn": "ভাবার সময় নিন।",
+     "ex": "That's a good question. Let me think for a moment."
+    },
+    {
+     "rule": "Leave a job positively: looking for, want to grow.",
+     "bn": "আগের চাকরি নিয়ে ইতিবাচক থাকুন।",
+     "ex": "I'm looking for a role with more international clients."
+    },
+    {
+     "rule": "Ask about the role, team or next steps.",
+     "bn": "কাজ, দল বা পরের ধাপ নিয়ে প্রশ্ন।",
+     "ex": "What are the next steps in the process?"
+    }
+   ],
+   "signals": [
+    "one of my strengths is",
+    "for example",
+    "I'm working on",
+    "let me think",
+    "I'm looking for",
+    "what are the next steps?"
+   ],
+   "traps": [
+    {
+     "wrong": "My weakness is I am too perfect.",
+     "right": "I sometimes spend too long on details, so I now set time limits.",
+     "why": "Fake weaknesses sound dishonest.",
+     "bn": "বানানো দুর্বলতা বিশ্বাসযোগ্য নয়।"
+    },
+    {
+     "wrong": "My old boss was very bad, so I left.",
+     "right": "I'm looking for a role where I can grow.",
+     "why": "Criticising past employers looks unprofessional.",
+     "bn": "আগের বসের নিন্দা নয়।"
+    },
+    {
+     "wrong": "No, I don't have any question.",
+     "right": "Yes. Could you tell me how success is measured in this role?",
+     "why": "Having no questions suggests low interest.",
+     "bn": "প্রশ্ন না থাকলে আগ্রহ কম মনে হয়।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Strength.",
+     "s": "One of my ___ is working well under pressure.",
+     "o": [
+      "strengths",
+      "strength",
+      "strong",
+      "strongest"
+     ],
+     "a": "strengths",
+     "x": "One of my + plural."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the best answer to 'What is your greatest weakness?'",
+     "o": [
+      "I have no weaknesses.",
+      "I work too hard, that's all.",
+      "I sometimes find it hard to say no, so I've started using a task list to plan my week.",
+      "I am lazy in the morning."
+     ],
+     "a": "I sometimes find it hard to say no, so I've started using a task list to plan my week.",
+     "x": "Real weakness + action."
+    },
+    {
+     "t": "choose",
+     "q": "Hard question.",
+     "s": "That's a good question. Let me ___ about that for a second.",
+     "o": [
+      "think",
+      "thinking",
+      "to think",
+      "thought"
+     ],
+     "a": "think",
+     "x": "Let me + base verb."
+    },
+    {
+     "t": "bn",
+     "q": "আমি এমন একটা কাজ খুঁজছি যেখানে আমি আন্তর্জাতিক ক্লায়েন্টদের সাথে কাজ করতে পারব।",
+     "o": [
+      "I'm looking for a role where I can work with international clients.",
+      "I am searching a job where I will can work with international clients.",
+      "I'm looking a role which I can work international clients.",
+      "I'm finding a job to work with foreign clients there."
+     ],
+     "a": "I'm looking for a role where I can work with international clients.",
+     "x": "Look for + where I can."
+    },
+    {
+     "t": "fix",
+     "q": "Why did you leave your last job? Pick the best answer.",
+     "o": [
+      "The salary was too low and my boss was rude.",
+      "I was bored.",
+      "I learned a lot there, but I'm ready for more responsibility.",
+      "They didn't respect me."
+     ],
+     "a": "I learned a lot there, but I'm ready for more responsibility.",
+     "x": "Positive and forward-looking."
+    },
+    {
+     "t": "type",
+     "q": "Your question at the end.",
+     "s": "What would a typical day ___ like in this role?",
+     "hint": "verb",
+     "a": [
+      "look"
+     ],
+     "x": "What would a typical day look like?"
+    },
+    {
+     "t": "choose",
+     "q": "Salary question.",
+     "s": "I'm ___ to discuss it, but I'd like to know more about the role first.",
+     "o": [
+      "open",
+      "opened",
+      "opening",
+      "openly"
+     ],
+     "a": "open",
+     "x": "I'm open to…",
+     "lv": "adv"
+    },
+    {
+     "t": "fix",
+     "q": "Pick the best question to ask the interviewer.",
+     "o": [
+      "How many holidays do I get?",
+      "Do I have to work hard?",
+      "How will success be measured in the first six months?",
+      "When can I get promotion?"
+     ],
+     "a": "How will success be measured in the first six months?",
+     "x": "Shows interest in doing well."
+    },
+    {
+     "t": "type",
+     "q": "Example after a strength.",
+     "s": "I'm good at solving problems. ___ example, I fixed a billing error that saved 2 lakh taka.",
+     "hint": "word",
+     "a": [
+      "For"
+     ],
+     "x": "For example.",
+     "lv": "adv"
+    }
+   ]
+  }
+ ],
+ "mastery": [
+  {
+   "t": "choose",
+   "q": "Experience.",
+   "s": "I ___ three mobile apps since I joined my current company.",
+   "o": [
+    "have built",
+    "built",
+    "build",
+    "was building"
+   ],
+   "a": "have built",
+   "x": "Since + present perfect."
+  },
+  {
+   "t": "choose",
+   "q": "Past job.",
+   "s": "Two years ago, I ___ as an intern at a bank in Motijheel.",
+   "o": [
+    "worked",
+    "have worked",
+    "have been working",
+    "work"
+   ],
+   "a": "worked",
+   "x": "Ago → past simple."
+  },
+  {
+   "t": "type",
+   "q": "Result.",
+   "s": "We reduced costs ___ 15%.",
+   "hint": "preposition",
+   "a": [
+    "by"
+   ],
+   "x": "Reduce by."
+  },
+  {
+   "t": "bn",
+   "q": "আমার একটা শক্তি হলো দলের সাথে কাজ করা।",
+   "o": [
+    "One of my strengths is working in a team.",
+    "My one strength is work in team.",
+    "One of my strength is to working with team.",
+    "One strength of me is team working."
+   ],
+   "a": "One of my strengths is working in a team.",
+   "x": "One of my strengths is + -ing."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the best closing question.",
+   "o": [
+    "No questions.",
+    "What does the company do?",
+    "What are the next steps in the process?",
+    "Can I go now?"
+   ],
+   "a": "What are the next steps in the process?",
+   "x": "Shows interest; you should already know what the company does."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "I am doing this job since 2023.",
+    "I have doing this job since 2023.",
+    "I have been doing this job since 2023.",
+    "I did this job since 2023."
+   ],
+   "a": "I have been doing this job since 2023.",
+   "x": "Ongoing since → present perfect continuous.",
+   "lv": "adv"
+  }
+ ],
+ "decide": []
+}

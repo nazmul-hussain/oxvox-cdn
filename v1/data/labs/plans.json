@@ -1,0 +1,458 @@
+{
+ "title": "Plans, invitations, offers",
+ "intro": "Making plans is everyday English, at work and with friends. Choose the right future form, invite people warmly, offer help, and accept, decline or change arrangements without sounding cold.",
+ "introBn": "পরিকল্পনা জানানো, আমন্ত্রণ দেওয়া, সাহায্যের প্রস্তাব দেওয়া, আর ভদ্রভাবে রাজি হওয়া, না বলা বা সময় বদলানোর ইংরেজি শিখুন।",
+ "units": [
+  {
+   "id": "future",
+   "title": "Plans and arrangements",
+   "level": "B1",
+   "idea": "Use the present continuous for fixed arrangements, going to for intentions, and will for quick decisions and offers made while speaking.",
+   "ideaBn": "নির্দিষ্ট সময়-স্থান ঠিক থাকলে present continuous, পরিকল্পনা বা ইচ্ছা হলে going to, আর তাৎক্ষণিক সিদ্ধান্তে will।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Arrangement",
+     "pos": "I'm meeting the client at 3 tomorrow.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Intention",
+     "pos": "I'm going to look for a flat in Mirpur.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Instant decision",
+     "pos": "It's raining. I'll take a CNG.",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Present continuous: arranged with time, place or people.",
+     "bn": "সময়/জায়গা ঠিক হয়ে গেলে present continuous।",
+     "ex": "We're having lunch with the auditors on Monday."
+    },
+    {
+     "rule": "Going to: a plan or intention you already have.",
+     "bn": "আগে থেকে ঠিক করা ইচ্ছা হলে going to।",
+     "ex": "Rafi is going to save money for a motorbike."
+    },
+    {
+     "rule": "Will: a decision made at the moment of speaking.",
+     "bn": "কথা বলার মুহূর্তে নেওয়া সিদ্ধান্তে will।",
+     "ex": "The printer's broken? I'll email it to you instead."
+    },
+    {
+     "rule": "Changing plans: move, put off, bring forward, cancel.",
+     "bn": "পরিকল্পনা বদলাতে move, put off, bring forward।",
+     "ex": "Can we move the meeting to Thursday?"
+    },
+    {
+     "rule": "Don't use 'will' with time words after 'when' or 'if'.",
+     "bn": "when/if এর পরে will নয়, present tense।",
+     "ex": "I'll call you when I get to the office."
+    }
+   ],
+   "signals": [
+    "I'm meeting",
+    "going to",
+    "I'll",
+    "put off",
+    "bring forward",
+    "reschedule"
+   ],
+   "traps": [
+    {
+     "wrong": "I will go to Rajshahi tomorrow, I already bought the ticket.",
+     "right": "I'm going to Rajshahi tomorrow. I've already bought the ticket.",
+     "why": "A booked trip is an arrangement.",
+     "bn": "টিকিট কাটা হয়ে গেলে present continuous।"
+    },
+    {
+     "wrong": "I'll call you when I will reach.",
+     "right": "I'll call you when I get there.",
+     "why": "No will after when; reach needs an object.",
+     "bn": "when এর পরে present; reach এর পর জায়গা লাগে।"
+    },
+    {
+     "wrong": "Let's prepone the meeting.",
+     "right": "Let's bring the meeting forward.",
+     "why": "'Prepone' is not standard outside South Asia.",
+     "bn": "prepone আন্তর্জাতিক ইংরেজিতে চলে না।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "You booked a meeting room for 10 am tomorrow.",
+     "s": "I ___ the design team at 10 tomorrow.",
+     "o": [
+      "'m meeting",
+      "meet",
+      "will be meet",
+      "met"
+     ],
+     "a": "'m meeting",
+     "x": "Fixed arrangement."
+    },
+    {
+     "t": "type",
+     "q": "A plan you decided last week.",
+     "s": "I'm ___ to start a Spanish course in January.",
+     "hint": "go",
+     "a": [
+      "going"
+     ],
+     "x": "Going to for intentions."
+    },
+    {
+     "t": "choose",
+     "q": "Your colleague says the lift isn't working.",
+     "s": "Don't worry, I ___ take the stairs.",
+     "o": [
+      "'ll",
+      "'m going to",
+      "am",
+      "would"
+     ],
+     "a": "'ll",
+     "x": "Decision at the moment."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "I'll text you when I will arrive.",
+      "I'll text you when I arrive.",
+      "I text you when I will arrive.",
+      "I'm texting you when I will arrive."
+     ],
+     "a": "I'll text you when I arrive.",
+     "x": "Present after when."
+    },
+    {
+     "t": "bn",
+     "q": "মিটিংটা কি এক দিন এগিয়ে আনা যায়?",
+     "o": [
+      "Could we bring the meeting forward by a day?",
+      "Could we prepone the meeting one day?",
+      "Can we forward the meeting a day before?",
+      "Could we bring forward a day the meeting?"
+     ],
+     "a": "Could we bring the meeting forward by a day?",
+     "x": "Bring forward = make earlier."
+    },
+    {
+     "t": "choose",
+     "q": "The client is ill.",
+     "s": "We've had to put ___ the presentation until next week.",
+     "o": [
+      "off",
+      "out",
+      "away",
+      "down"
+     ],
+     "a": "off",
+     "x": "Put off = postpone."
+    },
+    {
+     "t": "type",
+     "q": "A booked flight.",
+     "s": "Rafi ___ flying to Chattogram on Sunday morning.",
+     "hint": "be",
+     "a": [
+      "is",
+      "'s"
+     ],
+     "x": "Present continuous for arrangements."
+    },
+    {
+     "t": "bn",
+     "q": "আমি বৃহস্পতিবার বিকেলে ডাক্তারের কাছে যাচ্ছি।",
+     "o": [
+      "I'm seeing the doctor on Thursday afternoon.",
+      "I will see the doctor in Thursday afternoon.",
+      "I see doctor Thursday afternoon.",
+      "I'm going to see doctor at Thursday afternoon."
+     ],
+     "a": "I'm seeing the doctor on Thursday afternoon.",
+     "x": "Arrangement; on + day.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "invite",
+   "title": "Inviting, offering, replying",
+   "level": "B2",
+   "idea": "Invite with Would you like to…? or Do you fancy…? Offer help with Shall I…? or Let me… Accept warmly, and decline with thanks, a reason and an alternative.",
+   "ideaBn": "আমন্ত্রণে Would you like to…?, সাহায্যের প্রস্তাবে Shall I…? বা Let me…। না বললে ধন্যবাদ, কারণ আর বিকল্প দিন।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Invite",
+     "pos": "Would you like to join us for dinner? · Do you fancy a coffee? · Are you free on Friday?",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Offer",
+     "pos": "Shall I book a table? · Let me get that for you. · Would you like me to call them?",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Reply",
+     "pos": "I'd love to. · That sounds great. · Thanks, but I'm afraid I can't make it.",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Would you like + to + verb for invitations.",
+     "bn": "Would you like এর পরে to + verb।",
+     "ex": "Would you like to come to our office party?"
+    },
+    {
+     "rule": "Do you fancy + -ing or a noun (informal).",
+     "bn": "বন্ধুদের সাথে Do you fancy + -ing।",
+     "ex": "Do you fancy getting some fuchka after work?"
+    },
+    {
+     "rule": "Shall I…? offers to do something.",
+     "bn": "কিছু করে দেওয়ার প্রস্তাবে Shall I…?",
+     "ex": "Shall I send you the slides?"
+    },
+    {
+     "rule": "Would you like me to…? is a polite offer.",
+     "bn": "ভদ্র প্রস্তাব: Would you like me to…?",
+     "ex": "Would you like me to pick you up from the station?"
+    },
+    {
+     "rule": "Decline with thanks, a reason and maybe another time.",
+     "bn": "ধন্যবাদ, কারণ আর অন্য সময়ের প্রস্তাব দিন।",
+     "ex": "Thanks so much, but I'm working late. Maybe next week?"
+    }
+   ],
+   "signals": [
+    "would you like",
+    "do you fancy",
+    "shall I",
+    "let me",
+    "I'd love to",
+    "can't make it"
+   ],
+   "traps": [
+    {
+     "wrong": "Would you like coming to dinner?",
+     "right": "Would you like to come to dinner?",
+     "why": "Would like takes to + verb.",
+     "bn": "would like এর পরে to + verb।"
+    },
+    {
+     "wrong": "Shall I to help you?",
+     "right": "Shall I help you?",
+     "why": "No 'to' after shall.",
+     "bn": "shall এর পরে to নয়।"
+    },
+    {
+     "wrong": "Sorry, I can't come. I am busy.",
+     "right": "Thanks for asking, but I'm afraid I can't make it. I've got a family event.",
+     "why": "Too short and cold.",
+     "bn": "খুব ছোট উত্তর রূঢ় শোনায়।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Inviting a new colleague.",
+     "s": "Would you like ___ us for lunch?",
+     "o": [
+      "to join",
+      "joining",
+      "join",
+      "to joining"
+     ],
+     "a": "to join",
+     "x": "Would you like + to."
+    },
+    {
+     "t": "type",
+     "q": "Offering to do a task.",
+     "s": "___ I book the meeting room for you?",
+     "hint": "shall",
+     "a": [
+      "Shall"
+     ],
+     "x": "Shall I…? = offer."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the warmest way to decline a friend's wedding invitation.",
+     "o": [
+      "No, I can't.",
+      "I'm busy that day.",
+      "Thank you so much for inviting me. I'm afraid I'll be in Sylhet, but I'd love to celebrate with you when I'm back.",
+      "Not possible for me."
+     ],
+     "a": "Thank you so much for inviting me. I'm afraid I'll be in Sylhet, but I'd love to celebrate with you when I'm back.",
+     "x": "Thanks + reason + warm alternative."
+    },
+    {
+     "t": "choose",
+     "q": "Informal invitation.",
+     "s": "Do you fancy ___ a film on Friday?",
+     "o": [
+      "seeing",
+      "to see",
+      "see",
+      "seen"
+     ],
+     "a": "seeing",
+     "x": "Fancy + -ing."
+    },
+    {
+     "t": "bn",
+     "q": "আমি কি আপনাকে স্টেশন থেকে নিয়ে আসব?",
+     "o": [
+      "Would you like me to pick you up from the station?",
+      "Would you like I pick you up from the station?",
+      "Shall I to pick you from station?",
+      "Do you want that I bring you from station?"
+     ],
+     "a": "Would you like me to pick you up from the station?",
+     "x": "Would you like me to…?"
+    },
+    {
+     "t": "choose",
+     "q": "Accepting an invitation.",
+     "s": "\"Would you like to come to my house on Eid?\" \"___\"",
+     "o": [
+      "I'd love to. Thank you!",
+      "Yes, I like.",
+      "I would like it.",
+      "OK, I come."
+     ],
+     "a": "I'd love to. Thank you!",
+     "x": "Natural acceptance."
+    },
+    {
+     "t": "type",
+     "q": "Offering to pay.",
+     "s": "Put your wallet away. ___ me get this.",
+     "hint": "let",
+     "a": [
+      "Let"
+     ],
+     "x": "Let me + verb = offer."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the best way to change an arrangement with a client.",
+     "o": [
+      "I can't come tomorrow. Change it.",
+      "Something came up, so meeting is cancel.",
+      "I'm so sorry, but something urgent has come up. Would it be possible to reschedule for Thursday?",
+      "Tomorrow not possible, Thursday OK?"
+     ],
+     "a": "I'm so sorry, but something urgent has come up. Would it be possible to reschedule for Thursday?",
+     "x": "Apology + reason + polite request.",
+     "lv": "adv"
+    },
+    {
+     "t": "bn",
+     "q": "দুঃখিত, শনিবার আমি আসতে পারব না।",
+     "o": [
+      "I'm afraid I can't make it on Saturday.",
+      "Sorry, I can't make Saturday come.",
+      "I'm afraid I'm not able to coming Saturday.",
+      "Sorry, Saturday I can't to come."
+     ],
+     "a": "I'm afraid I can't make it on Saturday.",
+     "x": "Make it = be able to attend.",
+     "lv": "adv"
+    }
+   ]
+  }
+ ],
+ "mastery": [
+  {
+   "t": "choose",
+   "q": "A fixed appointment.",
+   "s": "I ___ my manager at 4 this afternoon.",
+   "o": [
+    "'m seeing",
+    "see",
+    "will seeing",
+    "saw"
+   ],
+   "a": "'m seeing",
+   "x": "Arrangement."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "Shall I to open the window?",
+    "Shall I open the window?",
+    "Shall I opening the window?",
+    "Shall I will open the window?"
+   ],
+   "a": "Shall I open the window?",
+   "x": "Shall I + base."
+  },
+  {
+   "t": "type",
+   "q": "Invitation.",
+   "s": "Would you like ___ for a quick coffee?",
+   "hint": "go",
+   "a": [
+    "to go"
+   ],
+   "x": "Would you like + to."
+  },
+  {
+   "t": "bn",
+   "q": "ক্লায়েন্টের জন্য মিটিংটা আগামী সপ্তাহে পিছিয়ে দিতে হয়েছে।",
+   "o": [
+    "We've had to put off the meeting until next week because of the client.",
+    "We had to prepone the meeting next week for the client.",
+    "We have put the meeting back to next week for client.",
+    "We had to put on the meeting next week because of client."
+   ],
+   "a": "We've had to put off the meeting until next week because of the client.",
+   "x": "Put off = postpone."
+  },
+  {
+   "t": "choose",
+   "q": "No will after when.",
+   "s": "I'll send the file as soon as I ___ back.",
+   "o": [
+    "get",
+    "will get",
+    "got",
+    "am get"
+   ],
+   "a": "get",
+   "x": "Present after as soon as."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the most natural reply to an invitation you can't accept.",
+   "o": [
+    "No.",
+    "I'm afraid I can't make it, but thanks so much for asking.",
+    "I can't, sorry, bye.",
+    "Impossible for me."
+   ],
+   "a": "I'm afraid I can't make it, but thanks so much for asking.",
+   "x": "Warm and polite."
+  }
+ ],
+ "decide": []
+}

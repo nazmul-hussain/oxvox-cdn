@@ -1,0 +1,473 @@
+{
+ "title": "Telling stories",
+ "intro": "Everyone loves a good story: what happened on the way to work, a funny moment with a client, life back home. Learn the tenses that make stories clear, words that move them along, and how to react when someone else is telling one.",
+ "introBn": "গল্প বলার জন্য অতীতের তিনটি tense, ঘটনার ক্রম বোঝানোর শব্দ, অতীত অভ্যাস আর শ্রোতা হিসেবে প্রতিক্রিয়া দেখানোর ইংরেজি শিখুন।",
+ "units": [
+  {
+   "id": "tenses",
+   "title": "Narrative tenses and sequencing",
+   "level": "B1",
+   "idea": "Stories use three past tenses together: past simple for the main events, past continuous for the background, past perfect for something that happened earlier. Sequencing words guide the listener.",
+   "ideaBn": "গল্পে মূল ঘটনা past simple, পটভূমি past continuous, আর আগের ঘটনা past perfect। first, then, eventually দিয়ে ক্রম বোঝান।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Background",
+     "pos": "It was raining and I was waiting for a bus.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Main event",
+     "pos": "Suddenly a rickshaw stopped and the driver called my name.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Earlier event",
+     "pos": "I had left my phone in the office.",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Past continuous sets the scene; past simple interrupts it.",
+     "bn": "চলমান পটভূমি past continuous, হঠাৎ ঘটনা past simple।",
+     "ex": "I was presenting when the power went off."
+    },
+    {
+     "rule": "Past perfect = earlier than another past event.",
+     "bn": "অতীতের আরও আগের ঘটনা past perfect।",
+     "ex": "When I arrived, the meeting had already started."
+    },
+    {
+     "rule": "Sequence with first, then, after that, eventually.",
+     "bn": "ক্রম বোঝাতে first, then, after that, eventually।",
+     "ex": "First we got lost, then the car broke down, and eventually we arrived at midnight."
+    },
+    {
+     "rule": "Just as = at exactly the same moment.",
+     "bn": "ঠিক সেই মুহূর্তে বোঝাতে just as।",
+     "ex": "Just as I was leaving, my boss called me back."
+    },
+    {
+     "rule": "Eventually = in the end, after a long time; not 'possibly'.",
+     "bn": "eventually মানে শেষ পর্যন্ত, 'সম্ভবত' নয়।",
+     "ex": "Eventually, Rafi found a flat near his office."
+    }
+   ],
+   "signals": [
+    "while",
+    "when",
+    "just as",
+    "eventually",
+    "by the time",
+    "after that"
+   ],
+   "traps": [
+    {
+     "wrong": "When I reached, the bus already left.",
+     "right": "When I got there, the bus had already left.",
+     "why": "Earlier event needs past perfect; reach needs an object.",
+     "bn": "আগের ঘটনায় had + V3।"
+    },
+    {
+     "wrong": "I was knowing her since school.",
+     "right": "I had known her since school.",
+     "why": "Know is not used in continuous forms.",
+     "bn": "know সাধারণত continuous হয় না।"
+    },
+    {
+     "wrong": "Eventually it will rain, so take an umbrella.",
+     "right": "It might rain, so take an umbrella.",
+     "why": "Eventually means in the end, not possibly.",
+     "bn": "eventually মানে possibly নয়।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Background and interruption.",
+     "s": "I ___ dinner when the guests arrived.",
+     "o": [
+      "was cooking",
+      "cooked",
+      "had cook",
+      "am cooking"
+     ],
+     "a": "was cooking",
+     "x": "Background action."
+    },
+    {
+     "t": "type",
+     "q": "An earlier past event.",
+     "s": "By the time we got to the cinema, the film ___ started.",
+     "hint": "have",
+     "a": [
+      "had already",
+      "had"
+     ],
+     "x": "Past perfect."
+    },
+    {
+     "t": "choose",
+     "q": "Exact same moment.",
+     "s": "___ I was locking the door, the phone rang.",
+     "o": [
+      "Just as",
+      "Eventually",
+      "After that",
+      "Firstly"
+     ],
+     "a": "Just as",
+     "x": "Just as = at that moment."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "While I walked to work, I was seeing an accident.",
+      "While I was walking to work, I saw an accident.",
+      "While I was walking to work, I was see an accident.",
+      "While I walk to work, I saw an accident."
+     ],
+     "a": "While I was walking to work, I saw an accident.",
+     "x": "Continuous background + simple event."
+    },
+    {
+     "t": "bn",
+     "q": "শেষ পর্যন্ত আমরা রাত দুটোয় বাসায় পৌঁছালাম।",
+     "o": [
+      "Eventually, we got home at 2 am.",
+      "Eventually, we reached to home at 2 am.",
+      "Possibly we got home at 2 am.",
+      "At last time, we reached home 2 am."
+     ],
+     "a": "Eventually, we got home at 2 am.",
+     "x": "Eventually = in the end."
+    },
+    {
+     "t": "choose",
+     "q": "Sequencing.",
+     "s": "First we checked in, ___ we went straight to the beach.",
+     "o": [
+      "then",
+      "eventually",
+      "just as",
+      "while"
+     ],
+     "a": "then",
+     "x": "Then = next."
+    },
+    {
+     "t": "type",
+     "q": "Past continuous.",
+     "s": "It ___ raining heavily, so we stayed inside.",
+     "hint": "be",
+     "a": [
+      "was"
+     ],
+     "x": "Background."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the best sentence for a story.",
+     "o": [
+      "When I arrived, everyone had gone home.",
+      "When I arrived, everyone has gone home.",
+      "When I had arrived, everyone go home.",
+      "When I arrive, everyone had gone home."
+     ],
+     "a": "When I arrived, everyone had gone home.",
+     "x": "Past simple + past perfect.",
+     "lv": "adv"
+    },
+    {
+     "t": "bn",
+     "q": "আমি অফিসে পৌঁছে বুঝলাম যে চাবি বাসায় ফেলে এসেছি।",
+     "o": [
+      "When I got to the office, I realised I had left my keys at home.",
+      "When I reached office, I realised I left my key in home.",
+      "When I got to the office, I was realising I have left my keys at home.",
+      "Reaching office, I realised I had forgot keys at home."
+     ],
+     "a": "When I got to the office, I realised I had left my keys at home.",
+     "x": "Past perfect for the earlier action.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "listen",
+   "title": "Reacting and remembering",
+   "level": "B2",
+   "idea": "Good listeners react: No way! Really? What happened next? Use used to and would to talk about past habits, especially in stories about childhood or old jobs.",
+   "ideaBn": "ভালো শ্রোতা প্রতিক্রিয়া দেখান: No way! Really? What happened next? অতীতের অভ্যাস বলতে used to আর would।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "React",
+     "pos": "No way! · Really? · You're joking! · Oh no! · That's amazing!",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Ask for more",
+     "pos": "What happened next? · So what did you do? · And then?",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Past habits",
+     "pos": "I used to live in Rajshahi. · Every Eid we would visit my grandparents.",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Short reactions show interest.",
+     "bn": "ছোট প্রতিক্রিয়া আগ্রহ দেখায়।",
+     "ex": "\"I met Shakib Al Hasan at the airport!\" \"No way!\""
+    },
+    {
+     "rule": "Ask questions to keep the story going.",
+     "bn": "প্রশ্ন করে গল্প এগিয়ে নিন।",
+     "ex": "So what did you do?"
+    },
+    {
+     "rule": "Used to + verb: past habits and past states that are no longer true.",
+     "bn": "আগে ছিল, এখন নেই: used to + verb।",
+     "ex": "I used to hate coffee, but now I drink three cups a day."
+    },
+    {
+     "rule": "Would + verb: repeated past actions, not states.",
+     "bn": "বারবার করা কাজের জন্য would; অবস্থার জন্য নয়।",
+     "ex": "In summer we would swim in the Padma every afternoon."
+    },
+    {
+     "rule": "Negative and question: didn't use to / Did you use to…?",
+     "bn": "না-বাচক ও প্রশ্নে use to।",
+     "ex": "Did you use to play cricket at school?"
+    }
+   ],
+   "signals": [
+    "no way",
+    "really",
+    "what happened next",
+    "used to",
+    "would",
+    "you're joking"
+   ],
+   "traps": [
+    {
+     "wrong": "I am used to go to school by bus.",
+     "right": "I used to go to school by bus.",
+     "why": "'Be used to' means be accustomed to.",
+     "bn": "be used to মানে অভ্যস্ত; অতীত অভ্যাসে used to।"
+    },
+    {
+     "wrong": "I would live in Rajshahi.",
+     "right": "I used to live in Rajshahi.",
+     "why": "Would is not used for states.",
+     "bn": "অবস্থা বোঝাতে would নয়।"
+    },
+    {
+     "wrong": "I didn't used to like tea.",
+     "right": "I didn't use to like tea.",
+     "why": "After didn't, use the base form.",
+     "bn": "didn't এর পরে use।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Your friend says she won a trip to Japan.",
+     "s": "\"___ That's amazing!\"",
+     "o": [
+      "No way!",
+      "No, thanks.",
+      "Never mind.",
+      "Excuse me."
+     ],
+     "a": "No way!",
+     "x": "Surprised reaction."
+    },
+    {
+     "t": "type",
+     "q": "Past habit that stopped.",
+     "s": "Rafi ___ to play football every evening in Rajshahi.",
+     "hint": "use",
+     "a": [
+      "used"
+     ],
+     "x": "Used to + base."
+    },
+    {
+     "t": "choose",
+     "q": "Keeping the story going.",
+     "s": "\"Then the boss walked in.\" \"Oh no! What happened ___ ?\"",
+     "o": [
+      "next",
+      "after",
+      "then after",
+      "later on now"
+     ],
+     "a": "next",
+     "x": "What happened next?"
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "When I was a child, I would have a dog.",
+      "When I was a child, I used to have a dog.",
+      "When I was a child, I was used to have a dog.",
+      "When I was a child, I use to had a dog."
+     ],
+     "a": "When I was a child, I used to have a dog.",
+     "x": "States need used to, not would."
+    },
+    {
+     "t": "bn",
+     "q": "ছোটবেলায় প্রতি শুক্রবার আমরা নানুর বাড়ি যেতাম।",
+     "o": [
+      "When we were kids, we would visit our grandmother every Friday.",
+      "In childhood, we were going to grandmother's house every Friday.",
+      "When we were kids, we are used to visit our grandmother every Friday.",
+      "When we were kids, we would visited our grandmother every Friday."
+     ],
+     "a": "When we were kids, we would visit our grandmother every Friday.",
+     "x": "Would for repeated actions."
+    },
+    {
+     "t": "type",
+     "q": "Question about the past.",
+     "s": "Did you ___ to live in Chattogram?",
+     "hint": "use",
+     "a": [
+      "use"
+     ],
+     "x": "Did you use to…?"
+    },
+    {
+     "t": "fix",
+     "q": "Pick the most natural listener reaction to bad news.",
+     "o": [
+      "Oh no! Are you OK?",
+      "Very bad.",
+      "It is sad news, I am informing.",
+      "OK, next."
+     ],
+     "a": "Oh no! Are you OK?",
+     "x": "Sympathy + question."
+    },
+    {
+     "t": "choose",
+     "q": "Negative past habit.",
+     "s": "I didn't ___ to enjoy reading, but now I love it.",
+     "o": [
+      "use",
+      "used",
+      "using",
+      "uses"
+     ],
+     "a": "use",
+     "x": "Didn't use to.",
+     "lv": "adv"
+    },
+    {
+     "t": "bn",
+     "q": "সত্যি? তারপর তুমি কী করলে?",
+     "o": [
+      "Really? So what did you do?",
+      "Really? Then what you did?",
+      "True? After that what you do?",
+      "Really? So what you have done?"
+     ],
+     "a": "Really? So what did you do?",
+     "x": "Question with did.",
+     "lv": "adv"
+    }
+   ]
+  }
+ ],
+ "mastery": [
+  {
+   "t": "choose",
+   "q": "Background action.",
+   "s": "I ___ on the phone when the fire alarm went off.",
+   "o": [
+    "was talking",
+    "talked",
+    "had talk",
+    "am talking"
+   ],
+   "a": "was talking",
+   "x": "Past continuous."
+  },
+  {
+   "t": "type",
+   "q": "Earlier event.",
+   "s": "She was upset because she ___ the bus.",
+   "hint": "miss",
+   "a": [
+    "had missed",
+    "'d missed"
+   ],
+   "x": "Past perfect."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "I would live near the river as a child.",
+    "I used to live near the river as a child.",
+    "I am used to live near the river as a child.",
+    "I use to lived near the river as a child."
+   ],
+   "a": "I used to live near the river as a child.",
+   "x": "States use used to."
+  },
+  {
+   "t": "bn",
+   "q": "ঠিক যখন আমি বের হচ্ছিলাম, বৃষ্টি শুরু হলো।",
+   "o": [
+    "Just as I was leaving, it started to rain.",
+    "Just when I leave, rain is started.",
+    "Just as I left, it was starting raining.",
+    "Eventually I was leaving, it started rain."
+   ],
+   "a": "Just as I was leaving, it started to rain.",
+   "x": "Just as + continuous, simple."
+  },
+  {
+   "t": "choose",
+   "q": "Reacting.",
+   "s": "\"I lost my passport in Bangkok.\" \"___ What did you do?\"",
+   "o": [
+    "Oh no!",
+    "Congratulations!",
+    "Cheers!",
+    "Well done!"
+   ],
+   "a": "Oh no!",
+   "x": "Sympathy."
+  },
+  {
+   "t": "choose",
+   "q": "In the end.",
+   "s": "We waited for hours, and ___ the flight took off at midnight.",
+   "o": [
+    "eventually",
+    "just as",
+    "while",
+    "firstly"
+   ],
+   "a": "eventually",
+   "x": "Eventually = in the end."
+  }
+ ],
+ "decide": []
+}

@@ -1,0 +1,475 @@
+{
+ "title": "Travel: airport and hotel",
+ "intro": "From Hazrat Shahjalal Airport to Changi, Dubai and Heathrow: check in, get through security and immigration, sort out hotel problems and find your way around.",
+ "introBn": "শাহজালাল বিমানবন্দর থেকে সিঙ্গাপুর, দুবাই বা লন্ডন: চেক-ইন, সিকিউরিটি, ইমিগ্রেশন, হোটেলের সমস্যা আর পথ খোঁজার ইংরেজি শিখুন।",
+ "units": [
+  {
+   "id": "airport",
+   "title": "At the airport: check-in to immigration",
+   "level": "A2",
+   "idea": "Airport English is mostly short questions and short, clear answers. Answer exactly what is asked, use full sentences, and keep your documents ready.",
+   "ideaBn": "এয়ারপোর্টে প্রশ্ন ছোট, উত্তরও ছোট ও পরিষ্কার হওয়া উচিত। যা জিজ্ঞেস করা হয় ঠিক তার উত্তর দিন।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Check-in",
+     "pos": "I'd like to check in for the flight to Singapore. · Can I have a window seat, please?",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Security",
+     "pos": "Do I need to take my laptop out? · Shall I take off my shoes?",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Immigration",
+     "pos": "I'm here on holiday / for a conference. · I'm staying for ten days. · I'm staying at…",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Purpose of visit: I'm here for/on…",
+     "bn": "উদ্দেশ্য বলতে I'm here for a conference / on holiday।",
+     "ex": "I'm here on business. I'm attending a trade fair in Dubai."
+    },
+    {
+     "rule": "How long: I'm staying for + period.",
+     "bn": "কতদিন: for + সময়।",
+     "ex": "I'm staying for two weeks."
+    },
+    {
+     "rule": "Where: I'm staying at + hotel / with + person.",
+     "bn": "কোথায়: at হোটেল, with আত্মীয়।",
+     "ex": "I'm staying with my cousin in Manchester."
+    },
+    {
+     "rule": "Ask politely at check-in with 'Could I…?'",
+     "bn": "অনুরোধে Could I…?",
+     "ex": "Could I have an aisle seat, please?"
+    },
+    {
+     "rule": "Baggage words: checked bag, carry-on/hand luggage, boarding pass, gate.",
+     "bn": "লাগেজের শব্দগুলো চিনে রাখুন।",
+     "ex": "How many checked bags do you have? Just one, and this carry-on."
+    }
+   ],
+   "signals": [
+    "boarding pass",
+    "purpose of your visit",
+    "I'm staying for",
+    "carry-on",
+    "gate",
+    "return ticket"
+   ],
+   "traps": [
+    {
+     "wrong": "I am come for visit.",
+     "right": "I'm here on holiday. / I'm here to visit family.",
+     "why": "'Am come' is not a tense.",
+     "bn": "am come ভুল; I'm here to visit… বলুন।"
+    },
+    {
+     "wrong": "I will stay since 10 days.",
+     "right": "I'm staying for ten days.",
+     "why": "Use 'for' with a period; 'since' needs a starting point.",
+     "bn": "সময়কাল বোঝাতে for, since নয়।"
+    },
+    {
+     "wrong": "I am staying in my uncle.",
+     "right": "I'm staying with my uncle.",
+     "why": "With a person, at/in a place.",
+     "bn": "মানুষের সাথে with।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Immigration officer: \"What's the purpose of your visit?\"",
+     "s": "I'm here ___ holiday.",
+     "o": [
+      "on",
+      "for",
+      "in",
+      "at"
+     ],
+     "a": "on",
+     "x": "On holiday / on business."
+    },
+    {
+     "t": "choose",
+     "q": "\"How long are you staying?\"",
+     "s": "I'm staying ___ two weeks.",
+     "o": [
+      "for",
+      "since",
+      "during",
+      "from"
+     ],
+     "a": "for",
+     "x": "For + period."
+    },
+    {
+     "t": "type",
+     "q": "Check-in desk.",
+     "s": "Could I ___ a window seat, please?",
+     "hint": "have",
+     "a": [
+      "have",
+      "get"
+     ],
+     "x": "Could I have…?"
+    },
+    {
+     "t": "bn",
+     "q": "আমি আমার খালার বাসায় থাকব।",
+     "o": [
+      "I'm staying with my aunt.",
+      "I'm staying in my aunt.",
+      "I will stay at aunt.",
+      "I stay my aunt's with."
+     ],
+     "a": "I'm staying with my aunt.",
+     "x": "Staying with + person."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the best answer: \"Do you have anything to declare?\"",
+     "o": [
+      "No, I have nothing to declare.",
+      "No declare.",
+      "Nothing I have.",
+      "No, I am not declaring nothing."
+     ],
+     "a": "No, I have nothing to declare.",
+     "x": "Clear full answer; no double negative."
+    },
+    {
+     "t": "choose",
+     "q": "Security.",
+     "s": "Do I need to take my laptop ___ of the bag?",
+     "o": [
+      "out",
+      "off",
+      "away",
+      "up"
+     ],
+     "a": "out",
+     "x": "Take something out of a bag."
+    },
+    {
+     "t": "type",
+     "q": "Gate announcement.",
+     "s": "Flight EK 583 to Dubai is now ___ at gate 12.",
+     "hint": "board",
+     "a": [
+      "boarding"
+     ],
+     "x": "Is now boarding."
+    },
+    {
+     "t": "fix",
+     "q": "Officer in London: \"Where are you staying?\" Pick the best answer.",
+     "o": [
+      "At the Premier Inn near King's Cross, for five nights.",
+      "In hotel.",
+      "I am staying since Monday.",
+      "Hotel is booked, don't worry."
+     ],
+     "a": "At the Premier Inn near King's Cross, for five nights.",
+     "x": "Specific: name, place, length.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Missed connection in Singapore.",
+     "s": "I've missed my connecting flight. Could you ___ me on the next one?",
+     "o": [
+      "put",
+      "make",
+      "give",
+      "do"
+     ],
+     "a": "put",
+     "x": "Put someone on a flight.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "hotel",
+   "title": "Hotel, directions and transport",
+   "level": "B1",
+   "idea": "At the hotel and in the street you make requests, report problems and ask for directions. Use polite question forms and simple, clear descriptions of the problem.",
+   "ideaBn": "হোটেলে আর রাস্তায় আপনাকে অনুরোধ, সমস্যা জানানো আর পথ জিজ্ঞেস করতে হয়। ভদ্র প্রশ্ন আর সহজ বর্ণনা ব্যবহার করুন।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Booking",
+     "pos": "I have a reservation under the name… · I'd like to book a double room for three nights.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Problems",
+     "pos": "The air conditioning isn't working. · There's no hot water in my room.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Directions & taxis",
+     "pos": "Excuse me, could you tell me how to get to…? · How much is it to the airport? · Could you drop me here?",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Check in: I have a reservation under (name).",
+     "bn": "বুকিং বলতে under + নাম।",
+     "ex": "Hi, I have a reservation under Rafi Ahmed."
+    },
+    {
+     "rule": "Report problems with 'isn't working' or 'There's no…'.",
+     "bn": "সমস্যা জানাতে isn't working / There's no…",
+     "ex": "The Wi-Fi in room 304 isn't working."
+    },
+    {
+     "rule": "Indirect questions for directions: no inversion after 'Could you tell me'.",
+     "bn": "Could you tell me এর পর সাধারণ ক্রম।",
+     "ex": "Could you tell me where the metro station is?"
+    },
+    {
+     "rule": "Transport: take a taxi/bus/the metro; get on/off a bus; get in/out of a taxi.",
+     "bn": "বাস/ট্রেনে on/off, ট্যাক্সিতে in/out।",
+     "ex": "Get off at the third stop, then take a taxi."
+    },
+    {
+     "rule": "Ask the price before the ride.",
+     "bn": "আগে দাম জিজ্ঞেস করুন।",
+     "ex": "How much would it be to Dubai Mall?"
+    }
+   ],
+   "signals": [
+    "reservation under",
+    "isn't working",
+    "Could you tell me where…",
+    "get off at",
+    "How much is it to…?",
+    "check out"
+   ],
+   "traps": [
+    {
+     "wrong": "Could you tell me where is the station?",
+     "right": "Could you tell me where the station is?",
+     "why": "Indirect question: subject before verb.",
+     "bn": "পরোক্ষ প্রশ্নে is শেষে যায়।"
+    },
+    {
+     "wrong": "The AC is not running properly since yesterday.",
+     "right": "The AC hasn't been working properly since yesterday.",
+     "why": "'Since' needs present perfect.",
+     "bn": "since থাকলে present perfect।"
+    },
+    {
+     "wrong": "I want to go airport.",
+     "right": "I'd like to go to the airport, please.",
+     "why": "Need 'to the'; 'I'd like' is politer.",
+     "bn": "go to the airport; to the বাদ দেবেন না।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Hotel reception in Dubai.",
+     "s": "Hi, I have a reservation ___ the name Rafi Ahmed.",
+     "o": [
+      "under",
+      "in",
+      "with",
+      "by"
+     ],
+     "a": "under",
+     "x": "Reservation under a name."
+    },
+    {
+     "t": "type",
+     "q": "Reporting a problem.",
+     "s": "The shower ___ working. Could someone check it?",
+     "hint": "be (negative)",
+     "a": [
+      "isn't",
+      "is not"
+     ],
+     "x": "Isn't working."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct question.",
+     "o": [
+      "Could you tell me where is the bus stop?",
+      "Could you tell me where the bus stop is?",
+      "Could you tell me where does the bus stop?",
+      "Where the bus stop is, could you tell?"
+     ],
+     "a": "Could you tell me where the bus stop is?",
+     "x": "Indirect question word order."
+    },
+    {
+     "t": "choose",
+     "q": "Bus in Singapore.",
+     "s": "Get ___ at the next stop for Orchard Road.",
+     "o": [
+      "off",
+      "out",
+      "down",
+      "away"
+     ],
+     "a": "off",
+     "x": "Get off a bus."
+    },
+    {
+     "t": "bn",
+     "q": "এয়ারপোর্ট পর্যন্ত কত পড়বে?",
+     "o": [
+      "How much is it to the airport?",
+      "How much to go airport is?",
+      "What is cost airport?",
+      "How many is it to the airport?"
+     ],
+     "a": "How much is it to the airport?",
+     "x": "How much is it to…?"
+    },
+    {
+     "t": "choose",
+     "q": "Taxi.",
+     "s": "Could you drop me ___ the main entrance, please?",
+     "o": [
+      "at",
+      "in",
+      "to",
+      "on"
+     ],
+     "a": "at",
+     "x": "Drop someone at a point."
+    },
+    {
+     "t": "type",
+     "q": "Leaving the hotel.",
+     "s": "What time do we need to ___ out?",
+     "hint": "check",
+     "a": [
+      "check"
+     ],
+     "x": "Check out."
+    },
+    {
+     "t": "choose",
+     "q": "Complaint at the front desk.",
+     "s": "The air conditioning ___ working since we arrived.",
+     "o": [
+      "hasn't been",
+      "isn't",
+      "wasn't being",
+      "doesn't"
+     ],
+     "a": "hasn't been",
+     "x": "Since + present perfect continuous.",
+     "lv": "adv"
+    },
+    {
+     "t": "fix",
+     "q": "Pick the most polite request to reception.",
+     "o": [
+      "Change my room now.",
+      "I want another room, this one is bad.",
+      "I'm afraid my room is very noisy. Would it be possible to move to a quieter one?",
+      "Give me quiet room."
+     ],
+     "a": "I'm afraid my room is very noisy. Would it be possible to move to a quieter one?",
+     "x": "Problem + polite request.",
+     "lv": "adv"
+    }
+   ]
+  }
+ ],
+ "mastery": [
+  {
+   "t": "choose",
+   "q": "Immigration.",
+   "s": "\"How long are you staying?\" \"___ about a week.\"",
+   "o": [
+    "For",
+    "Since",
+    "During",
+    "In"
+   ],
+   "a": "For",
+   "x": "For + period."
+  },
+  {
+   "t": "type",
+   "q": "Purpose of visit.",
+   "s": "I'm here ___ business. I have meetings in Singapore.",
+   "hint": "preposition",
+   "a": [
+    "on"
+   ],
+   "x": "On business."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "Could you tell me how I can get to the metro?",
+    "Could you tell me how can I get to the metro?",
+    "Could you tell how I get metro?",
+    "Tell me how get to metro?"
+   ],
+   "a": "Could you tell me how I can get to the metro?",
+   "x": "Indirect question order."
+  },
+  {
+   "t": "bn",
+   "q": "আমার রুমে গরম পানি নেই।",
+   "o": [
+    "There's no hot water in my room.",
+    "My room has not hot water.",
+    "Hot water is not have my room.",
+    "There isn't hot water to my room."
+   ],
+   "a": "There's no hot water in my room.",
+   "x": "There's no…"
+  },
+  {
+   "t": "choose",
+   "q": "Taxi.",
+   "s": "Could you ___ me at the hotel, please?",
+   "o": [
+    "drop",
+    "fall",
+    "leave down",
+    "put off"
+   ],
+   "a": "drop",
+   "x": "Drop someone (off) at."
+  },
+  {
+   "t": "choose",
+   "q": "Check-in.",
+   "s": "Can I have an ___ seat, please?",
+   "o": [
+    "aisle",
+    "isle",
+    "ail",
+    "aile"
+   ],
+   "a": "aisle",
+   "x": "Aisle seat (silent s)."
+  }
+ ],
+ "decide": []
+}

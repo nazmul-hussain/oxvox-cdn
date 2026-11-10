@@ -1,0 +1,677 @@
+{
+ "title": "Gerunds and infinitives",
+ "intro": "Should it be 'to do' or 'doing'? Bangla doesn't make this choice, so learners often guess. Learn which verbs take which form, the verbs that change meaning, and why prepositions always take -ing.",
+ "introBn": "'to do' না 'doing'? কোন verb-এর পরে কোনটা বসে, আর কোথায় অর্থ বদলায়, তা শিখুন।",
+ "units": [
+  {
+   "id": "verbing",
+   "title": "Verb + -ing or verb + to",
+   "level": "B1",
+   "idea": "Some verbs are followed by -ing (enjoy, avoid, finish, mind, suggest), others by to + base form (want, decide, hope, plan, agree). Learn them in pairs with the verb.",
+   "ideaBn": "কিছু verb-এর পরে -ing বসে (enjoy, avoid, finish), আর কিছু verb-এর পরে to + verb (want, decide, plan)। verb দেখে মুখস্থ করুন।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Verb + -ing",
+     "pos": "enjoy / avoid / finish / mind / suggest / keep + doing",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Verb + to",
+     "pos": "want / decide / hope / plan / agree / refuse / afford + to do",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Verb + object + to",
+     "pos": "ask / tell / want / expect + someone + to do",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Likes, avoiding and finishing usually take -ing.",
+     "bn": "enjoy, avoid, finish, mind-এর পরে -ing।",
+     "ex": "I enjoy working with this team."
+    },
+    {
+     "rule": "Plans, wishes and decisions usually take to.",
+     "bn": "ইচ্ছা, পরিকল্পনা, সিদ্ধান্তে to + verb।",
+     "ex": "Rafi decided to rent a flat in Mirpur."
+    },
+    {
+     "rule": "Suggest takes -ing or a that-clause, never an object + to.",
+     "bn": "suggest + someone + to ভুল।",
+     "ex": "She suggested meeting on Sunday."
+    },
+    {
+     "rule": "Would you mind + -ing is a polite request.",
+     "bn": "ভদ্র অনুরোধ: Would you mind + -ing?",
+     "ex": "Would you mind closing the window?"
+    },
+    {
+     "rule": "Want / ask / expect + person + to.",
+     "bn": "কাউকে কিছু করতে বলা: person + to।",
+     "ex": "My boss wants me to finish the report today."
+    }
+   ],
+   "signals": [
+    "enjoy",
+    "avoid",
+    "decide",
+    "suggest",
+    "mind",
+    "afford"
+   ],
+   "traps": [
+    {
+     "wrong": "I enjoy to work here.",
+     "right": "I enjoy working here.",
+     "why": "Enjoy is followed by -ing.",
+     "bn": "enjoy-এর পরে -ing।"
+    },
+    {
+     "wrong": "He suggested me to apply.",
+     "right": "He suggested that I apply. / He suggested applying.",
+     "why": "Suggest does not take object + to.",
+     "bn": "suggest + person + to হয় না।"
+    },
+    {
+     "wrong": "I want that you come.",
+     "right": "I want you to come.",
+     "why": "Want + person + to, not a that-clause.",
+     "bn": "want-এর পরে that-clause নয়।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Talking about your job.",
+     "s": "I really enjoy ___ with clients.",
+     "o": [
+      "working",
+      "to work",
+      "work",
+      "worked"
+     ],
+     "a": "working",
+     "x": "Enjoy + -ing."
+    },
+    {
+     "t": "choose",
+     "q": "Rafi's plans.",
+     "s": "Rafi hopes ___ a promotion next year.",
+     "o": [
+      "to get",
+      "getting",
+      "get",
+      "for getting"
+     ],
+     "a": "to get",
+     "x": "Hope + to."
+    },
+    {
+     "t": "type",
+     "q": "A polite request in the office.",
+     "s": "Would you mind ___ (send) me the file again?",
+     "hint": "send",
+     "a": [
+      "sending"
+     ],
+     "x": "Would you mind + -ing."
+    },
+    {
+     "t": "type",
+     "q": "Money talk.",
+     "s": "We can't afford ___ (buy) a car this year.",
+     "hint": "buy",
+     "a": [
+      "to buy"
+     ],
+     "x": "Afford + to."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "My manager suggested me to take a break.",
+      "My manager suggested taking a break.",
+      "My manager suggested to take a break.",
+      "My manager suggested take a break."
+     ],
+     "a": "My manager suggested taking a break.",
+     "x": "Suggest + -ing."
+    },
+    {
+     "t": "bn",
+     "q": "আম্মা চান আমি তাড়াতাড়ি বাসায় ফিরি।",
+     "o": [
+      "My mother wants me to come home early.",
+      "My mother wants that I come home early.",
+      "My mother wants me coming home early.",
+      "My mother wants I come home early."
+     ],
+     "a": "My mother wants me to come home early.",
+     "x": "Want + person + to."
+    },
+    {
+     "t": "choose",
+     "q": "Traffic in Dhaka.",
+     "s": "I try to avoid ___ during rush hour.",
+     "o": [
+      "travelling",
+      "to travel",
+      "travel",
+      "travelled"
+     ],
+     "a": "travelling",
+     "x": "Avoid + -ing."
+    },
+    {
+     "t": "choose",
+     "q": "A tough client.",
+     "s": "The client refused ___ the extra charge.",
+     "o": [
+      "to pay",
+      "paying",
+      "pay",
+      "for paying"
+     ],
+     "a": "to pay",
+     "x": "Refuse + to.",
+     "lv": "adv"
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "Have you finished to write the proposal?",
+      "Have you finished writing the proposal?",
+      "Have you finished write the proposal?",
+      "Have you finished for writing the proposal?"
+     ],
+     "a": "Have you finished writing the proposal?",
+     "x": "Finish + -ing.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "meaning",
+   "title": "Stop, remember, try: meaning changes",
+   "level": "B2",
+   "idea": "A few verbs take both forms with different meanings. Remember / forget + to = a duty still to do; + -ing = a memory of the past. Stop + -ing = quit the action; stop + to = pause in order to do something. Try + to = make an effort; try + -ing = test a method.",
+   "ideaBn": "stop, remember, forget, try-এর পরে -ing আর to দুটোই বসে, কিন্তু অর্থ বদলে যায়।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Remember / forget",
+     "pos": "+ to do = a task to do · + doing = a past memory",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Stop",
+     "pos": "+ doing = quit · + to do = stop in order to do",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Try",
+     "pos": "+ to do = attempt something hard · + doing = experiment",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Remember to = don't forget a task.",
+     "bn": "কাজটা করতে মনে রাখা।",
+     "ex": "Remember to lock the door when you leave."
+    },
+    {
+     "rule": "Remember + -ing = a memory.",
+     "bn": "অতীতের স্মৃতি।",
+     "ex": "I remember meeting him at the Rajshahi fair."
+    },
+    {
+     "rule": "Stop + -ing = quit.",
+     "bn": "কাজটা বন্ধ করা।",
+     "ex": "He stopped smoking last year."
+    },
+    {
+     "rule": "Stop + to = pause in order to do.",
+     "bn": "কিছু করার জন্য থামা।",
+     "ex": "We stopped to buy tea on the highway."
+    },
+    {
+     "rule": "Try + -ing = test a solution.",
+     "bn": "উপায় হিসেবে চেষ্টা করে দেখা।",
+     "ex": "If the laptop freezes, try restarting it."
+    }
+   ],
+   "signals": [
+    "remember",
+    "forget",
+    "stop",
+    "try",
+    "regret"
+   ],
+   "traps": [
+    {
+     "wrong": "Remember locking the office tonight.",
+     "right": "Remember to lock the office tonight.",
+     "why": "A future duty needs to.",
+     "bn": "ভবিষ্যতের কাজ = to।"
+    },
+    {
+     "wrong": "We stopped drinking tea at a stall on the way.",
+     "right": "We stopped to drink tea at a stall on the way.",
+     "why": "Pausing a journey in order to drink needs to.",
+     "bn": "কিছু করার জন্য থামলে to।"
+    },
+    {
+     "wrong": "I'll never forget to see the sea for the first time.",
+     "right": "I'll never forget seeing the sea for the first time.",
+     "why": "A memory needs -ing.",
+     "bn": "স্মৃতি = -ing।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Leaving the office.",
+     "s": "Please remember ___ the lights before you go.",
+     "o": [
+      "to switch off",
+      "switching off",
+      "switch off",
+      "switched off"
+     ],
+     "a": "to switch off",
+     "x": "A task still to do."
+    },
+    {
+     "t": "choose",
+     "q": "Old memories.",
+     "s": "I remember ___ to Cox's Bazar with my family as a child.",
+     "o": [
+      "going",
+      "to go",
+      "go",
+      "gone"
+     ],
+     "a": "going",
+     "x": "A past memory."
+    },
+    {
+     "t": "type",
+     "q": "Health.",
+     "s": "My father stopped ___ (eat) sweets after his check-up.",
+     "hint": "eat",
+     "a": [
+      "eating"
+     ],
+     "x": "Quit the habit: stop + -ing."
+    },
+    {
+     "t": "type",
+     "q": "A road trip.",
+     "s": "On the way to Sylhet, we stopped ___ (have) lunch.",
+     "hint": "have",
+     "a": [
+      "to have"
+     ],
+     "x": "Pause in order to do: stop + to."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "The Wi-Fi is down. Try to restarting the router.",
+      "The Wi-Fi is down. Try restarting the router.",
+      "The Wi-Fi is down. Try restart the router.",
+      "The Wi-Fi is down. Try for restarting the router."
+     ],
+     "a": "The Wi-Fi is down. Try restarting the router.",
+     "x": "Testing a solution: try + -ing."
+    },
+    {
+     "t": "bn",
+     "q": "আমি ওকে ফোন করতে ভুলে গেছি।",
+     "o": [
+      "I forgot to call him.",
+      "I forgot calling him.",
+      "I forgot call him.",
+      "I forgot for calling him."
+     ],
+     "a": "I forgot to call him.",
+     "x": "Forgot the task: forget + to."
+    },
+    {
+     "t": "choose",
+     "q": "A hard task.",
+     "s": "I tried ___ the file, but it was too large.",
+     "o": [
+      "to open",
+      "opening",
+      "open",
+      "opened"
+     ],
+     "a": "to open",
+     "x": "An attempt that failed: try + to.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "A formal apology.",
+     "s": "We regret ___ you that your application was unsuccessful.",
+     "o": [
+      "to inform",
+      "informing",
+      "inform",
+      "informed"
+     ],
+     "a": "to inform",
+     "x": "Regret + to = sorry to say now.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "preping",
+   "title": "Preposition + -ing",
+   "level": "B2",
+   "idea": "After a preposition, a verb takes the -ing form. This includes 'to' when it is a preposition: look forward to, be used to, object to.",
+   "ideaBn": "preposition-এর পরে verb এলে -ing হয়। look forward to, be used to-তে to একটা preposition, তাই পরে -ing।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Preposition + -ing",
+     "pos": "interested in / good at / before / after / without / instead of + doing",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "to as a preposition",
+     "pos": "look forward to / be used to / get used to / object to + doing",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "After in, at, of, about, for, without: -ing.",
+     "bn": "preposition-এর পরে -ing।",
+     "ex": "She's good at handling difficult clients."
+    },
+    {
+     "rule": "Before / after + -ing.",
+     "bn": "আগে/পরে + -ing।",
+     "ex": "Check the figures before sending the report."
+    },
+    {
+     "rule": "Look forward to + -ing.",
+     "bn": "অপেক্ষায় থাকা: to + -ing।",
+     "ex": "I look forward to hearing from you."
+    },
+    {
+     "rule": "Be / get used to + -ing = be familiar with.",
+     "bn": "অভ্যস্ত হওয়া।",
+     "ex": "Rafi is getting used to living alone in Dhaka."
+    },
+    {
+     "rule": "Used to + base = past habit (different structure).",
+     "bn": "অতীত অভ্যাস: used to + base।",
+     "ex": "I used to live in Rajshahi."
+    }
+   ],
+   "signals": [
+    "look forward to",
+    "be used to",
+    "instead of",
+    "without",
+    "interested in"
+   ],
+   "traps": [
+    {
+     "wrong": "I look forward to meet you.",
+     "right": "I look forward to meeting you.",
+     "why": "To is a preposition here.",
+     "bn": "এখানে to preposition, তাই -ing।"
+    },
+    {
+     "wrong": "He left without say goodbye.",
+     "right": "He left without saying goodbye.",
+     "why": "Without + -ing.",
+     "bn": "without-এর পরে -ing।"
+    },
+    {
+     "wrong": "I am used to wake up early.",
+     "right": "I am used to waking up early.",
+     "why": "Be used to + -ing.",
+     "bn": "be used to + -ing।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Ending an email.",
+     "s": "I look forward to ___ from you.",
+     "o": [
+      "hearing",
+      "hear",
+      "heard",
+      "be hearing"
+     ],
+     "a": "hearing",
+     "x": "Look forward to + -ing."
+    },
+    {
+     "t": "choose",
+     "q": "A job interview.",
+     "s": "I'm interested in ___ more about this role.",
+     "o": [
+      "learning",
+      "to learn",
+      "learn",
+      "learnt"
+     ],
+     "a": "learning",
+     "x": "In + -ing."
+    },
+    {
+     "t": "type",
+     "q": "Office advice.",
+     "s": "Always read the contract before ___ (sign) it.",
+     "hint": "sign",
+     "a": [
+      "signing"
+     ],
+     "x": "Before + -ing."
+    },
+    {
+     "t": "type",
+     "q": "Rafi's new life.",
+     "s": "After six months, Rafi is used to ___ (take) the bus to Gulshan.",
+     "hint": "take",
+     "a": [
+      "taking"
+     ],
+     "x": "Be used to + -ing."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "Instead of call, she sent a message.",
+      "Instead of calling, she sent a message.",
+      "Instead of to call, she sent a message.",
+      "Instead to calling, she sent a message."
+     ],
+     "a": "Instead of calling, she sent a message.",
+     "x": "Instead of + -ing."
+    },
+    {
+     "t": "bn",
+     "q": "আমি আগে রাজশাহীতে থাকতাম।",
+     "o": [
+      "I used to live in Rajshahi.",
+      "I am used to living in Rajshahi.",
+      "I used to living in Rajshahi.",
+      "I was used to live in Rajshahi."
+     ],
+     "a": "I used to live in Rajshahi.",
+     "x": "Past habit: used to + base."
+    },
+    {
+     "t": "choose",
+     "q": "A meeting.",
+     "s": "Does anyone object to ___ the meeting to Thursday?",
+     "o": [
+      "moving",
+      "move",
+      "moved",
+      "have moved"
+     ],
+     "a": "moving",
+     "x": "Object to + -ing.",
+     "lv": "adv"
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "Thank you for help me with the slides.",
+      "Thank you for helping me with the slides.",
+      "Thank you to help me with the slides.",
+      "Thank you for to help me with the slides."
+     ],
+     "a": "Thank you for helping me with the slides.",
+     "x": "For + -ing.",
+     "lv": "adv"
+    }
+   ]
+  }
+ ],
+ "mastery": [
+  {
+   "t": "choose",
+   "q": "Ending a cover letter.",
+   "s": "I look forward to ___ the opportunity to discuss my application.",
+   "o": [
+    "having",
+    "have",
+    "had",
+    "be having"
+   ],
+   "a": "having",
+   "x": "Look forward to + -ing."
+  },
+  {
+   "t": "choose",
+   "q": "A colleague's habit.",
+   "s": "He keeps ___ late to meetings.",
+   "o": [
+    "coming",
+    "to come",
+    "come",
+    "came"
+   ],
+   "a": "coming",
+   "x": "Keep + -ing."
+  },
+  {
+   "t": "type",
+   "q": "Travel plans.",
+   "s": "We've decided ___ (fly) to Chattogram instead of taking the bus.",
+   "hint": "fly",
+   "a": [
+    "to fly"
+   ],
+   "x": "Decide + to."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "Don't forget sending the invoice today.",
+    "Don't forget to send the invoice today.",
+    "Don't forget send the invoice today.",
+    "Don't forget for sending the invoice today."
+   ],
+   "a": "Don't forget to send the invoice today.",
+   "x": "A task: forget + to."
+  },
+  {
+   "t": "bn",
+   "q": "সে আমাকে রিপোর্টটা দেখতে বলেছে।",
+   "o": [
+    "She asked me to check the report.",
+    "She asked me checking the report.",
+    "She asked that I to check the report.",
+    "She asked me for check the report."
+   ],
+   "a": "She asked me to check the report.",
+   "x": "Ask + person + to."
+  },
+  {
+   "t": "choose",
+   "q": "Fixing a problem.",
+   "s": "If the app crashes, try ___ the cache.",
+   "o": [
+    "clearing",
+    "to clear",
+    "clear",
+    "cleared"
+   ],
+   "a": "clearing",
+   "x": "Test a solution: try + -ing.",
+   "lv": "adv"
+  },
+  {
+   "t": "choose",
+   "q": "Health.",
+   "s": "My uncle has stopped ___ since his heart surgery.",
+   "o": [
+    "smoking",
+    "to smoke",
+    "smoke",
+    "smoked"
+   ],
+   "a": "smoking",
+   "x": "Quit: stop + -ing."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "She's good at to explain things.",
+    "She's good at explaining things.",
+    "She's good in explain things.",
+    "She's good at explain things."
+   ],
+   "a": "She's good at explaining things.",
+   "x": "Preposition + -ing."
+  }
+ ],
+ "decide": [
+  {
+   "q": "Is the verb straight after a preposition (in, at, for, without, look forward to)?",
+   "yes": "Use -ing.",
+   "no": "Go on."
+  },
+  {
+   "q": "Is it stop, remember, forget or try?",
+   "yes": "Decide the meaning: task or attempt = to; memory, quitting or testing = -ing.",
+   "no": "Go on."
+  },
+  {
+   "q": "Is it a verb of liking, avoiding or finishing (enjoy, avoid, mind, finish, suggest, keep)?",
+   "yes": "Use -ing.",
+   "no": "Plans, wishes and decisions (want, decide, hope, plan, refuse): to + base."
+  }
+ ]
+}

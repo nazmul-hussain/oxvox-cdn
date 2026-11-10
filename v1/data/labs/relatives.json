@@ -1,0 +1,656 @@
+{
+ "title": "Relative clauses and comparisons",
+ "intro": "Join ideas smoothly with who, which, that, whose and where, use commas correctly, and compare people, places and plans like a fluent speaker.",
+ "introBn": "who, which, whose, where দিয়ে বাক্য জোড়া লাগানো, কমার সঠিক ব্যবহার, আর তুলনা করার নিয়ম শিখুন।",
+ "units": [
+  {
+   "id": "relwords",
+   "title": "Who, which, that, whose, where",
+   "level": "B1",
+   "idea": "A relative clause adds information about a noun. Use who for people, which for things, that for either (in defining clauses), whose for possession and where for places.",
+   "ideaBn": "relative clause দিয়ে noun সম্পর্কে তথ্য যোগ হয়। মানুষ = who, জিনিস = which, দুটোই = that, যার = whose, যেখানে = where।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "People / things",
+     "pos": "the client who called · the laptop which / that I bought",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Possession / place",
+     "pos": "the colleague whose father is ill · the café where we met",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Who for people.",
+     "bn": "মানুষের জন্য who।",
+     "ex": "The man who interviewed me was very kind."
+    },
+    {
+     "rule": "Which or that for things.",
+     "bn": "জিনিসের জন্য which বা that।",
+     "ex": "The phone that I bought last week has stopped working."
+    },
+    {
+     "rule": "Whose = his / her / their / its.",
+     "bn": "যার, যাদের।",
+     "ex": "Rafi has a flatmate whose brother works at a bank."
+    },
+    {
+     "rule": "Where for places (= in which).",
+     "bn": "জায়গার জন্য where।",
+     "ex": "This is the restaurant where we had our office party."
+    },
+    {
+     "rule": "Drop who/which/that when it is the object.",
+     "bn": "object হলে who/that বাদ দেওয়া যায়।",
+     "ex": "The report (that) you sent is excellent."
+    }
+   ],
+   "signals": [
+    "who",
+    "which",
+    "that",
+    "whose",
+    "where"
+   ],
+   "traps": [
+    {
+     "wrong": "The man which called you is here.",
+     "right": "The man who called you is here.",
+     "why": "People take who, not which.",
+     "bn": "মানুষ হলে who।"
+    },
+    {
+     "wrong": "The house where I live in is small.",
+     "right": "The house where I live is small. / The house I live in is small.",
+     "why": "Where already includes 'in'.",
+     "bn": "where থাকলে in লাগবে না।"
+    },
+    {
+     "wrong": "This is the book which I bought it.",
+     "right": "This is the book which I bought.",
+     "why": "Don't repeat the object pronoun.",
+     "bn": "it আবার বসাবেন না।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Describing a colleague.",
+     "s": "She's the manager ___ hired me.",
+     "o": [
+      "who",
+      "which",
+      "whose",
+      "where"
+     ],
+     "a": "who",
+     "x": "A person, subject: who."
+    },
+    {
+     "t": "choose",
+     "q": "A gadget.",
+     "s": "The printer ___ we ordered hasn't arrived.",
+     "o": [
+      "that",
+      "who",
+      "whose",
+      "where"
+     ],
+     "a": "that",
+     "x": "A thing: that or which."
+    },
+    {
+     "t": "type",
+     "q": "A new flatmate.",
+     "s": "I share a flat with a guy ___ sister is a doctor.",
+     "hint": "relative word",
+     "a": [
+      "whose"
+     ],
+     "x": "Possession: whose."
+    },
+    {
+     "t": "type",
+     "q": "Back home.",
+     "s": "Rajshahi is the city ___ I grew up.",
+     "hint": "relative word",
+     "a": [
+      "where",
+      "in which"
+     ],
+     "x": "A place: where."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "The client which complained has called again.",
+      "The client who complained has called again.",
+      "The client whose complained has called again.",
+      "The client who he complained has called again."
+     ],
+     "a": "The client who complained has called again.",
+     "x": "Person: who, no extra pronoun."
+    },
+    {
+     "t": "bn",
+     "q": "যে মেয়েটা আমার পাশে বসে, সে খুব ভালো ডিজাইনার।",
+     "o": [
+      "The girl who sits next to me is a very good designer.",
+      "The girl which sits next to me is a very good designer.",
+      "The girl who she sits next to me is a very good designer.",
+      "The girl sits next to me she is a very good designer."
+     ],
+     "a": "The girl who sits next to me is a very good designer.",
+     "x": "Who + verb, no repeated 'she'."
+    },
+    {
+     "t": "choose",
+     "q": "Office talk.",
+     "s": "That's the meeting room ___ we had the interview in.",
+     "o": [
+      "—",
+      "where",
+      "who",
+      "whose"
+     ],
+     "a": "—",
+     "x": "Object relative can be dropped; 'where' would clash with 'in'.",
+     "lv": "adv"
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "This is the app which I told you about it.",
+      "This is the app I told you about.",
+      "This is the app where I told you about.",
+      "This is the app who I told you about."
+     ],
+     "a": "This is the app I told you about.",
+     "x": "Object pronoun dropped, preposition at the end.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "commas",
+   "title": "Defining vs non-defining clauses",
+   "level": "B2",
+   "idea": "A defining clause tells us which one and has no commas. A non-defining clause adds extra information between commas; it uses who or which, never that, and you cannot drop the relative word.",
+   "ideaBn": "defining clause বলে দেয় কোনটা (কমা নেই)। non-defining clause অতিরিক্ত তথ্য দেয়, দুই পাশে কমা থাকে, আর সেখানে that বসে না।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Defining",
+     "pos": "My brother who lives in London is a doctor. (I have more than one brother.)",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Non-defining",
+     "pos": "My brother, who lives in London, is a doctor. (I have one brother.)",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Which for a whole idea",
+     "pos": ", which: He passed the exam, which surprised everyone.",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Names and unique people always take non-defining clauses.",
+     "bn": "নাম বা একমাত্র ব্যক্তির পরে কমা।",
+     "ex": "Mr Hasan, who joined last year, leads the team."
+    },
+    {
+     "rule": "No 'that' after a comma.",
+     "bn": "কমার পরে that নয়।",
+     "ex": "Dhaka, which is very crowded, is growing fast."
+    },
+    {
+     "rule": "Defining clauses have no commas.",
+     "bn": "কোনটা বোঝাতে কমা লাগে না।",
+     "ex": "The staff who work weekends get extra pay."
+    },
+    {
+     "rule": ", which can refer to a whole sentence.",
+     "bn": "পুরো বাক্যের কথা বলতে , which।",
+     "ex": "The flight was cancelled, which meant another night in Dubai."
+    },
+    {
+     "rule": "Commas change the meaning.",
+     "bn": "কমা দিলে অর্থ বদলে যায়।",
+     "ex": "The employees, who were late, were warned. (all were late)"
+    }
+   ],
+   "signals": [
+    "comma",
+    "no that",
+    "extra information",
+    "which one?"
+   ],
+   "traps": [
+    {
+     "wrong": "My mother, that is a teacher, lives in Bogura.",
+     "right": "My mother, who is a teacher, lives in Bogura.",
+     "why": "No 'that' in non-defining clauses.",
+     "bn": "কমার পরে who/which।"
+    },
+    {
+     "wrong": "Dhaka which is the capital is very busy.",
+     "right": "Dhaka, which is the capital, is very busy.",
+     "why": "A name needs commas around extra information.",
+     "bn": "নামের পরে কমা।"
+    },
+    {
+     "wrong": "He was late again, that annoyed the boss.",
+     "right": "He was late again, which annoyed the boss.",
+     "why": "A whole idea takes , which.",
+     "bn": "পুরো ঘটনার জন্য , which।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "A known person.",
+     "s": "Our CEO, ___ studied at BUET, is an engineer.",
+     "o": [
+      "who",
+      "that",
+      "which",
+      "whose"
+     ],
+     "a": "who",
+     "x": "Non-defining, person: who."
+    },
+    {
+     "t": "choose",
+     "q": "A city.",
+     "s": "Sylhet, ___ is famous for tea, is beautiful in winter.",
+     "o": [
+      "which",
+      "that",
+      "where",
+      "who"
+     ],
+     "a": "which",
+     "x": "Non-defining, thing: which."
+    },
+    {
+     "t": "type",
+     "q": "A surprise.",
+     "s": "The client paid early, ___ was a nice surprise.",
+     "hint": "relative word",
+     "a": [
+      "which"
+     ],
+     "x": "A whole idea: , which."
+    },
+    {
+     "t": "type",
+     "q": "Family.",
+     "s": "My father, ___ is retired, now grows vegetables.",
+     "hint": "relative word",
+     "a": [
+      "who"
+     ],
+     "x": "Non-defining, person: who."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "Rafi's office, that is in Gulshan, is very modern.",
+      "Rafi's office, which is in Gulshan, is very modern.",
+      "Rafi's office which is in Gulshan, is very modern.",
+      "Rafi's office, where is in Gulshan, is very modern."
+     ],
+     "a": "Rafi's office, which is in Gulshan, is very modern.",
+     "x": "Commas + which."
+    },
+    {
+     "t": "bn",
+     "q": "আমার একমাত্র বোন, যে কানাডায় থাকে, আগামী মাসে আসছে।",
+     "o": [
+      "My only sister, who lives in Canada, is coming next month.",
+      "My only sister who lives in Canada is coming next month.",
+      "My only sister, that lives in Canada, is coming next month.",
+      "My only sister, which lives in Canada, is coming next month."
+     ],
+     "a": "My only sister, who lives in Canada, is coming next month.",
+     "x": "Only one sister: commas + who."
+    },
+    {
+     "t": "fix",
+     "q": "Which sentence means only some staff got a bonus?",
+     "o": [
+      "The staff, who met the target, got a bonus.",
+      "The staff who met the target got a bonus.",
+      "The staff, that met the target, got a bonus.",
+      "The staff which met the target got a bonus."
+     ],
+     "a": "The staff who met the target got a bonus.",
+     "x": "Defining: only those who met it.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "A delay.",
+     "s": "The server went down at 3 pm, ___ meant we lost two hours.",
+     "o": [
+      "which",
+      "that",
+      "what",
+      "who"
+     ],
+     "a": "which",
+     "x": "Whole idea: , which (not what).",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "compare",
+   "title": "Comparisons: -er, most, as...as, the more",
+   "level": "B1",
+   "idea": "Short adjectives add -er / -est; longer ones use more / most. Use as + adjective + as for equality, not as...as for less, and 'the + comparative, the + comparative' to show two things changing together.",
+   "ideaBn": "ছোট adjective-এ -er/-est, বড়টায় more/most। সমান বোঝাতে as...as। 'যত বেশি... তত বেশি' = the more..., the more...।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Comparative / superlative",
+     "pos": "cheap → cheaper → the cheapest · expensive → more expensive → the most expensive",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Equality",
+     "pos": "as + adjective + as: as busy as Dhaka · not as fast as",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Double comparative",
+     "pos": "The sooner we start, the sooner we finish.",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Than after comparatives, never 'from'.",
+     "bn": "comparative-এর পরে than, from নয়।",
+     "ex": "Chattogram is smaller than Dhaka."
+    },
+    {
+     "rule": "Never double: more better is wrong.",
+     "bn": "more + -er একসাথে নয়।",
+     "ex": "This plan is better."
+    },
+    {
+     "rule": "Superlative + the + in / of.",
+     "bn": "সর্বোচ্চ = the + -est।",
+     "ex": "It's the busiest road in the city."
+    },
+    {
+     "rule": "Not as...as = less.",
+     "bn": "কম বোঝাতে not as...as।",
+     "ex": "The bus is not as fast as the metro."
+    },
+    {
+     "rule": "The more..., the more...",
+     "bn": "যত... তত...।",
+     "ex": "The more you practise, the more confident you become."
+    }
+   ],
+   "signals": [
+    "than",
+    "the most",
+    "as ... as",
+    "the more ... the more",
+    "irregular: good, bad, far"
+   ],
+   "traps": [
+    {
+     "wrong": "Dhaka is bigger from Rajshahi.",
+     "right": "Dhaka is bigger than Rajshahi.",
+     "why": "Than, not from.",
+     "bn": "থেকে = than।"
+    },
+    {
+     "wrong": "This laptop is more better.",
+     "right": "This laptop is better.",
+     "why": "Better is already comparative.",
+     "bn": "more better ভুল।"
+    },
+    {
+     "wrong": "More you work, more you earn.",
+     "right": "The more you work, the more you earn.",
+     "why": "Both halves need the.",
+     "bn": "দুই অংশেই the।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Comparing cities.",
+     "s": "Living in Dhaka is more expensive ___ living in Rajshahi.",
+     "o": [
+      "than",
+      "from",
+      "to",
+      "as"
+     ],
+     "a": "than",
+     "x": "Comparative + than."
+    },
+    {
+     "t": "choose",
+     "q": "The traffic.",
+     "s": "This is ___ road in the whole city.",
+     "o": [
+      "the busiest",
+      "the most busy",
+      "busiest",
+      "the busier"
+     ],
+     "a": "the busiest",
+     "x": "Short adjective: the -est."
+    },
+    {
+     "t": "type",
+     "q": "Transport.",
+     "s": "The bus isn't as fast ___ the metro rail.",
+     "hint": "one word",
+     "a": [
+      "as"
+     ],
+     "x": "Not as ... as."
+    },
+    {
+     "t": "type",
+     "q": "Work advice.",
+     "s": "The earlier you start, ___ better the result.",
+     "hint": "one word",
+     "a": [
+      "the"
+     ],
+     "x": "The + comparative, the + comparative."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "Her presentation was more better than mine.",
+      "Her presentation was better than mine.",
+      "Her presentation was more good than mine.",
+      "Her presentation was better from mine."
+     ],
+     "a": "Her presentation was better than mine.",
+     "x": "Good → better; than."
+    },
+    {
+     "t": "bn",
+     "q": "ঢাকায় যত বেশি থাকি, তত বেশি ভালো লাগে।",
+     "o": [
+      "The longer I live in Dhaka, the more I like it.",
+      "More I live in Dhaka, more I like it.",
+      "The longer I live in Dhaka, more I like it.",
+      "Longer I live in Dhaka, the more I like it."
+     ],
+     "a": "The longer I live in Dhaka, the more I like it.",
+     "x": "Both halves: the + comparative."
+    },
+    {
+     "t": "choose",
+     "q": "Rafi's two jobs.",
+     "s": "His new job is ___ his old one: same salary, same hours.",
+     "o": [
+      "as good as",
+      "as better as",
+      "so good than",
+      "good as"
+     ],
+     "a": "as good as",
+     "x": "Equality: as + adjective + as.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "A bad week.",
+     "s": "This is the ___ week I've had all year.",
+     "o": [
+      "worst",
+      "baddest",
+      "most bad",
+      "worse"
+     ],
+     "a": "worst",
+     "x": "Bad → worse → worst.",
+     "lv": "adv"
+    }
+   ]
+  }
+ ],
+ "mastery": [
+  {
+   "t": "choose",
+   "q": "Describing a colleague.",
+   "s": "I work with someone ___ husband is a pilot.",
+   "o": [
+    "whose",
+    "who",
+    "who's",
+    "which"
+   ],
+   "a": "whose",
+   "x": "Possession: whose."
+  },
+  {
+   "t": "choose",
+   "q": "A holiday.",
+   "s": "Cox's Bazar, ___ has the longest natural sea beach, is always busy.",
+   "o": [
+    "which",
+    "that",
+    "where",
+    "who"
+   ],
+   "a": "which",
+   "x": "Non-defining: commas + which."
+  },
+  {
+   "t": "type",
+   "q": "A memory.",
+   "s": "That's the café ___ I first met my wife.",
+   "hint": "relative word",
+   "a": [
+    "where",
+    "at which"
+   ],
+   "x": "Place: where."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "Our manager, that is from Khulna, is very calm.",
+    "Our manager, who is from Khulna, is very calm.",
+    "Our manager who is from Khulna, is very calm.",
+    "Our manager, which is from Khulna, is very calm."
+   ],
+   "a": "Our manager, who is from Khulna, is very calm.",
+   "x": "Commas + who."
+  },
+  {
+   "t": "bn",
+   "q": "এটা আমার দেখা সবচেয়ে সুন্দর জায়গা।",
+   "o": [
+    "This is the most beautiful place I have ever seen.",
+    "This is the beautifulest place I have ever seen.",
+    "This is more beautiful place I have ever seen.",
+    "This is the most beautiful place which I have ever seen it."
+   ],
+   "a": "This is the most beautiful place I have ever seen.",
+   "x": "Long adjective: the most."
+  },
+  {
+   "t": "choose",
+   "q": "Comparing offers.",
+   "s": "The second offer is much ___ than the first.",
+   "o": [
+    "better",
+    "more better",
+    "best",
+    "more good"
+   ],
+   "a": "better",
+   "x": "Good → better."
+  },
+  {
+   "t": "type",
+   "q": "Prices.",
+   "s": "The more you buy, the ___ you pay per unit.",
+   "hint": "one word",
+   "a": [
+    "less"
+   ],
+   "x": "The more..., the less..."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "The laptop I bought it is very slow.",
+    "The laptop I bought is very slow.",
+    "The laptop who I bought is very slow.",
+    "The laptop where I bought is very slow."
+   ],
+   "a": "The laptop I bought is very slow.",
+   "x": "Object relative dropped; no extra 'it'.",
+   "lv": "adv"
+  }
+ ],
+ "decide": [
+  {
+   "q": "Is it a person?",
+   "yes": "Use who (or that in a defining clause).",
+   "no": "Thing: which / that. Place: where. Possession: whose."
+  },
+  {
+   "q": "Is the information extra, about a name or the only one?",
+   "yes": "Put it between commas and use who / which, never that.",
+   "no": "No commas; that is fine and can often be dropped if it is the object."
+  }
+ ]
+}

@@ -1,0 +1,663 @@
+{
+ "title": "Passive voice",
+ "intro": "The passive lets you focus on what happened rather than who did it. It is everywhere in reports, notices and news. You will also learn how to say that someone did a job for you: have or get something done.",
+ "introBn": "কে করেছে তার চেয়ে কী হয়েছে বেশি গুরুত্বপূর্ণ হলে passive। রিপোর্ট, নোটিশ ও খবরে এটা খুব বেশি ব্যবহার হয়।",
+ "units": [
+  {
+   "id": "forms",
+   "title": "Passive forms: is done, was done, has been done",
+   "level": "B1",
+   "idea": "The passive puts the action or result first and the doer second (or nowhere). Form: be + past participle. Change the tense of be, keep the participle.",
+   "ideaBn": "passive-এ কাজটা গুরুত্বপূর্ণ, কে করেছে তা নয়। গঠন: be + past participle। কাল বদলালে শুধু be বদলায়।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Present / past",
+     "pos": "The report is checked daily. · The report was checked yesterday.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Perfect",
+     "pos": "The payment has been made. · The payment had been made.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Modal",
+     "pos": "It must be signed. · It can be done. · It should have been sent.",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Use the passive when the doer is unknown or unimportant.",
+     "bn": "কে করেছে জানা নেই বা দরকার নেই।",
+     "ex": "My phone was stolen on the bus."
+    },
+    {
+     "rule": "Present simple passive for processes and routines.",
+     "bn": "নিয়মিত প্রক্রিয়া।",
+     "ex": "All invoices are approved by Finance."
+    },
+    {
+     "rule": "Present perfect passive for news and results.",
+     "bn": "সদ্য ঘটে যাওয়া ফলাফল।",
+     "ex": "The new branch has been opened in Uttara."
+    },
+    {
+     "rule": "Modal + be + participle for rules and requests.",
+     "bn": "নিয়ম: must/should/can + be + V3।",
+     "ex": "This form must be submitted by Friday."
+    },
+    {
+     "rule": "Add by + doer only when it matters.",
+     "bn": "by + কর্তা, প্রয়োজন হলে।",
+     "ex": "The design was approved by the client."
+    }
+   ],
+   "signals": [
+    "be + V3",
+    "by",
+    "has been",
+    "must be",
+    "was made"
+   ],
+   "traps": [
+    {
+     "wrong": "The meeting was postpone.",
+     "right": "The meeting was postponed.",
+     "why": "Passive needs the past participle.",
+     "bn": "be-এর পরে V3।"
+    },
+    {
+     "wrong": "The office cleaned every day.",
+     "right": "The office is cleaned every day.",
+     "why": "Passive needs be.",
+     "bn": "be বাদ দেওয়া যাবে না।"
+    },
+    {
+     "wrong": "This happened by mistake was.",
+     "right": "This was done by mistake. / This happened by mistake.",
+     "why": "Happen has no passive.",
+     "bn": "happen, arrive, die-এর passive হয় না।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "A notice at work.",
+     "s": "The lift ___ every Monday morning.",
+     "o": [
+      "is serviced",
+      "services",
+      "is servicing",
+      "serviced"
+     ],
+     "a": "is serviced",
+     "x": "Present simple passive: a routine."
+    },
+    {
+     "t": "choose",
+     "q": "Bad news.",
+     "s": "Rafi's laptop ___ from his desk last week.",
+     "o": [
+      "was stolen",
+      "stole",
+      "is stolen",
+      "was steal"
+     ],
+     "a": "was stolen",
+     "x": "Past passive, doer unknown."
+    },
+    {
+     "t": "type",
+     "q": "Project update.",
+     "s": "Good news: the contract has ___ (sign).",
+     "hint": "sign",
+     "a": [
+      "been signed"
+     ],
+     "x": "Present perfect passive: has been + V3."
+    },
+    {
+     "t": "type",
+     "q": "Office rules.",
+     "s": "All visitors must ___ (register) at reception.",
+     "hint": "register",
+     "a": [
+      "be registered"
+     ],
+     "x": "Modal passive: must be + V3."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "The goods was delivered yesterday.",
+      "The goods were delivered yesterday.",
+      "The goods delivered yesterday by.",
+      "The goods were deliver yesterday."
+     ],
+     "a": "The goods were delivered yesterday.",
+     "x": "Plural subject: were + V3."
+    },
+    {
+     "t": "bn",
+     "q": "পদ্মা সেতু ২০২২ সালে খোলা হয়েছিল।",
+     "o": [
+      "The Padma Bridge was opened in 2022.",
+      "The Padma Bridge opened by 2022.",
+      "The Padma Bridge is opened in 2022.",
+      "The Padma Bridge was open in 2022."
+     ],
+     "a": "The Padma Bridge was opened in 2022.",
+     "x": "Past passive with a past date."
+    },
+    {
+     "t": "choose",
+     "q": "A missed deadline.",
+     "s": "The files should ___ yesterday.",
+     "o": [
+      "have been sent",
+      "be sent",
+      "have sent",
+      "been sent"
+     ],
+     "a": "have been sent",
+     "x": "Past modal passive: should have been + V3.",
+     "lv": "adv"
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "The flight was arrived late.",
+      "The flight arrived late.",
+      "The flight was arrive late.",
+      "The flight is arrived late."
+     ],
+     "a": "The flight arrived late.",
+     "x": "Arrive has no passive.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "reports",
+   "title": "Passive in reports and formal writing",
+   "level": "B2",
+   "idea": "Reports, minutes and official emails use the passive to sound objective: 'It was decided...', 'Mistakes were made', 'It is expected that...'. Use it to focus on results and avoid blaming people.",
+   "ideaBn": "রিপোর্ট ও অফিসিয়াল ইমেইলে passive ব্যবহার করলে লেখা নিরপেক্ষ শোনায় এবং কাউকে দোষ দেওয়া হয় না।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Impersonal it",
+     "pos": "It was agreed that... · It is expected that... · It has been reported that...",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Subject + passive + to",
+     "pos": "Prices are expected to rise. · He is said to be very strict.",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Minutes: It was agreed / decided that...",
+     "bn": "মিটিংয়ের সিদ্ধান্ত লেখা।",
+     "ex": "It was agreed that the launch would move to June."
+    },
+    {
+     "rule": "Forecasts: X is expected to...",
+     "bn": "পূর্বাভাস।",
+     "ex": "Sales are expected to grow by 10%."
+    },
+    {
+     "rule": "Polite complaints: focus on the problem, not the person.",
+     "bn": "দোষারোপ না করে সমস্যা বলা।",
+     "ex": "The wrong amount was charged to our account."
+    },
+    {
+     "rule": "Instructions in formal notices.",
+     "bn": "অফিসিয়াল নির্দেশনা।",
+     "ex": "Staff are requested to wear ID cards."
+    },
+    {
+     "rule": "Results in reports: present perfect passive.",
+     "bn": "ফলাফল জানানো।",
+     "ex": "Twenty new clients have been added this quarter."
+    }
+   ],
+   "signals": [
+    "it was agreed",
+    "is expected to",
+    "are requested",
+    "has been reported"
+   ],
+   "traps": [
+    {
+     "wrong": "It was decided to the meeting that...",
+     "right": "It was decided at the meeting that...",
+     "why": "Preposition: at the meeting.",
+     "bn": "at the meeting।"
+    },
+    {
+     "wrong": "Prices are expected rise.",
+     "right": "Prices are expected to rise.",
+     "why": "Expected + to.",
+     "bn": "expected-এর পরে to।"
+    },
+    {
+     "wrong": "Staff are requested wearing ID cards.",
+     "right": "Staff are requested to wear ID cards.",
+     "why": "Requested + to.",
+     "bn": "requested + to + verb।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Meeting minutes.",
+     "s": "It ___ that the budget would be reviewed in May.",
+     "o": [
+      "was agreed",
+      "agreed",
+      "was agree",
+      "has agreeing"
+     ],
+     "a": "was agreed",
+     "x": "Impersonal passive."
+    },
+    {
+     "t": "choose",
+     "q": "A market report.",
+     "s": "Fuel prices ___ to rise next month.",
+     "o": [
+      "are expected",
+      "expect",
+      "are expecting",
+      "expected"
+     ],
+     "a": "are expected",
+     "x": "Forecast: be expected to."
+    },
+    {
+     "t": "type",
+     "q": "A formal notice.",
+     "s": "All staff are ___ (request) to attend the safety training.",
+     "hint": "request",
+     "a": [
+      "requested"
+     ],
+     "x": "Be requested to."
+    },
+    {
+     "t": "type",
+     "q": "A quarterly report.",
+     "s": "Three new branches have ___ (open) this year.",
+     "hint": "open",
+     "a": [
+      "been opened"
+     ],
+     "x": "Present perfect passive."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the most professional sentence for a complaint.",
+     "o": [
+      "You charged us the wrong amount, you made a big mistake.",
+      "We were charged the wrong amount on the last invoice.",
+      "We charged the wrong amount on the last invoice.",
+      "The wrong amount charged us on the last invoice."
+     ],
+     "a": "We were charged the wrong amount on the last invoice.",
+     "x": "Passive focuses on the problem politely."
+    },
+    {
+     "t": "bn",
+     "q": "জানা গেছে যে নতুন অফিসটা আগামী মাসে খুলবে।",
+     "o": [
+      "It has been reported that the new office will open next month.",
+      "It has reported that the new office will open next month.",
+      "It is report that the new office will open next month.",
+      "It reported that the new office will be open next month by."
+     ],
+     "a": "It has been reported that the new office will open next month.",
+     "x": "Impersonal passive: it has been reported that."
+    },
+    {
+     "t": "choose",
+     "q": "A reference about a manager.",
+     "s": "Mr Karim ___ to be very fair with his team.",
+     "o": [
+      "is said",
+      "says",
+      "is saying",
+      "said"
+     ],
+     "a": "is said",
+     "x": "Be said to: people say that he is.",
+     "lv": "adv"
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "The project is expected to finish by December.",
+      "The project is expected finishing by December.",
+      "The project expects to be finish by December.",
+      "The project is expect to finish by December."
+     ],
+     "a": "The project is expected to finish by December.",
+     "x": "Be expected + to + base.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "causative",
+   "title": "Have / get something done",
+   "level": "B2",
+   "idea": "Use have or get + object + past participle when someone else does a job for you, usually a service you pay for. Get is a little more informal.",
+   "ideaBn": "অন্য কাউকে দিয়ে কাজ করানো (যেমন চুল কাটানো, গাড়ি সারানো): have/get + object + V3।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Have",
+     "pos": "have + thing + V3: I had my car serviced.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Get",
+     "pos": "get + thing + V3: I need to get my passport renewed.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Bad experience",
+     "pos": "have + thing + V3: He had his wallet stolen.",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Services you arrange.",
+     "bn": "টাকা দিয়ে অন্যকে দিয়ে করানো।",
+     "ex": "I'm having my flat painted next week."
+    },
+    {
+     "rule": "Get is common in speech.",
+     "bn": "কথ্য ভাষায় get।",
+     "ex": "Where do you get your hair cut?"
+    },
+    {
+     "rule": "Order: have + object + participle.",
+     "bn": "শব্দক্রম: have + জিনিস + V3।",
+     "ex": "We had the AC repaired. (not: we had repaired the AC)"
+    },
+    {
+     "rule": "Bad things that happened to you.",
+     "bn": "খারাপ অভিজ্ঞতা।",
+     "ex": "Rafi had his phone snatched near Farmgate."
+    },
+    {
+     "rule": "Any tense: change have/get.",
+     "bn": "কাল বদলাতে have/get বদলান।",
+     "ex": "I'll get the documents printed tomorrow."
+    }
+   ],
+   "signals": [
+    "have it done",
+    "get it done",
+    "repaired",
+    "serviced",
+    "cut"
+   ],
+   "traps": [
+    {
+     "wrong": "I cut my hair yesterday.",
+     "right": "I had my hair cut yesterday.",
+     "why": "If a barber did it, use have + object + V3.",
+     "bn": "নিজে না করলে have something done।"
+    },
+    {
+     "wrong": "I had repaired my laptop.",
+     "right": "I had my laptop repaired.",
+     "why": "Object comes before the participle.",
+     "bn": "জিনিসটা আগে, V3 পরে।"
+    },
+    {
+     "wrong": "I need to get my passport renew.",
+     "right": "I need to get my passport renewed.",
+     "why": "Use the past participle.",
+     "bn": "V3 লাগবে।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Car trouble.",
+     "s": "I need to ___ before the trip to Sylhet.",
+     "o": [
+      "have my car serviced",
+      "service my car by someone",
+      "have serviced my car",
+      "get my car service"
+     ],
+     "a": "have my car serviced",
+     "x": "Have + object + V3."
+    },
+    {
+     "t": "choose",
+     "q": "A new look.",
+     "s": "She ___ at a salon in Dhanmondi.",
+     "o": [
+      "had her hair cut",
+      "cut her hair",
+      "had cut her hair",
+      "had her hair cutting"
+     ],
+     "a": "had her hair cut",
+     "x": "Someone else cut it."
+    },
+    {
+     "t": "type",
+     "q": "Travel papers.",
+     "s": "I'm going to get my visa ___ (extend) next week.",
+     "hint": "extend",
+     "a": [
+      "extended"
+     ],
+     "x": "Get + object + V3."
+    },
+    {
+     "t": "type",
+     "q": "Moving flat.",
+     "s": "We're having the walls ___ (paint) before we move in.",
+     "hint": "paint",
+     "a": [
+      "painted"
+     ],
+     "x": "Have + object + V3."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "I had my phone screen replaced.",
+      "I had replaced my phone screen by a shop.",
+      "I had my phone screen replace.",
+      "I replaced my phone screen at the shop by them."
+     ],
+     "a": "I had my phone screen replaced.",
+     "x": "Have + object + V3."
+    },
+    {
+     "t": "bn",
+     "q": "আমি কাল আমার ল্যাপটপ সারিয়েছি (দোকানে)।",
+     "o": [
+      "I had my laptop repaired yesterday.",
+      "I repaired my laptop yesterday.",
+      "I had repaired my laptop yesterday.",
+      "I had my laptop repair yesterday."
+     ],
+     "a": "I had my laptop repaired yesterday.",
+     "x": "A shop did it: had + object + V3."
+    },
+    {
+     "t": "choose",
+     "q": "A bad day.",
+     "s": "Rafi ___ on the bus to Motijheel.",
+     "o": [
+      "had his wallet stolen",
+      "stole his wallet",
+      "had stolen his wallet",
+      "was stolen his wallet"
+     ],
+     "a": "had his wallet stolen",
+     "x": "Bad experience: have + object + V3.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Office printing.",
+     "s": "Can you ___ before the meeting?",
+     "o": [
+      "get these copies printed",
+      "get printed these copies",
+      "get these copies print",
+      "print these copies get"
+     ],
+     "a": "get these copies printed",
+     "x": "Get + object + V3.",
+     "lv": "adv"
+    }
+   ]
+  }
+ ],
+ "mastery": [
+  {
+   "t": "choose",
+   "q": "A delivery update.",
+   "s": "Your order ___ and will arrive tomorrow.",
+   "o": [
+    "has been dispatched",
+    "has dispatched",
+    "is dispatching",
+    "dispatched by"
+   ],
+   "a": "has been dispatched",
+   "x": "Present perfect passive."
+  },
+  {
+   "t": "choose",
+   "q": "Office rules.",
+   "s": "Laptops must not ___ unattended.",
+   "o": [
+    "be left",
+    "leave",
+    "been left",
+    "left"
+   ],
+   "a": "be left",
+   "x": "Modal passive."
+  },
+  {
+   "t": "type",
+   "q": "History.",
+   "s": "This building ___ (build) in 1905.",
+   "hint": "build",
+   "a": [
+    "was built"
+   ],
+   "x": "Past passive."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "The meeting has postponed until Monday.",
+    "The meeting has been postponed until Monday.",
+    "The meeting has been postpone until Monday.",
+    "The meeting is postponed by until Monday."
+   ],
+   "a": "The meeting has been postponed until Monday.",
+   "x": "Has been + V3."
+  },
+  {
+   "t": "bn",
+   "q": "আমাকে নতুন প্রজেক্টে যুক্ত করা হয়েছে।",
+   "o": [
+    "I have been added to the new project.",
+    "I have added to the new project.",
+    "I am add to the new project.",
+    "I have been add to the new project."
+   ],
+   "a": "I have been added to the new project.",
+   "x": "Present perfect passive."
+  },
+  {
+   "t": "choose",
+   "q": "A haircut.",
+   "s": "I usually ___ once a month.",
+   "o": [
+    "get my hair cut",
+    "cut my hair by a barber",
+    "get cut my hair",
+    "get my hair cutting"
+   ],
+   "a": "get my hair cut",
+   "x": "Get + object + V3."
+  },
+  {
+   "t": "choose",
+   "q": "A forecast.",
+   "s": "Inflation ___ to fall next year.",
+   "o": [
+    "is expected",
+    "expects",
+    "is expecting",
+    "expected"
+   ],
+   "a": "is expected",
+   "x": "Be expected to.",
+   "lv": "adv"
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "The accident was happened at night.",
+    "The accident happened at night.",
+    "The accident was happen at night.",
+    "The accident has happened at night by."
+   ],
+   "a": "The accident happened at night.",
+   "x": "Happen has no passive.",
+   "lv": "adv"
+  }
+ ],
+ "decide": [
+  {
+   "q": "Is the doer unknown, obvious or less important than the action?",
+   "yes": "Use the passive: be + past participle.",
+   "no": "Use the active voice."
+  },
+  {
+   "q": "Did someone else do a service for you?",
+   "yes": "Use have / get + object + past participle.",
+   "no": "Go on."
+  },
+  {
+   "q": "Does the verb have an object (not happen, arrive, die)?",
+   "yes": "The passive is possible.",
+   "no": "No passive: use the active form."
+  }
+ ]
+}

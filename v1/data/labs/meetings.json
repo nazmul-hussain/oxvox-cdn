@@ -1,0 +1,462 @@
+{
+ "title": "Meetings and presentations",
+ "intro": "Meetings run on fixed phrases. Learn to open, follow an agenda, guide people through slides, describe charts and trends accurately, and close with clear action points.",
+ "introBn": "মিটিং চলে নির্দিষ্ট কিছু বাক্যে। শুরু করা, এজেন্ডা মানা, স্লাইড দেখানো, চার্ট বর্ণনা আর স্পষ্ট করণীয় দিয়ে শেষ করা শিখুন।",
+ "units": [
+  {
+   "id": "running",
+   "title": "Opening, agenda and signposting",
+   "level": "B1",
+   "idea": "Open a meeting by welcoming people and stating the purpose, go through the agenda, and use signposts so everyone knows where you are: Let's move on to, Going back to, As you can see.",
+   "ideaBn": "মিটিং শুরুতে স্বাগত জানিয়ে উদ্দেশ্য বলুন, এজেন্ডা দেখান, আর Let's move on to, As you can see এর মতো সংকেত দিয়ে সবাইকে পথ দেখান।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Open",
+     "pos": "Thanks for coming. · Let's get started. · The aim of today's meeting is to…",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Agenda",
+     "pos": "There are three items on the agenda. · First, … Then, … Finally, …",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Signpost",
+     "pos": "Let's move on to… · Going back to… · As you can see… · To sum up…",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "'Let's' + base verb to start or move on.",
+     "bn": "Let's + মূল ক্রিয়া।",
+     "ex": "Let's get started. / Let's move on to the budget."
+    },
+    {
+     "rule": "'The aim/purpose of this meeting is to' + base verb.",
+     "bn": "উদ্দেশ্য বোঝাতে is to + verb।",
+     "ex": "The purpose of this meeting is to agree the launch date."
+    },
+    {
+     "rule": "Order items: first, then, after that, finally.",
+     "bn": "ক্রম বোঝাতে first, then, finally।",
+     "ex": "First, the sales figures. Then, the new hires. Finally, any other business."
+    },
+    {
+     "rule": "'As you can see' points to a slide.",
+     "bn": "স্লাইড দেখাতে As you can see।",
+     "ex": "As you can see on this slide, costs are lower."
+    },
+    {
+     "rule": "Manage turns: Sorry to interrupt / Could I come in here? / Go ahead.",
+     "bn": "কথার মাঝে ঢুকতে ভদ্রভাবে।",
+     "ex": "Sorry to interrupt, but could I add something?"
+    }
+   ],
+   "signals": [
+    "let's get started",
+    "the aim is to",
+    "on the agenda",
+    "let's move on to",
+    "as you can see",
+    "going back to"
+   ],
+   "traps": [
+    {
+     "wrong": "Let's move to next point.",
+     "right": "Let's move on to the next point.",
+     "why": "Move on to + the.",
+     "bn": "move on to the next…।"
+    },
+    {
+     "wrong": "Today we will discuss about the budget.",
+     "right": "Today we'll discuss the budget.",
+     "why": "Discuss has no 'about'.",
+     "bn": "discuss এর পরে about নয়।"
+    },
+    {
+     "wrong": "As you see in the slide.",
+     "right": "As you can see on the slide.",
+     "why": "Fixed phrase uses 'can' and 'on'.",
+     "bn": "As you can see on the slide।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Starting a meeting in Gulshan.",
+     "s": "OK, everyone, let's get ___.",
+     "o": [
+      "started",
+      "start",
+      "starting",
+      "to start"
+     ],
+     "a": "started",
+     "x": "Let's get started."
+    },
+    {
+     "t": "choose",
+     "q": "Purpose.",
+     "s": "The aim of today's meeting ___ to plan the Eid campaign.",
+     "o": [
+      "is",
+      "are",
+      "will",
+      "for"
+     ],
+     "a": "is",
+     "x": "The aim is to…"
+    },
+    {
+     "t": "type",
+     "q": "Changing topic.",
+     "s": "Let's move ___ to the next item on the agenda.",
+     "hint": "particle",
+     "a": [
+      "on"
+     ],
+     "x": "Move on to."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "We need to discuss about the timeline.",
+      "We need to discuss on the timeline.",
+      "We need to discuss the timeline.",
+      "We need discussing the timeline."
+     ],
+     "a": "We need to discuss the timeline.",
+     "x": "Discuss + object."
+    },
+    {
+     "t": "bn",
+     "q": "আপনারা দেখতে পাচ্ছেন, এই বছর খরচ কমেছে।",
+     "o": [
+      "As you can see, costs have gone down this year.",
+      "As you are seeing, cost has down this year.",
+      "You can see, cost is decreased this year.",
+      "As you can see, costs have gone down in this year."
+     ],
+     "a": "As you can see, costs have gone down this year.",
+     "x": "As you can see + present perfect."
+    },
+    {
+     "t": "choose",
+     "q": "Interrupting politely.",
+     "s": "Sorry to ___, but I have a quick question.",
+     "o": [
+      "interrupt",
+      "interrupting",
+      "disturb you to",
+      "stop"
+     ],
+     "a": "interrupt",
+     "x": "Sorry to interrupt."
+    },
+    {
+     "t": "choose",
+     "q": "Earlier topic.",
+     "s": "___ back to what Sara said, I think the deadline is too tight.",
+     "o": [
+      "Going",
+      "Go",
+      "Gone",
+      "To go"
+     ],
+     "a": "Going",
+     "x": "Going back to…",
+     "lv": "adv"
+    },
+    {
+     "t": "type",
+     "q": "Agenda.",
+     "s": "There are three items ___ the agenda today.",
+     "hint": "preposition",
+     "a": [
+      "on"
+     ],
+     "x": "On the agenda."
+    }
+   ]
+  },
+  {
+   "id": "charts",
+   "title": "Describing charts, summarising and action points",
+   "level": "B2",
+   "idea": "Describe trends with verb + adverb (rose sharply, fell slightly) or adjective + noun (a sharp rise, a slight drop). Use by for the change and to for the end point. Finish with a summary and clear action points: who does what by when.",
+   "ideaBn": "প্রবণতা বোঝাতে rose sharply বা a sharp rise বলুন। পরিবর্তনের পরিমাণে by, শেষ মানে to। শেষে সারাংশ আর কে কী কবে করবে তা বলুন।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Verb + adverb",
+     "pos": "Sales rose sharply. · Costs fell slightly. · Profit remained stable.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Adj + noun",
+     "pos": "There was a sharp rise in sales. · a slight drop · a steady increase",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Wrap up",
+     "pos": "To sum up, … · So, the action points are… · Rafi will send the report by Friday.",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Verbs: rise/rose, fall/fell, increase, decrease, remain stable, peak.",
+     "bn": "rise-rose, fall-fell মনে রাখুন।",
+     "ex": "Exports fell in March and then peaked in June."
+    },
+    {
+     "rule": "Adverb with verb, adjective with noun.",
+     "bn": "ক্রিয়ার সাথে adverb, বিশেষ্যর সাথে adjective।",
+     "ex": "Prices increased slightly. / There was a slight increase in prices."
+    },
+    {
+     "rule": "'By' = amount of change; 'to' = new level.",
+     "bn": "by = কতটা, to = কোথায়।",
+     "ex": "Sales rose by 10% to 5 crore taka."
+    },
+    {
+     "rule": "'A rise/fall in' + the thing.",
+     "bn": "a rise in + বিষয়।",
+     "ex": "There was a sharp fall in orders."
+    },
+    {
+     "rule": "Action points: name + will + verb + deadline.",
+     "bn": "কে, কী, কবে।",
+     "ex": "Nadia will update the client by Thursday."
+    }
+   ],
+   "signals": [
+    "rose sharply",
+    "a slight drop",
+    "remained stable",
+    "by 10%",
+    "to sum up",
+    "action points"
+   ],
+   "traps": [
+    {
+     "wrong": "Sales are increased by 10%.",
+     "right": "Sales increased by 10%.",
+     "why": "'Increase' here is active, not passive.",
+     "bn": "increase নিজেই ঘটে; passive নয়।"
+    },
+    {
+     "wrong": "There was a sharply rise.",
+     "right": "There was a sharp rise.",
+     "why": "Noun needs an adjective.",
+     "bn": "noun এর আগে adjective।"
+    },
+    {
+     "wrong": "Profit raised in May.",
+     "right": "Profit rose in May.",
+     "why": "'Raise' needs an object; 'rise' does not.",
+     "bn": "raise কিছুকে তোলা; rise নিজে ওঠা।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Chart.",
+     "s": "Sales ___ sharply in the second quarter.",
+     "o": [
+      "rose",
+      "raised",
+      "are risen",
+      "rised"
+     ],
+     "a": "rose",
+     "x": "Rise-rose-risen."
+    },
+    {
+     "t": "choose",
+     "q": "Noun form.",
+     "s": "There was a ___ drop in profit in April.",
+     "o": [
+      "slight",
+      "slightly",
+      "slighting",
+      "slighter"
+     ],
+     "a": "slight",
+     "x": "Adjective + noun."
+    },
+    {
+     "t": "type",
+     "q": "Amount of change.",
+     "s": "Costs went up ___ 8% last month.",
+     "hint": "preposition",
+     "a": [
+      "by"
+     ],
+     "x": "By = amount of change."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "The number of users are increased.",
+      "The number of users increased steadily.",
+      "The number of users increased steady.",
+      "The number of users was increase."
+     ],
+     "a": "The number of users increased steadily.",
+     "x": "Verb + adverb; active."
+    },
+    {
+     "t": "bn",
+     "q": "বছরের বাকি সময় দাম স্থিতিশীল ছিল।",
+     "o": [
+      "Prices remained stable for the rest of the year.",
+      "Prices were stabled rest of the year.",
+      "Prices remained stably for the rest of the year.",
+      "Price stayed stability rest of year."
+     ],
+     "a": "Prices remained stable for the rest of the year.",
+     "x": "Remain + adjective."
+    },
+    {
+     "t": "choose",
+     "q": "New level.",
+     "s": "Revenue rose by 20% ___ 3 crore taka.",
+     "o": [
+      "to",
+      "by",
+      "at",
+      "until"
+     ],
+     "a": "to",
+     "x": "To = final level.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Summary.",
+     "s": "To ___ up, the campaign was a success but costs were high.",
+     "o": [
+      "sum",
+      "summary",
+      "summarise",
+      "sums"
+     ],
+     "a": "sum",
+     "x": "To sum up."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the clearest action point.",
+     "o": [
+      "Someone should do the report.",
+      "The report, maybe next week.",
+      "Rafi will send the revised report to the client by Thursday.",
+      "Report will be doing soon."
+     ],
+     "a": "Rafi will send the revised report to the client by Thursday.",
+     "x": "Who, what, when."
+    },
+    {
+     "t": "type",
+     "q": "Rise or raise?",
+     "s": "We need to ___ prices next year because of higher costs.",
+     "hint": "verb",
+     "a": [
+      "raise",
+      "increase"
+     ],
+     "x": "Raise + object (prices).",
+     "lv": "adv"
+    }
+   ]
+  }
+ ],
+ "mastery": [
+  {
+   "t": "choose",
+   "q": "Moving on.",
+   "s": "Let's move on ___ the marketing plan.",
+   "o": [
+    "to",
+    "at",
+    "for",
+    "with"
+   ],
+   "a": "to",
+   "x": "Move on to."
+  },
+  {
+   "t": "choose",
+   "q": "Trend.",
+   "s": "Orders fell ___ after the price increase.",
+   "o": [
+    "sharply",
+    "sharp",
+    "sharpness",
+    "more sharp"
+   ],
+   "a": "sharply",
+   "x": "Verb + adverb."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "Today we'll discuss about the new office.",
+    "Today we'll discuss the new office.",
+    "Today we discuss on the new office.",
+    "Today we will be discuss the new office."
+   ],
+   "a": "Today we'll discuss the new office.",
+   "x": "Discuss + object."
+  },
+  {
+   "t": "bn",
+   "q": "মে মাসে বিক্রি সামান্য কমেছে।",
+   "o": [
+    "Sales fell slightly in May.",
+    "Sales felt slightly in May.",
+    "Sales were fallen slight in May.",
+    "Sales fell slight on May."
+   ],
+   "a": "Sales fell slightly in May.",
+   "x": "Fall-fell + adverb."
+  },
+  {
+   "t": "type",
+   "q": "Slide.",
+   "s": "As you can ___, the blue line shows our competitors.",
+   "hint": "verb",
+   "a": [
+    "see"
+   ],
+   "x": "As you can see."
+  },
+  {
+   "t": "choose",
+   "q": "Action point.",
+   "s": "Nadia ___ book the venue by next Monday.",
+   "o": [
+    "will",
+    "is",
+    "going",
+    "would to"
+   ],
+   "a": "will",
+   "x": "Name + will + verb.",
+   "lv": "adv"
+  }
+ ],
+ "decide": []
+}

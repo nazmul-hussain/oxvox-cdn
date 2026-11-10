@@ -1,0 +1,299 @@
+{
+ "guide": "Rafi",
+ "guideIntro": "Meet Rafi. He just moved from Rajshahi to Dhaka for his first job. Follow his journey, and learn the English he needs at each step.",
+ "tracks": [
+  {
+   "id": "foundations",
+   "title": "Sentence foundations",
+   "subtitle": "The grammar every sentence needs",
+   "icon": "foundation",
+   "nodes": [
+    {
+     "id": "questions",
+     "title": "Questions",
+     "kind": "lab",
+     "key": "lab_questions",
+     "icon": "help",
+     "level": "A2",
+     "story": "Day one. Rafi needs to ask where everything is, without sounding rude."
+    },
+    {
+     "id": "articles",
+     "title": "Articles: a, an, the",
+     "kind": "lab",
+     "key": "lab_articles",
+     "icon": "article",
+     "level": "A2",
+     "story": "His manager says: 'You're engineer?' Rafi wants to sound better than that."
+    },
+    {
+     "id": "prepositions",
+     "title": "Prepositions",
+     "kind": "lab",
+     "key": "lab_prepositions",
+     "icon": "place",
+     "level": "A2",
+     "story": "Meetings at 10, on Monday, in Gulshan. Rafi must get the small words right."
+    },
+    {
+     "id": "nouns",
+     "title": "Nouns and agreement",
+     "kind": "lab",
+     "key": "lab_nouns",
+     "icon": "inventory",
+     "level": "B1",
+     "story": "'Can I get some informations?' Rafi learns why his colleague smiled."
+    },
+    {
+     "id": "tenses",
+     "title": "Tense Lab",
+     "kind": "lab",
+     "key": "tenses",
+     "icon": "timeline",
+     "level": "B1",
+     "story": "Rafi tells his team what he did, what he's doing, and what he'll do."
+    },
+    {
+     "id": "modals",
+     "title": "Modal verbs",
+     "kind": "words",
+     "topic": "modals",
+     "icon": "gavel",
+     "level": "B1",
+     "story": "Must, should, might: Rafi learns rules, advice and guesses."
+    },
+    {
+     "id": "gerunds",
+     "title": "Gerunds and infinitives",
+     "kind": "lab",
+     "key": "lab_gerunds",
+     "icon": "swap_horiz",
+     "level": "B2",
+     "story": "'I avoid to be late' or 'I avoid being late'? Rafi finds out."
+    },
+    {
+     "id": "passive",
+     "title": "Passive voice",
+     "kind": "lab",
+     "key": "lab_passive",
+     "icon": "published_with_changes",
+     "level": "B2",
+     "story": "Reports say 'It was decided…'. Rafi learns why."
+    },
+    {
+     "id": "relatives",
+     "title": "Relative clauses and comparisons",
+     "kind": "lab",
+     "key": "lab_relatives",
+     "icon": "link",
+     "level": "B2",
+     "story": "The client who called, the plan that works, the best option."
+    }
+   ]
+  },
+  {
+   "id": "natural",
+   "title": "Natural speech",
+   "subtitle": "Sound like a native, not a textbook",
+   "icon": "record_voice_over",
+   "nodes": [
+    {
+     "id": "phrasal",
+     "title": "Phrasal verbs",
+     "kind": "words",
+     "topic": "phrasal",
+     "icon": "directions_run",
+     "level": "A2",
+     "story": "Colleagues say 'put off', 'figure out', 'catch up'. Rafi wants to follow."
+    },
+    {
+     "id": "collocations",
+     "title": "Collocations",
+     "kind": "words",
+     "topic": "collocations",
+     "icon": "join_inner",
+     "level": "B1",
+     "story": "Make a decision, not do a decision."
+    },
+    {
+     "id": "discourse",
+     "title": "Fillers and discourse",
+     "kind": "words",
+     "topic": "discourse",
+     "icon": "forum",
+     "level": "B1",
+     "story": "Actually, I mean, anyway: the glue of real conversation."
+    },
+    {
+     "id": "linking",
+     "title": "Linking ideas",
+     "kind": "words",
+     "topic": "linking",
+     "icon": "account_tree",
+     "level": "B1",
+     "story": "On top of that, having said that: Rafi connects his points."
+    },
+    {
+     "id": "idioms",
+     "title": "Idioms",
+     "kind": "words",
+     "topic": "idioms",
+     "icon": "emoji_objects",
+     "level": "B2",
+     "story": "'Let's call it a day.' Rafi finally gets the joke."
+    }
+   ]
+  },
+  {
+   "id": "functions",
+   "title": "Communication skills",
+   "subtitle": "Do things with English",
+   "icon": "handshake",
+   "nodes": [
+    {
+     "id": "politeness",
+     "title": "Politeness and tone",
+     "kind": "lab",
+     "key": "lab_politeness",
+     "icon": "volunteer_activism",
+     "level": "B1",
+     "story": "Rafi's 'Send the file' upset someone. Time to learn tone."
+    },
+    {
+     "id": "hedging",
+     "title": "Softening and hedging",
+     "kind": "words",
+     "topic": "hedging",
+     "icon": "tune",
+     "level": "B1",
+     "story": "'I was wondering if…' Rafi sounds confident but kind."
+    },
+    {
+     "id": "opinions",
+     "title": "Opinions, agreeing, disagreeing",
+     "kind": "lab",
+     "key": "lab_opinions",
+     "icon": "thumbs_up_down",
+     "level": "B2",
+     "story": "In his first meeting Rafi disagrees, politely."
+    },
+    {
+     "id": "plans",
+     "title": "Plans, invitations, offers",
+     "kind": "lab",
+     "key": "lab_plans",
+     "icon": "event",
+     "level": "B1",
+     "story": "Team lunch on Friday? Rafi invites and accepts."
+    },
+    {
+     "id": "problems",
+     "title": "Complaining and solving problems",
+     "kind": "lab",
+     "key": "lab_problems",
+     "icon": "build",
+     "level": "B2",
+     "story": "The laptop broke. Rafi calls IT."
+    },
+    {
+     "id": "stories",
+     "title": "Telling stories",
+     "kind": "lab",
+     "key": "lab_stories",
+     "icon": "auto_stories",
+     "level": "B2",
+     "story": "At the team dinner Rafi tells the story of his village."
+    },
+    {
+     "id": "negotiate",
+     "title": "Persuading and negotiating",
+     "kind": "lab",
+     "key": "lab_negotiate",
+     "icon": "balance",
+     "level": "C1",
+     "story": "Rafi's first client wants a discount."
+    }
+   ]
+  },
+  {
+   "id": "situations",
+   "title": "Real situations",
+   "subtitle": "Everything together, in real life",
+   "icon": "work",
+   "nodes": [
+    {
+     "id": "email",
+     "title": "Email and chat",
+     "kind": "lab",
+     "key": "lab_email",
+     "icon": "mail",
+     "level": "B1",
+     "story": "Rafi's inbox is full. He writes clear, modern replies."
+    },
+    {
+     "id": "smalltalk",
+     "title": "Small talk and introductions",
+     "kind": "lab",
+     "key": "lab_smalltalk",
+     "icon": "waving_hand",
+     "level": "A2",
+     "story": "Lift, tea break, a new colleague: Rafi breaks the ice."
+    },
+    {
+     "id": "calls",
+     "title": "Phone and video calls",
+     "kind": "lab",
+     "key": "lab_calls",
+     "icon": "call",
+     "level": "B1",
+     "story": "'Can you hear me? You're on mute.'"
+    },
+    {
+     "id": "interview",
+     "title": "Job interview",
+     "kind": "lab",
+     "key": "lab_interview",
+     "icon": "badge",
+     "level": "B2",
+     "story": "A year later, Rafi interviews for a better job."
+    },
+    {
+     "id": "meetings",
+     "title": "Meetings and presentations",
+     "kind": "lab",
+     "key": "lab_meetings",
+     "icon": "co_present",
+     "level": "B2",
+     "story": "Rafi presents the quarterly results."
+    },
+    {
+     "id": "customers",
+     "title": "Customers and clients",
+     "kind": "lab",
+     "key": "lab_customers",
+     "icon": "support_agent",
+     "level": "B2",
+     "story": "An angry customer calls. Rafi stays calm."
+    },
+    {
+     "id": "travel",
+     "title": "Travel: airport and hotel",
+     "kind": "lab",
+     "key": "lab_travel",
+     "icon": "flight",
+     "level": "B1",
+     "story": "Rafi's first business trip to Singapore."
+    },
+    {
+     "id": "daily",
+     "title": "Daily life: doctor, bank, shop",
+     "kind": "lab",
+     "key": "lab_daily",
+     "icon": "storefront",
+     "level": "A2",
+     "story": "Life in Dhaka: bank account, doctor, rent."
+    }
+   ]
+  }
+ ]
+}

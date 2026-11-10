@@ -1,0 +1,462 @@
+{
+ "title": "Small talk and introductions",
+ "intro": "Small talk builds trust before business starts. Learn to introduce yourself and others, choose safe topics, keep the chat going and leave it politely.",
+ "introBn": "কাজের আগে ছোট আলাপ সম্পর্ক তৈরি করে। নিজের ও অন্যের পরিচয়, নিরাপদ বিষয়, কথা চালানো আর ভদ্রভাবে শেষ করা শিখুন।",
+ "units": [
+  {
+   "id": "intro",
+   "title": "Introducing yourself and others",
+   "level": "A2",
+   "idea": "Give your name, role and one friendly detail. When you introduce others, say who they are and add something they share, so the conversation can start.",
+   "ideaBn": "নাম, কাজ আর একটা ছোট তথ্য বলুন। অন্যকে পরিচয় করানোর সময় দুজনের মিল আছে এমন কিছু বলুন, যাতে কথা শুরু হয়।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Yourself",
+     "pos": "Hi, I'm Rafi. I work in the marketing team. · I've just joined the company.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Others",
+     "pos": "Rafi, this is Sara from Finance. · Sara, have you met Rafi?",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Reply",
+     "pos": "Nice to meet you. · Nice to meet you too. · Good to see you again.",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Use 'I'm' or 'My name is' + first name. Don't say 'Myself Rafi'.",
+     "bn": "'Myself Rafi' ভুল; বলুন I'm Rafi।",
+     "ex": "Hi, I'm Rafi. I'm from Rajshahi."
+    },
+    {
+     "rule": "Introduce others with 'This is…', not 'He is…'.",
+     "bn": "পরিচয় করাতে This is…।",
+     "ex": "Sara, this is Mr Ahmed, our new client."
+    },
+    {
+     "rule": "'Nice to meet you' the first time; 'Nice to see you' after that.",
+     "bn": "প্রথম দেখায় meet, পরে see।",
+     "ex": "Nice to see you again, Karim!"
+    },
+    {
+     "rule": "Add a detail to start talking.",
+     "bn": "কথা চালাতে একটা তথ্য যোগ করুন।",
+     "ex": "Sara, this is Rafi. He's from Rajshahi too."
+    },
+    {
+     "rule": "Present perfect for new things: I've just joined.",
+     "bn": "সদ্য ঘটেছে বোঝাতে I've just…।",
+     "ex": "I've just started in the IT department."
+    }
+   ],
+   "signals": [
+    "I'm…",
+    "this is…",
+    "have you met…?",
+    "nice to meet you",
+    "I've just joined"
+   ],
+   "traps": [
+    {
+     "wrong": "Myself Rafi.",
+     "right": "I'm Rafi.",
+     "why": "'Myself' can't be a subject.",
+     "bn": "'আমি রাফি' বোঝাতে I'm Rafi।"
+    },
+    {
+     "wrong": "He is Sara from Finance.",
+     "right": "This is Sara from Finance.",
+     "why": "We introduce with 'This is'.",
+     "bn": "পরিচয়ে This is।"
+    },
+    {
+     "wrong": "I am working here since March.",
+     "right": "I've been working here since March.",
+     "why": "'Since' needs present perfect.",
+     "bn": "since থাকলে have been।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "First day at a Dhaka office.",
+     "s": "Hi, ___ Rafi. I've just joined the sales team.",
+     "o": [
+      "I'm",
+      "myself",
+      "me",
+      "my name"
+     ],
+     "a": "I'm",
+     "x": "I'm + name."
+    },
+    {
+     "t": "choose",
+     "q": "Introducing a colleague.",
+     "s": "Mr Lee, ___ my manager, Ms Rahman.",
+     "o": [
+      "this is",
+      "he is",
+      "she is",
+      "here is"
+     ],
+     "a": "this is",
+     "x": "Introduce with 'this is'."
+    },
+    {
+     "t": "choose",
+     "q": "You met Karim last month. Today you see him again.",
+     "s": "Karim! Nice to ___ you again.",
+     "o": [
+      "see",
+      "meet",
+      "know",
+      "look"
+     ],
+     "a": "see",
+     "x": "Nice to see you again."
+    },
+    {
+     "t": "type",
+     "q": "Reply to 'Nice to meet you.'",
+     "s": "Nice to meet you ___.",
+     "hint": "also",
+     "a": [
+      "too"
+     ],
+     "x": "Nice to meet you too."
+    },
+    {
+     "t": "bn",
+     "q": "আমি রাজশাহী থেকে এসেছি, এটা আমার প্রথম চাকরি।",
+     "o": [
+      "I'm from Rajshahi, and this is my first job.",
+      "Myself from Rajshahi, my first job is this.",
+      "I am coming from Rajshahi, this is first job.",
+      "I'm from Rajshahi, and this my first job."
+     ],
+     "a": "I'm from Rajshahi, and this is my first job.",
+     "x": "I'm from + place."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "I am working here since 2024.",
+      "I work here since 2024.",
+      "I've been working here since 2024.",
+      "I have work here since 2024."
+     ],
+     "a": "I've been working here since 2024.",
+     "x": "Since + present perfect continuous."
+    },
+    {
+     "t": "choose",
+     "q": "At a client event.",
+     "s": "Sara, have you ___ Rafi? He's handling your account.",
+     "o": [
+      "met",
+      "meet",
+      "meeting",
+      "known"
+     ],
+     "a": "met",
+     "x": "Have you met…?"
+    },
+    {
+     "t": "type",
+     "q": "Very new in a job.",
+     "s": "I've ___ joined the company, so I'm still learning.",
+     "hint": "adverb",
+     "a": [
+      "just"
+     ],
+     "x": "I've just joined = very recently.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "talk",
+   "title": "Keeping a conversation going and ending it",
+   "level": "B1",
+   "idea": "Choose safe topics (work, weather, travel, food), ask follow-up questions, show you share things with 'So do I' or 'Neither do I', and close politely with a reason.",
+   "ideaBn": "নিরাপদ বিষয় বেছে নিন, পাল্টা প্রশ্ন করুন, So do I / Neither do I দিয়ে মিল দেখান, আর কারণ দেখিয়ে ভদ্রভাবে কথা শেষ করুন।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Follow up",
+     "pos": "Oh really? How long have you been there? · What was that like?",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Agree",
+     "pos": "So do I. · So am I. · Neither do I. · Me too. · Me neither.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "End",
+     "pos": "Anyway, I'd better get back to work. · It was great talking to you.",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Avoid salary, age, marriage, religion with new people.",
+     "bn": "নতুন মানুষকে বেতন, বয়স, বিয়ে নিয়ে প্রশ্ন নয়।",
+     "ex": "How was your weekend? (not: How much do you earn?)"
+    },
+    {
+     "rule": "Ask a follow-up question, not only yes/no.",
+     "bn": "শুধু হ্যাঁ/না নয়, পাল্টা প্রশ্ন করুন।",
+     "ex": "You went to Cox's Bazar? How was it?"
+    },
+    {
+     "rule": "So + auxiliary + I for positive; Neither + auxiliary + I for negative.",
+     "bn": "হ্যাঁ বাক্যে So do I, না বাক্যে Neither do I।",
+     "ex": "I love biryani. So do I. / I don't drink coffee. Neither do I."
+    },
+    {
+     "rule": "Match the auxiliary: am, do, have, can.",
+     "bn": "সহায়ক ক্রিয়া মিলিয়ে নিন।",
+     "ex": "I'm tired. So am I. / I've been to Sylhet. So have I."
+    },
+    {
+     "rule": "End with a signal + reason + nice line.",
+     "bn": "শেষ করতে সংকেত, কারণ আর ভালো কথা।",
+     "ex": "Anyway, I'd better go. My meeting starts at three. It was lovely chatting!"
+    }
+   ],
+   "signals": [
+    "really?",
+    "so do I",
+    "neither do I",
+    "anyway",
+    "I'd better",
+    "it was great talking to you"
+   ],
+   "traps": [
+    {
+     "wrong": "I like tea. Also me.",
+     "right": "I like tea. Me too. / So do I.",
+     "why": "'Also me' isn't English.",
+     "bn": "'আমিও' = Me too বা So do I।"
+    },
+    {
+     "wrong": "I don't like traffic. Me too.",
+     "right": "I don't like traffic. Me neither. / Neither do I.",
+     "why": "After a negative, use neither.",
+     "bn": "না বাক্যে Me neither।"
+    },
+    {
+     "wrong": "How much is your salary?",
+     "right": "How are you finding the new job?",
+     "why": "Salary is too personal for small talk.",
+     "bn": "বেতনের প্রশ্ন ব্যক্তিগত।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Colleague: 'I'm from Rajshahi.' You are too.",
+     "s": "Oh, really? So ___ I!",
+     "o": [
+      "am",
+      "do",
+      "have",
+      "is"
+     ],
+     "a": "am",
+     "x": "I'm → So am I."
+    },
+    {
+     "t": "choose",
+     "q": "Client: 'I don't eat spicy food.' You don't either.",
+     "s": "___ do I.",
+     "o": [
+      "Neither",
+      "So",
+      "Either",
+      "Also"
+     ],
+     "a": "Neither",
+     "x": "Negative → Neither do I."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the best follow-up to 'I just got back from Singapore.'",
+     "o": [
+      "Ok.",
+      "Why?",
+      "Oh, nice! Was it for work or a holiday?",
+      "How much did it cost you?"
+     ],
+     "a": "Oh, nice! Was it for work or a holiday?",
+     "x": "Interested, open follow-up."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the safest small-talk question for a new client.",
+     "o": [
+      "Are you married?",
+      "How old are you?",
+      "How was your flight?",
+      "What is your religion?"
+     ],
+     "a": "How was your flight?",
+     "x": "Travel is a safe topic."
+    },
+    {
+     "t": "type",
+     "q": "Colleague: 'I've never been to Sylhet.' You haven't either.",
+     "s": "Neither ___ I.",
+     "hint": "auxiliary",
+     "a": [
+      "have"
+     ],
+     "x": "I've never → Neither have I.",
+     "lv": "adv"
+    },
+    {
+     "t": "bn",
+     "q": "যাই হোক, আমাকে এখন কাজে ফিরতে হবে। কথা বলে ভালো লাগল।",
+     "o": [
+      "Anyway, I'd better get back to work. It was great talking to you.",
+      "Anyway, I must return my work. Talking was nice.",
+      "Ok bye, I have work.",
+      "Anyway, I'd better to get back to work. It was great to talking."
+     ],
+     "a": "Anyway, I'd better get back to work. It was great talking to you.",
+     "x": "I'd better + base verb."
+    },
+    {
+     "t": "choose",
+     "q": "Ending a chat at a conference.",
+     "s": "Well, I ___ let you go. Enjoy the rest of the event!",
+     "o": [
+      "should",
+      "must to",
+      "am",
+      "would"
+     ],
+     "a": "should",
+     "x": "I should let you go = polite close."
+    },
+    {
+     "t": "choose",
+     "q": "Colleague: 'I can't stand Dhaka traffic.' You agree.",
+     "s": "Neither ___ I. It took me two hours today.",
+     "o": [
+      "can",
+      "do",
+      "am",
+      "can't"
+     ],
+     "a": "can",
+     "x": "Can't → Neither can I.",
+     "lv": "adv"
+    },
+    {
+     "t": "bn",
+     "q": "আমিও না।",
+     "o": [
+      "Me neither.",
+      "Me too not.",
+      "Also not me.",
+      "Me either not."
+     ],
+     "a": "Me neither.",
+     "x": "Short negative agreement."
+    }
+   ]
+  }
+ ],
+ "mastery": [
+  {
+   "t": "choose",
+   "q": "Introducing yourself.",
+   "s": "Hello, ___ Rafi Hasan from the Dhaka office.",
+   "o": [
+    "I'm",
+    "myself",
+    "me",
+    "I"
+   ],
+   "a": "I'm",
+   "x": "I'm + name."
+  },
+  {
+   "t": "choose",
+   "q": "Agreeing.",
+   "s": "I love working from home. So ___ I.",
+   "o": [
+    "do",
+    "am",
+    "have",
+    "love"
+   ],
+   "a": "do",
+   "x": "Present simple → So do I."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct reply to 'I'm not a morning person.'",
+   "o": [
+    "Me too.",
+    "So am I.",
+    "Neither am I.",
+    "Neither do I."
+   ],
+   "a": "Neither am I.",
+   "x": "Negative with am → Neither am I."
+  },
+  {
+   "t": "bn",
+   "q": "আপনি কি রাফির সাথে পরিচিত হয়েছেন?",
+   "o": [
+    "Have you met Rafi?",
+    "Did you meet with Rafi already?",
+    "Are you meet Rafi?",
+    "You know Rafi met?"
+   ],
+   "a": "Have you met Rafi?",
+   "x": "Have you met…?"
+  },
+  {
+   "t": "type",
+   "q": "Ending politely.",
+   "s": "It was great ___ to you. See you at the meeting!",
+   "hint": "verb",
+   "a": [
+    "talking"
+   ],
+   "x": "It was great talking to you."
+  },
+  {
+   "t": "choose",
+   "q": "Old colleague at a wedding.",
+   "s": "Rahim! It's so good to ___ you again.",
+   "o": [
+    "see",
+    "meet",
+    "know",
+    "introduce"
+   ],
+   "a": "see",
+   "x": "See someone again.",
+   "lv": "adv"
+  }
+ ],
+ "decide": []
+}

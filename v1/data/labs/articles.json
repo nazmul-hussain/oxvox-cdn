@@ -1,0 +1,664 @@
+{
+ "title": "Articles: a, an, the",
+ "intro": "Bangla has no articles, so this is the most common mistake Bangladeshi speakers make. Fix it once, and your English suddenly sounds much more natural.",
+ "introBn": "আর্টিকেল ঠিক হলেই আপনার ইংরেজি অনেক বেশি স্বাভাবিক শোনাবে।",
+ "units": [
+  {
+   "id": "aan",
+   "title": "A / an: one of many",
+   "level": "A2",
+   "idea": "Use a/an for one countable thing that is new to the listener, or to say what someone or something is.",
+   "ideaBn": "বাংলায় 'একটা' প্রায়ই বলি না, কিন্তু ইংরেজিতে একবচন countable noun-এর আগে a/an লাগবেই।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "A or an",
+     "pos": "a + consonant sound (a car, a university) · an + vowel sound (an apple, an hour)",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Jobs",
+     "pos": "He is a doctor. She is an engineer.",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Jobs and roles always take a/an.",
+     "bn": "পেশার আগে a/an বাদ দেবেন না।",
+     "ex": "My father is a teacher."
+    },
+    {
+     "rule": "Sound decides, not the letter.",
+     "bn": "উচ্চারণ দেখে, বানান নয়।",
+     "ex": "an hour, an MBA, a uniform, a European company"
+    },
+    {
+     "rule": "First mention = a; second mention = the.",
+     "bn": "প্রথমবার a, পরে the।",
+     "ex": "I bought a laptop. The laptop is very fast."
+    },
+    {
+     "rule": "Prices and rates: a = per.",
+     "bn": "প্রতি = a।",
+     "ex": "Twice a day, 500 taka a kilo."
+    }
+   ],
+   "signals": [
+    "a / an",
+    "one",
+    "per",
+    "what is it?"
+   ],
+   "traps": [
+    {
+     "wrong": "He is engineer.",
+     "right": "He is an engineer.",
+     "why": "Singular job noun needs a/an.",
+     "bn": "পেশার আগে an।"
+    },
+    {
+     "wrong": "I have a MBA.",
+     "right": "I have an MBA.",
+     "why": "MBA starts with the sound 'em'.",
+     "bn": "উচ্চারণ স্বরধ্বনি দিয়ে শুরু হলে an।"
+    },
+    {
+     "wrong": "It was an useful meeting.",
+     "right": "It was a useful meeting.",
+     "why": "Useful starts with a 'you' sound.",
+     "bn": "'ইউ' ধ্বনি = a।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Introducing yourself.",
+     "s": "I'm ___ software engineer at a bank.",
+     "o": [
+      "a",
+      "an",
+      "the",
+      "—"
+     ],
+     "a": "a",
+     "x": "Job title, singular: a."
+    },
+    {
+     "t": "choose",
+     "q": "Talking about time.",
+     "s": "The meeting lasted ___ hour.",
+     "o": [
+      "an",
+      "a",
+      "the",
+      "—"
+     ],
+     "a": "an",
+     "x": "Hour starts with a vowel sound (h is silent)."
+    },
+    {
+     "t": "choose",
+     "q": "Talking about a person.",
+     "s": "She works for ___ European airline.",
+     "o": [
+      "a",
+      "an",
+      "the",
+      "—"
+     ],
+     "a": "a",
+     "x": "European starts with a 'you' sound."
+    },
+    {
+     "t": "type",
+     "q": "Talking about how often.",
+     "s": "Take this medicine three times ___ day.",
+     "hint": "a / an / the",
+     "a": [
+      "a"
+     ],
+     "x": "a = per."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "My brother is banker.",
+      "My brother is a banker.",
+      "My brother is the banker.",
+      "My brother is an banker."
+     ],
+     "a": "My brother is a banker.",
+     "x": "Jobs need a/an."
+    },
+    {
+     "t": "bn",
+     "q": "আমি একটা নতুন ফোন কিনেছি। ফোনটা খুব দামি।",
+     "o": [
+      "I bought a new phone. The phone is very expensive.",
+      "I bought new phone. Phone is very expensive.",
+      "I bought the new phone. A phone is very expensive.",
+      "I bought a new phone. A phone is very expensive."
+     ],
+     "a": "I bought a new phone. The phone is very expensive.",
+     "x": "First mention a, then the."
+    },
+    {
+     "t": "choose",
+     "q": "Your CV.",
+     "s": "I have ___ honours degree in Accounting.",
+     "o": [
+      "an",
+      "a",
+      "the",
+      "—"
+     ],
+     "a": "an",
+     "x": "Honours: silent h, vowel sound.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "A formal letter.",
+     "s": "It is ___ honour to serve this community.",
+     "o": [
+      "an",
+      "a",
+      "the",
+      "—"
+     ],
+     "a": "an",
+     "x": "Silent h again.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "the",
+   "title": "The: the one we both know",
+   "level": "B1",
+   "idea": "Use the when the listener knows which one: mentioned before, only one exists, or the rest of the sentence makes it clear.",
+   "ideaBn": "শ্রোতা জানে কোনটা — তখন the। 'ওই', 'টা', 'টি' বোঝালে প্রায়ই the।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Known thing",
+     "pos": "the + noun the listener can identify",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Unique",
+     "pos": "the sun, the internet, the government, the CEO",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Only one in the situation.",
+     "bn": "পরিস্থিতিতে একটাই আছে।",
+     "ex": "Can you close the door? Where is the manager?"
+    },
+    {
+     "rule": "Defined by a phrase after it.",
+     "bn": "পরের অংশ দিয়ে চিহ্নিত।",
+     "ex": "The report you sent yesterday has a mistake."
+    },
+    {
+     "rule": "Superlatives and ordinals.",
+     "bn": "সর্বোচ্চ, প্রথম, শেষ — the।",
+     "ex": "the best option, the first time, the last slide"
+    },
+    {
+     "rule": "Some country names, rivers, seas, plural names.",
+     "bn": "কিছু দেশ ও নদীর নাম।",
+     "ex": "the USA, the UK, the Padma, the Bay of Bengal, the Netherlands"
+    }
+   ],
+   "signals": [
+    "which one?",
+    "only one",
+    "best / first / last",
+    "of ..."
+   ],
+   "traps": [
+    {
+     "wrong": "Sun rises in east.",
+     "right": "The sun rises in the east.",
+     "why": "Unique things take the.",
+     "bn": "একটাই আছে = the।"
+    },
+    {
+     "wrong": "He is best player in team.",
+     "right": "He is the best player in the team.",
+     "why": "Superlative needs the.",
+     "bn": "best এর আগে the।"
+    },
+    {
+     "wrong": "I live in USA.",
+     "right": "I live in the USA.",
+     "why": "The United States = the.",
+     "bn": "States/Kingdom থাকলে the।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "In the office.",
+     "s": "Could you turn off ___ AC? It's cold.",
+     "o": [
+      "the",
+      "an",
+      "a",
+      "—"
+     ],
+     "a": "the",
+     "x": "Both people know which AC."
+    },
+    {
+     "t": "choose",
+     "q": "Comparing options.",
+     "s": "This is ___ cheapest plan we offer.",
+     "o": [
+      "the",
+      "a",
+      "an",
+      "—"
+     ],
+     "a": "the",
+     "x": "Superlative: the."
+    },
+    {
+     "t": "type",
+     "q": "A known document.",
+     "s": "Did you read ___ email I sent this morning?",
+     "hint": "a / an / the",
+     "a": [
+      "the"
+     ],
+     "x": "Defined by 'I sent this morning'."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "Padma is the longest river in Bangladesh.",
+      "The Padma is longest river in Bangladesh.",
+      "The Padma is the longest river in Bangladesh.",
+      "Padma is longest river in the Bangladesh."
+     ],
+     "a": "The Padma is the longest river in Bangladesh.",
+     "x": "Rivers take the; superlatives take the; Bangladesh takes none."
+    },
+    {
+     "t": "bn",
+     "q": "ম্যানেজার আজ অফিসে নেই।",
+     "o": [
+      "The manager isn't in the office today.",
+      "Manager isn't in office today.",
+      "A manager isn't in an office today.",
+      "The manager isn't in office the today."
+     ],
+     "a": "The manager isn't in the office today.",
+     "x": "Both known in the situation: the manager, the office."
+    },
+    {
+     "t": "choose",
+     "q": "Travel talk.",
+     "s": "My cousin lives in ___ UK.",
+     "o": [
+      "the",
+      "a",
+      "—",
+      "an"
+     ],
+     "a": "the",
+     "x": "The United Kingdom."
+    },
+    {
+     "t": "choose",
+     "q": "Talking about media.",
+     "s": "I read about it on ___ internet.",
+     "o": [
+      "the",
+      "an",
+      "a",
+      "—"
+     ],
+     "a": "the",
+     "x": "The internet is unique.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "A rule about first times.",
+     "s": "This is ___ first time I've led a meeting.",
+     "o": [
+      "the",
+      "a",
+      "an",
+      "—"
+     ],
+     "a": "the",
+     "x": "Ordinals take the.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "zero",
+   "title": "No article: general ideas",
+   "level": "B2",
+   "idea": "No article for general plural or uncountable nouns, most names, meals, and places like school, work or hospital when you mean their purpose.",
+   "ideaBn": "সাধারণভাবে বললে (সব মানুষ, টাকা, জীবন) article লাগে না। ঘরের নামে নয়, কাজের উদ্দেশ্যে গেলে go to school / work।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "General",
+     "pos": "Money is important. Dogs are loyal. Life is short.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Purpose",
+     "pos": "go to school / work / bed / hospital / university · at home",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "General plural and uncountable: no article.",
+     "bn": "সাধারণ অর্থে article নয়।",
+     "ex": "Customers expect fast replies. Information is power."
+    },
+    {
+     "rule": "Specific = the.",
+     "bn": "নির্দিষ্ট হলে the।",
+     "ex": "The customers in this branch are happy."
+    },
+    {
+     "rule": "go to work / school / bed / hospital for their purpose.",
+     "bn": "উদ্দেশ্যে গেলে article নয়।",
+     "ex": "She's in hospital. (patient) / She went to the hospital to visit him."
+    },
+    {
+     "rule": "Meals, days, months, languages, most countries: none.",
+     "bn": "খাবার, দিন, ভাষা — article নয়।",
+     "ex": "We had lunch on Monday. I speak Bangla. He lives in Canada."
+    },
+    {
+     "rule": "go to office ✗ — say go to the office or go to work.",
+     "bn": "office এর আগে the লাগে।",
+     "ex": "I go to the office by bus."
+    }
+   ],
+   "signals": [
+    "in general",
+    "purpose",
+    "meals",
+    "languages"
+   ],
+   "traps": [
+    {
+     "wrong": "I go to office at 9.",
+     "right": "I go to the office at 9. / I go to work at 9.",
+     "why": "Office is not in the school/work group.",
+     "bn": "'অফিসে যাই' = go to work বা go to the office।"
+    },
+    {
+     "wrong": "The life is beautiful.",
+     "right": "Life is beautiful.",
+     "why": "General idea: no article.",
+     "bn": "সাধারণ অর্থে the নয়।"
+    },
+    {
+     "wrong": "We had a lunch with client.",
+     "right": "We had lunch with the client.",
+     "why": "Meals: no article; known client: the.",
+     "bn": "meal এর আগে a নয়।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "A general opinion.",
+     "s": "___ honesty is the best policy.",
+     "o": [
+      "—",
+      "The",
+      "A",
+      "An"
+     ],
+     "a": "—",
+     "x": "Uncountable, general: no article."
+    },
+    {
+     "t": "choose",
+     "q": "Daily routine.",
+     "s": "I usually go to ___ work by metro.",
+     "o": [
+      "—",
+      "the",
+      "a",
+      "an"
+     ],
+     "a": "—",
+     "x": "go to work: no article."
+    },
+    {
+     "t": "type",
+     "q": "Daily routine.",
+     "s": "He leaves for ___ office at 8.",
+     "hint": "a / an / the",
+     "a": [
+      "the"
+     ],
+     "x": "Office needs the."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "The money can't buy the happiness.",
+      "Money can't buy happiness.",
+      "A money can't buy a happiness.",
+      "Money can't buy the happiness."
+     ],
+     "a": "Money can't buy happiness.",
+     "x": "General uncountable nouns: no article."
+    },
+    {
+     "t": "choose",
+     "q": "General vs specific.",
+     "s": "___ people in my team are very helpful.",
+     "o": [
+      "The",
+      "—",
+      "A",
+      "An"
+     ],
+     "a": "The",
+     "x": "Specific group (in my team): the."
+    },
+    {
+     "t": "bn",
+     "q": "সে ইংরেজি আর আরবি দুটোই বলতে পারে।",
+     "o": [
+      "She can speak English and Arabic.",
+      "She can speak the English and the Arabic.",
+      "She can speak an English and Arabic.",
+      "She can speak English and the Arabic."
+     ],
+     "a": "She can speak English and Arabic.",
+     "x": "Languages: no article."
+    },
+    {
+     "t": "choose",
+     "q": "Your uncle is a patient.",
+     "s": "My uncle has been in ___ hospital since Friday.",
+     "o": [
+      "—",
+      "a",
+      "an",
+      "the"
+     ],
+     "a": "—",
+     "x": "British English: in hospital as a patient. 'In the hospital' is American.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "About a specific building.",
+     "s": "Let's meet at ___ school gate at 4.",
+     "o": [
+      "the",
+      "—",
+      "a",
+      "an"
+     ],
+     "a": "the",
+     "x": "A specific place, not the purpose.",
+     "lv": "adv"
+    },
+    {
+     "t": "fix",
+     "q": "Pick the most natural sentence.",
+     "o": [
+      "The online shopping is growing in the Bangladesh.",
+      "Online shopping is growing in Bangladesh.",
+      "An online shopping is growing in Bangladesh.",
+      "Online shopping is growing in the Bangladesh."
+     ],
+     "a": "Online shopping is growing in Bangladesh.",
+     "x": "General activity and country name: no article.",
+     "lv": "adv"
+    }
+   ]
+  }
+ ],
+ "mastery": [
+  {
+   "t": "choose",
+   "q": "Email.",
+   "s": "Please find attached ___ invoice for March.",
+   "o": [
+    "the",
+    "a",
+    "an",
+    "—"
+   ],
+   "a": "the",
+   "x": "Both know which invoice (for March)."
+  },
+  {
+   "t": "choose",
+   "q": "Interview.",
+   "s": "I'd like to work for ___ international company.",
+   "o": [
+    "an",
+    "a",
+    "the",
+    "—"
+   ],
+   "a": "an",
+   "x": "Vowel sound, first mention."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "She is a best student in class.",
+    "She is the best student in the class.",
+    "She is best student in the class.",
+    "She is the best student in class the."
+   ],
+   "a": "She is the best student in the class.",
+   "x": "Superlative + known class."
+  },
+  {
+   "t": "choose",
+   "q": "General statement.",
+   "s": "___ teachers work very hard in this country.",
+   "o": [
+    "—",
+    "A",
+    "An",
+    "This"
+   ],
+   "a": "—",
+   "x": "General plural: no article."
+  },
+  {
+   "t": "bn",
+   "q": "আমি প্রতিদিন সকালে নাস্তা করি।",
+   "o": [
+    "I have breakfast every morning.",
+    "I have a breakfast every morning.",
+    "I have the breakfast every morning.",
+    "I have breakfast every the morning."
+   ],
+   "a": "I have breakfast every morning.",
+   "x": "Meals: no article."
+  },
+  {
+   "t": "choose",
+   "q": "Product talk.",
+   "s": "This app is ___ useful tool for students.",
+   "o": [
+    "a",
+    "an",
+    "the",
+    "—"
+   ],
+   "a": "a",
+   "x": "Useful = 'you' sound: a."
+  },
+  {
+   "t": "choose",
+   "q": "Phone call.",
+   "s": "Could I speak to ___ person in charge, please?",
+   "o": [
+    "the",
+    "a",
+    "an",
+    "—"
+   ],
+   "a": "the",
+   "x": "Only one person in charge."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "I'm going to office now.",
+    "I'm going to the office now.",
+    "I'm going to an office now.",
+    "I'm going the office now."
+   ],
+   "a": "I'm going to the office now.",
+   "x": "office needs the."
+  }
+ ],
+ "decide": [
+  {
+   "q": "Is it a singular countable noun mentioned for the first time, or a job?",
+   "yes": "a / an (sound decides).",
+   "no": "Go on."
+  },
+  {
+   "q": "Does the listener know exactly which one (mentioned, unique, best/first)?",
+   "yes": "the",
+   "no": "Go on."
+  },
+  {
+   "q": "Is it general: plural, uncountable, meal, language, most countries?",
+   "yes": "No article.",
+   "no": "Check: school / work / bed / hospital for their purpose take no article."
+  }
+ ]
+}

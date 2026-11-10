@@ -1,0 +1,453 @@
+{
+ "title": "Persuading and negotiating",
+ "intro": "Whether you're agreeing a price with a buyer or asking your manager for more time, negotiation is about clear conditions and a flexible tone. Learn to make offers, set terms, soften proposals and give convincing reasons.",
+ "introBn": "দাম ঠিক করা হোক বা বসের কাছে সময় চাওয়া, দরকষাকষিতে দরকার স্পষ্ট শর্ত আর নমনীয় সুর। প্রস্তাব দেওয়া, শর্ত বলা আর যুক্তি দিয়ে বোঝানোর ইংরেজি শিখুন।",
+ "units": [
+  {
+   "id": "conditions",
+   "title": "Offers and conditions",
+   "level": "B2",
+   "idea": "Negotiation is built on conditions. Use if + past with would for tentative offers, and provided that, as long as and unless to set your terms clearly.",
+   "ideaBn": "দরকষাকষি শর্তের উপর চলে। নরম প্রস্তাবে If you could…, we would…; শর্ত দিতে provided that, as long as, unless।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Tentative offer",
+     "pos": "If you could pay in advance, we would give you a 5% discount.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Firm offer",
+     "pos": "If you order 500 units, we'll include free delivery.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Conditions",
+     "pos": "provided that / as long as + present · unless = if not",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "If + past, would: a softer, hypothetical offer.",
+     "bn": "If + past, would দিয়ে নরম প্রস্তাব।",
+     "ex": "If you signed today, we would hold this price for a year."
+    },
+    {
+     "rule": "If + present, will: a real, firm offer.",
+     "bn": "নিশ্চিত প্রস্তাবে If + present, will।",
+     "ex": "If you confirm by Friday, we'll start next month."
+    },
+    {
+     "rule": "Provided that / as long as + present tense, not will.",
+     "bn": "provided that / as long as এর পরে present, will নয়।",
+     "ex": "We can deliver in May, as long as you send the designs this week."
+    },
+    {
+     "rule": "Unless = except if; don't add another negative.",
+     "bn": "unless মানে 'যদি না'; আবার not যোগ করবেন না।",
+     "ex": "We can't lower the price unless you increase the order."
+    },
+    {
+     "rule": "Trade: give something to get something.",
+     "bn": "কিছু দিয়ে কিছু নিন।",
+     "ex": "If you could extend the contract to two years, we'd be able to reduce the monthly fee."
+    }
+   ],
+   "signals": [
+    "if you could",
+    "we would",
+    "provided that",
+    "as long as",
+    "unless",
+    "in return"
+   ],
+   "traps": [
+    {
+     "wrong": "If you will pay early, we give discount.",
+     "right": "If you pay early, we'll give you a discount.",
+     "why": "No will after if; future in the main clause.",
+     "bn": "if এর পরে will নয়।"
+    },
+    {
+     "wrong": "Unless you don't pay, we won't ship.",
+     "right": "Unless you pay, we won't ship.",
+     "why": "Unless already means 'if not'.",
+     "bn": "unless এর সাথে don't দিলে দ্বি-নেতিবাচক হয়।"
+    },
+    {
+     "wrong": "As long as you will sign, we agree.",
+     "right": "As long as you sign, we're happy to agree.",
+     "why": "Present tense after as long as.",
+     "bn": "as long as এর পরে present।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "A tentative offer to a client.",
+     "s": "If you ___ pay half up front, we would start next week.",
+     "o": [
+      "could",
+      "can will",
+      "would to",
+      "will could"
+     ],
+     "a": "could",
+     "x": "If you could…, we would…"
+    },
+    {
+     "t": "type",
+     "q": "A firm, real offer.",
+     "s": "If you order today, we ___ deliver free of charge.",
+     "hint": "will",
+     "a": [
+      "will",
+      "'ll"
+     ],
+     "x": "If + present, will."
+    },
+    {
+     "t": "choose",
+     "q": "Condition.",
+     "s": "We can agree to the price ___ you sign a one-year contract.",
+     "o": [
+      "provided that",
+      "unless",
+      "even if",
+      "in case of"
+     ],
+     "a": "provided that",
+     "x": "Provided that = only if."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "Unless you don't confirm by Monday, we'll cancel.",
+      "Unless you confirm by Monday, we'll cancel the booking.",
+      "Unless you will confirm by Monday, we cancel.",
+      "If you not confirm by Monday, we cancel."
+     ],
+     "a": "Unless you confirm by Monday, we'll cancel the booking.",
+     "x": "Unless = if not.",
+     "lv": "adv"
+    },
+    {
+     "t": "bn",
+     "q": "আপনারা যদি অর্ডার দ্বিগুণ করেন, আমরা দাম ১০% কমাতে পারি।",
+     "o": [
+      "If you doubled the order, we could lower the price by 10%.",
+      "If you will double order, we can less the price 10%.",
+      "If you double the order, we could lowered the price 10%.",
+      "If you doubled order, we can to reduce 10% price."
+     ],
+     "a": "If you doubled the order, we could lower the price by 10%.",
+     "x": "If + past, could."
+    },
+    {
+     "t": "type",
+     "q": "Condition with present tense.",
+     "s": "We'll finish on time as long as the client ___ the content by Friday.",
+     "hint": "send",
+     "a": [
+      "sends"
+     ],
+     "x": "Present after as long as."
+    },
+    {
+     "t": "choose",
+     "q": "Negotiating at a garment buyer meeting.",
+     "s": "___ you could accept a later delivery date, we would be able to cut costs.",
+     "o": [
+      "If",
+      "Unless",
+      "Despite",
+      "Even"
+     ],
+     "a": "If",
+     "x": "If you could…"
+    },
+    {
+     "t": "bn",
+     "q": "যতক্ষণ মান ঠিক থাকে, আমরা রাজি।",
+     "o": [
+      "As long as the quality stays the same, we're happy to agree.",
+      "As long as the quality will be same, we are agree.",
+      "Unless the quality stays the same, we agree.",
+      "So long the quality same, we agreed."
+     ],
+     "a": "As long as the quality stays the same, we're happy to agree.",
+     "x": "As long as + present.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "persuade",
+   "title": "Softening and persuading",
+   "level": "C1",
+   "idea": "Strong negotiators sound flexible but firm. Soften proposals with we'd be willing to, would you consider and we might be able to, then persuade with clear reasons and comparisons.",
+   "ideaBn": "ভালো আলোচক নমনীয় কিন্তু দৃঢ়। we'd be willing to, would you consider দিয়ে প্রস্তাব নরম করুন, তারপর কারণ আর তুলনা দিয়ে বোঝান।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Soften",
+     "pos": "We'd be willing to… · Would you consider…? · We might be able to… · I'm not sure we could go that far.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Persuade",
+     "pos": "The main advantage is… · It's far more reliable than… · In the long run, you'd save…",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "We'd be willing to + verb: a flexible offer.",
+     "bn": "নমনীয় প্রস্তাব: we'd be willing to + verb।",
+     "ex": "We'd be willing to split the delivery cost."
+    },
+    {
+     "rule": "Would you consider + -ing?: a soft proposal.",
+     "bn": "Would you consider এর পরে -ing।",
+     "ex": "Would you consider extending the deadline by a week?"
+    },
+    {
+     "rule": "Reject softly: I'm afraid that's a bit more than we can manage.",
+     "bn": "নরমভাবে প্রত্যাখ্যান করুন।",
+     "ex": "I'm afraid that's a little higher than our budget allows."
+    },
+    {
+     "rule": "Compare with much/far + comparative.",
+     "bn": "তুলনা জোরালো করতে much/far + comparative।",
+     "ex": "Our system is far cheaper to maintain than the old one."
+    },
+    {
+     "rule": "Give a reason and a long-term benefit.",
+     "bn": "কারণ আর দীর্ঘমেয়াদি সুবিধা বলুন।",
+     "ex": "It costs more up front, but you'd save a lot in the long run."
+    }
+   ],
+   "signals": [
+    "we'd be willing to",
+    "would you consider",
+    "might be able to",
+    "far more",
+    "in the long run",
+    "the main advantage"
+   ],
+   "traps": [
+    {
+     "wrong": "Would you consider to extend the deadline?",
+     "right": "Would you consider extending the deadline?",
+     "why": "Consider + -ing.",
+     "bn": "consider এর পরে -ing।"
+    },
+    {
+     "wrong": "Our price is more cheaper.",
+     "right": "Our price is much cheaper.",
+     "why": "Don't use more with -er.",
+     "bn": "more আর -er একসাথে নয়।"
+    },
+    {
+     "wrong": "This is our final price, take it or leave it.",
+     "right": "I'm afraid this is the best we can offer at the moment.",
+     "why": "Too aggressive; it can end the deal.",
+     "bn": "খুব কড়া; চুক্তি ভেঙে যেতে পারে।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "A flexible offer.",
+     "s": "We'd be ___ to cover half of the shipping cost.",
+     "o": [
+      "willing",
+      "agree",
+      "ready for",
+      "wanting"
+     ],
+     "a": "willing",
+     "x": "Be willing to + verb."
+    },
+    {
+     "t": "type",
+     "q": "A soft proposal.",
+     "s": "Would you consider ___ the payment into two parts?",
+     "hint": "split",
+     "a": [
+      "splitting"
+     ],
+     "x": "Consider + -ing."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the most natural and polite way to reject a price.",
+     "o": [
+      "That price is crazy.",
+      "No. Too expensive.",
+      "I'm afraid that's a bit higher than our budget allows. Is there any flexibility?",
+      "You are cheating us."
+     ],
+     "a": "I'm afraid that's a bit higher than our budget allows. Is there any flexibility?",
+     "x": "Soft rejection + open question."
+    },
+    {
+     "t": "choose",
+     "q": "Comparison.",
+     "s": "Our software is ___ faster than the one you're using now.",
+     "o": [
+      "much",
+      "more",
+      "very",
+      "most"
+     ],
+     "a": "much",
+     "x": "Much + comparative."
+    },
+    {
+     "t": "bn",
+     "q": "দীর্ঘমেয়াদে আপনার অনেক টাকা বাঁচবে।",
+     "o": [
+      "In the long run, you'd save a lot of money.",
+      "In long term, you will save many money.",
+      "In the long run, you would saved a lot of money.",
+      "For a long time, you save much money."
+     ],
+     "a": "In the long run, you'd save a lot of money.",
+     "x": "In the long run = over time."
+    },
+    {
+     "t": "choose",
+     "q": "Leaving room to agree later.",
+     "s": "We ___ be able to offer free installation if you sign this month.",
+     "o": [
+      "might",
+      "must",
+      "should to",
+      "can to"
+     ],
+     "a": "might",
+     "x": "Might be able to = tentative."
+    },
+    {
+     "t": "type",
+     "q": "Comparative.",
+     "s": "This plan is far ___ reliable than the cheaper option.",
+     "hint": "much",
+     "a": [
+      "more"
+     ],
+     "x": "Far more + adjective."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the most persuasive sentence for a client.",
+     "o": [
+      "Buy ours, it is best.",
+      "Our product is more better than others.",
+      "The main advantage is that our machines use 30% less power, so your bills would be much lower.",
+      "Everybody buys this, so you also buy."
+     ],
+     "a": "The main advantage is that our machines use 30% less power, so your bills would be much lower.",
+     "x": "Clear benefit with a reason.",
+     "lv": "adv"
+    },
+    {
+     "t": "bn",
+     "q": "আমরা হয়তো ডেলিভারির সময় এক সপ্তাহ এগিয়ে আনতে পারি।",
+     "o": [
+      "We might be able to bring the delivery forward by a week.",
+      "We may can prepone the delivery one week.",
+      "We might able to bring forward delivery a week.",
+      "Maybe we can to bring the delivery before one week."
+     ],
+     "a": "We might be able to bring the delivery forward by a week.",
+     "x": "Might be able to + bring forward.",
+     "lv": "adv"
+    }
+   ]
+  }
+ ],
+ "mastery": [
+  {
+   "t": "choose",
+   "q": "Tentative offer.",
+   "s": "If you could wait two more weeks, we ___ reduce the price.",
+   "o": [
+    "could",
+    "can will",
+    "will be",
+    "are"
+   ],
+   "a": "could",
+   "x": "If + past, could/would."
+  },
+  {
+   "t": "type",
+   "q": "Condition.",
+   "s": "We'll accept the terms provided that payment ___ within 30 days.",
+   "hint": "be made",
+   "a": [
+    "is made"
+   ],
+   "x": "Present after provided that."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "Unless you don't agree, we'll go ahead.",
+    "Unless you object, we'll go ahead.",
+    "Unless you will object, we go ahead.",
+    "Unless not you object, we'll go ahead."
+   ],
+   "a": "Unless you object, we'll go ahead.",
+   "x": "Unless = if not."
+  },
+  {
+   "t": "bn",
+   "q": "আপনি কি চুক্তিটা দুই বছরের জন্য করার কথা ভাববেন?",
+   "o": [
+    "Would you consider signing a two-year contract?",
+    "Would you consider to sign a two-year contract?",
+    "Will you think to make contract for two years?",
+    "Would you considering sign two-year contract?"
+   ],
+   "a": "Would you consider signing a two-year contract?",
+   "x": "Consider + -ing."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the most natural and polite reply to a low offer.",
+   "o": [
+    "That's an insult.",
+    "No way, too low.",
+    "I appreciate the offer, but I'm afraid we couldn't go below 50,000 taka.",
+    "Give more money."
+   ],
+   "a": "I appreciate the offer, but I'm afraid we couldn't go below 50,000 taka.",
+   "x": "Thanks + soft but firm limit."
+  },
+  {
+   "t": "choose",
+   "q": "Comparison.",
+   "s": "This option is ___ cheaper in the long run.",
+   "o": [
+    "far",
+    "more",
+    "very more",
+    "most"
+   ],
+   "a": "far",
+   "x": "Far + comparative."
+  }
+ ],
+ "decide": []
+}

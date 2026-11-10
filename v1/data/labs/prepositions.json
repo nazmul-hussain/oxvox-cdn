@@ -1,0 +1,684 @@
+{
+ "title": "Prepositions that matter",
+ "intro": "Small words, big impression. Wrong prepositions are the second thing a listener notices. Learn the patterns for time, place and the most common business verbs.",
+ "introBn": "ছোট শব্দ, কিন্তু ভুল হলে সবার আগে চোখে পড়ে।",
+ "units": [
+  {
+   "id": "time",
+   "title": "Time: at, on, in, by, until",
+   "level": "A2",
+   "idea": "at for a clock time, on for a day or date, in for longer periods. By = not later than; until = up to that time.",
+   "ideaBn": "at = ঘড়ির সময়, on = দিন/তারিখ, in = মাস/বছর/সময়কাল। by = এর মধ্যে, until = পর্যন্ত।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Points",
+     "pos": "at 9 am · at noon · at night · at the weekend (UK)",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Days",
+     "pos": "on Monday · on 5 May · on my birthday",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Periods",
+     "pos": "in June · in 2026 · in the morning · in two days (from now)",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "No preposition before this, next, last, every, tomorrow, yesterday.",
+     "bn": "this/next/last এর আগে on/in নয়।",
+     "ex": "See you next Monday. (not: on next Monday)"
+    },
+    {
+     "rule": "By = deadline; until = continuous up to then.",
+     "bn": "by = সময়সীমা; until = ততক্ষণ চলবে।",
+     "ex": "Send it by Friday. I'll be in the office until 6."
+    },
+    {
+     "rule": "In + time = after that time from now.",
+     "bn": "এখন থেকে পরে।",
+     "ex": "The driver will be here in ten minutes."
+    },
+    {
+     "rule": "During + noun, for + length.",
+     "bn": "during = সময়ের মধ্যে, for = কতক্ষণ।",
+     "ex": "I slept during the flight. I slept for two hours."
+    }
+   ],
+   "signals": [
+    "at",
+    "on",
+    "in",
+    "by",
+    "until",
+    "during",
+    "for"
+   ],
+   "traps": [
+    {
+     "wrong": "I will come at Sunday.",
+     "right": "I will come on Sunday.",
+     "why": "Days take on.",
+     "bn": "দিনের আগে on।"
+    },
+    {
+     "wrong": "We met on last week.",
+     "right": "We met last week.",
+     "why": "No preposition before last/next/this.",
+     "bn": "last/next এর আগে কিছু বসে না।"
+    },
+    {
+     "wrong": "Submit it until Friday.",
+     "right": "Submit it by Friday.",
+     "why": "Deadline = by.",
+     "bn": "'শুক্রবারের মধ্যে' = by Friday।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Scheduling.",
+     "s": "The interview is ___ Tuesday.",
+     "o": [
+      "on",
+      "at",
+      "in",
+      "by"
+     ],
+     "a": "on",
+     "x": "Days: on."
+    },
+    {
+     "t": "choose",
+     "q": "Scheduling.",
+     "s": "Let's start ___ 10:30 sharp.",
+     "o": [
+      "at",
+      "on",
+      "in",
+      "by"
+     ],
+     "a": "at",
+     "x": "Clock time: at."
+    },
+    {
+     "t": "choose",
+     "q": "Deadline.",
+     "s": "Please send the report ___ Thursday.",
+     "o": [
+      "by",
+      "until",
+      "at",
+      "since"
+     ],
+     "a": "by",
+     "x": "Not later than: by."
+    },
+    {
+     "t": "choose",
+     "q": "Duration.",
+     "s": "The shop stays open ___ midnight.",
+     "o": [
+      "until",
+      "by",
+      "at",
+      "on"
+     ],
+     "a": "until",
+     "x": "Continues up to that time."
+    },
+    {
+     "t": "type",
+     "q": "Talking about the future.",
+     "s": "Your food will arrive ___ 20 minutes.",
+     "hint": "preposition",
+     "a": [
+      "in"
+     ],
+     "x": "In + time = from now."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "I'll call you on next week.",
+      "I'll call you next week.",
+      "I'll call you in next week.",
+      "I'll call you at next week."
+     ],
+     "a": "I'll call you next week.",
+     "x": "No preposition before next."
+    },
+    {
+     "t": "bn",
+     "q": "আমি ফ্লাইটের সময় ঘুমিয়েছিলাম।",
+     "o": [
+      "I slept during the flight.",
+      "I slept for the flight.",
+      "I slept while the flight.",
+      "I slept in during the flight."
+     ],
+     "a": "I slept during the flight.",
+     "x": "During + noun."
+    },
+    {
+     "t": "choose",
+     "q": "Formal date.",
+     "s": "The office will be closed ___ the morning of 16 December.",
+     "o": [
+      "on",
+      "in",
+      "at",
+      "by"
+     ],
+     "a": "on",
+     "x": "A specific morning (with a date) takes on.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "A start date in a job offer.",
+     "s": "You will start work ___ the beginning of next month.",
+     "o": [
+      "at",
+      "in",
+      "on",
+      "by"
+     ],
+     "a": "at",
+     "x": "At the beginning / at the end of.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "place",
+   "title": "Place: at, in, on, to",
+   "level": "A2",
+   "idea": "at a point (at the gate, at the bank), in an area or inside (in Dhaka, in the room), on a surface or line (on the table, on the road). To shows movement.",
+   "ideaBn": "at = নির্দিষ্ট জায়গা, in = ভেতরে/এলাকায়, on = উপরে/তলের ওপর, to = কোথাও যাওয়া।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Point",
+     "pos": "at the station · at work · at home · at the meeting",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Inside",
+     "pos": "in the car · in a taxi · in Gulshan · in the photo",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Surface / transport",
+     "pos": "on the bus · on the train · on a plane · on the 5th floor",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Car and taxi: in. Bus, train, plane, rickshaw: on.",
+     "bn": "গাড়ি/ট্যাক্সি in; বাস/ট্রেন/প্লেন on।",
+     "ex": "I'm in a taxi. I'm on the bus."
+    },
+    {
+     "rule": "Arrive in a city/country, arrive at a building/point. Never 'arrive to'.",
+     "bn": "arrive এর পরে to নয়।",
+     "ex": "We arrived in Dhaka. We arrived at the airport."
+    },
+    {
+     "rule": "Go to, but go home (no to).",
+     "bn": "home এর আগে to নয়।",
+     "ex": "I'm going home."
+    },
+    {
+     "rule": "Floors: on the 3rd floor.",
+     "bn": "তলা = on।",
+     "ex": "Our office is on the 7th floor."
+    }
+   ],
+   "signals": [
+    "at",
+    "in",
+    "on",
+    "to",
+    "into"
+   ],
+   "traps": [
+    {
+     "wrong": "I reached to Dhaka at night.",
+     "right": "I reached Dhaka at night. / I arrived in Dhaka at night.",
+     "why": "Reach takes no preposition.",
+     "bn": "reach এর পরে to নয়।"
+    },
+    {
+     "wrong": "I am going to home.",
+     "right": "I am going home.",
+     "why": "Home: no to.",
+     "bn": "go home।"
+    },
+    {
+     "wrong": "He is in the bus.",
+     "right": "He is on the bus.",
+     "why": "Bus, train, plane: on.",
+     "bn": "বাস = on।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "On the phone.",
+     "s": "I'm stuck ___ traffic. I'll be late.",
+     "o": [
+      "in",
+      "on",
+      "at",
+      "to"
+     ],
+     "a": "in",
+     "x": "Stuck in traffic."
+    },
+    {
+     "t": "choose",
+     "q": "Directions.",
+     "s": "The meeting room is ___ the fourth floor.",
+     "o": [
+      "on",
+      "in",
+      "at",
+      "to"
+     ],
+     "a": "on",
+     "x": "Floors: on."
+    },
+    {
+     "t": "type",
+     "q": "Travel.",
+     "s": "We arrived ___ Chattogram at 7 am.",
+     "hint": "preposition",
+     "a": [
+      "in"
+     ],
+     "x": "Arrive in + city."
+    },
+    {
+     "t": "choose",
+     "q": "Travel.",
+     "s": "Call me when you arrive ___ the hotel.",
+     "o": [
+      "at",
+      "in",
+      "to",
+      "on"
+     ],
+     "a": "at",
+     "x": "Arrive at + building/point."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "She reached to the office late.",
+      "She reached the office late.",
+      "She reached at the office late.",
+      "She reached in the office late."
+     ],
+     "a": "She reached the office late.",
+     "x": "Reach + place directly."
+    },
+    {
+     "t": "bn",
+     "q": "আমি এখন বাসে আছি।",
+     "o": [
+      "I'm on the bus now.",
+      "I'm in the bus now.",
+      "I'm at the bus now.",
+      "I'm to the bus now."
+     ],
+     "a": "I'm on the bus now.",
+     "x": "Public transport: on."
+    },
+    {
+     "t": "choose",
+     "q": "Location.",
+     "s": "She is ___ a meeting right now.",
+     "o": [
+      "in",
+      "on",
+      "at",
+      "to"
+     ],
+     "a": "in",
+     "x": "In a meeting (taking part).",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Movement inside.",
+     "s": "He walked ___ the room without knocking.",
+     "o": [
+      "into",
+      "in to",
+      "at",
+      "on"
+     ],
+     "a": "into",
+     "x": "Movement to the inside: into.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "verbs",
+   "title": "Verb + preposition (business)",
+   "level": "B2",
+   "idea": "Many verbs have a fixed partner, and some have none. Learn them as one unit: depend on, reply to, discuss (nothing), explain to.",
+   "ideaBn": "কিছু verb এর সাথে নির্দিষ্ট preposition বসে, আর কিছুর সাথে কিছুই বসে না — বাংলা অনুবাদ করে 'about' বসাবেন না।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "No preposition",
+     "pos": "discuss it · contact us · attend the meeting · answer the email · enter the room · reach the office",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Fixed partners",
+     "pos": "reply to · depend on · apply for · insist on · agree with (a person) / to (a plan) · explain it to me",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Discuss, contact, attend, answer, enter, reach, marry: no preposition.",
+     "bn": "এগুলোর পরে সরাসরি object।",
+     "ex": "Let's discuss the budget. Please contact HR."
+    },
+    {
+     "rule": "Reply to, listen to, explain to, belong to.",
+     "bn": "to লাগে।",
+     "ex": "Please reply to this email."
+    },
+    {
+     "rule": "Responsible for, apply for, wait for, pay for.",
+     "bn": "for লাগে।",
+     "ex": "I'm responsible for the sales team."
+    },
+    {
+     "rule": "Interested in, good at, afraid of, aware of, similar to, different from.",
+     "bn": "adjective + preposition।",
+     "ex": "I'm interested in the position."
+    }
+   ],
+   "signals": [
+    "discuss",
+    "reply to",
+    "depend on",
+    "apply for",
+    "interested in"
+   ],
+   "traps": [
+    {
+     "wrong": "We discussed about the issue.",
+     "right": "We discussed the issue.",
+     "why": "Discuss takes no preposition.",
+     "bn": "discuss about বলবেন না।"
+    },
+    {
+     "wrong": "Please reply me.",
+     "right": "Please reply to me.",
+     "why": "Reply needs to.",
+     "bn": "reply to me।"
+    },
+    {
+     "wrong": "Explain me the problem.",
+     "right": "Explain the problem to me.",
+     "why": "Explain something to someone.",
+     "bn": "explain me নয়।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Meeting.",
+     "s": "Let's ___ the new pricing tomorrow.",
+     "o": [
+      "discuss",
+      "discuss about",
+      "discuss on",
+      "discuss for"
+     ],
+     "a": "discuss",
+     "x": "No preposition."
+    },
+    {
+     "t": "type",
+     "q": "Email.",
+     "s": "Thanks for your quick reply ___ my question.",
+     "hint": "preposition",
+     "a": [
+      "to"
+     ],
+     "x": "Reply to."
+    },
+    {
+     "t": "choose",
+     "q": "Job hunting.",
+     "s": "I'd like to apply ___ the position of Sales Executive.",
+     "o": [
+      "for",
+      "to",
+      "on",
+      "at"
+     ],
+     "a": "for",
+     "x": "Apply for a job (apply to a company)."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "Can you explain me how it works?",
+      "Can you explain how it works to me?",
+      "Can you explain to me how does it work?",
+      "Can you explain me about how it works?"
+     ],
+     "a": "Can you explain how it works to me?",
+     "x": "Explain + thing + to + person (explain to me how it works is also fine)."
+    },
+    {
+     "t": "choose",
+     "q": "Planning.",
+     "s": "Our plan depends ___ the budget.",
+     "o": [
+      "on",
+      "of",
+      "from",
+      "to"
+     ],
+     "a": "on",
+     "x": "Depend on."
+    },
+    {
+     "t": "bn",
+     "q": "আমি এই পদের ব্যাপারে আগ্রহী।",
+     "o": [
+      "I'm interested in this position.",
+      "I'm interested for this position.",
+      "I'm interested about this position.",
+      "I'm interesting in this position."
+     ],
+     "a": "I'm interested in this position.",
+     "x": "Interested in; interested (feeling) not interesting."
+    },
+    {
+     "t": "choose",
+     "q": "Customer service.",
+     "s": "Please contact ___ our support team.",
+     "o": [
+      "—",
+      "to",
+      "with",
+      "at"
+     ],
+     "a": "—",
+     "x": "Contact + object directly."
+    },
+    {
+     "t": "choose",
+     "q": "Approval.",
+     "s": "The board agreed ___ the proposal.",
+     "o": [
+      "to",
+      "with",
+      "on",
+      "at"
+     ],
+     "a": "to",
+     "x": "Agree to a plan; agree with a person.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Comparison.",
+     "s": "Our approach is quite different ___ theirs.",
+     "o": [
+      "from",
+      "than",
+      "with",
+      "of"
+     ],
+     "a": "from",
+     "x": "Different from (UK/US standard).",
+     "lv": "adv"
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "He insisted to pay the bill.",
+      "He insisted on paying the bill.",
+      "He insisted for paying the bill.",
+      "He insisted paying on the bill."
+     ],
+     "a": "He insisted on paying the bill.",
+     "x": "Insist on + -ing.",
+     "lv": "adv"
+    }
+   ]
+  }
+ ],
+ "mastery": [
+  {
+   "t": "choose",
+   "q": "Email.",
+   "s": "I look forward ___ hearing from you.",
+   "o": [
+    "to",
+    "for",
+    "at",
+    "on"
+   ],
+   "a": "to",
+   "x": "Look forward to + -ing."
+  },
+  {
+   "t": "choose",
+   "q": "Phone.",
+   "s": "I'll call you back ___ five minutes.",
+   "o": [
+    "in",
+    "after",
+    "within to",
+    "on"
+   ],
+   "a": "in",
+   "x": "In + time from now."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "We will discuss about it on next meeting.",
+    "We will discuss it at the next meeting.",
+    "We will discuss it in next meeting.",
+    "We will discuss about it at next meeting."
+   ],
+   "a": "We will discuss it at the next meeting.",
+   "x": "Discuss + object; at a meeting; the next."
+  },
+  {
+   "t": "bn",
+   "q": "আমি পাঁচ বছর ধরে এই কোম্পানিতে আছি।",
+   "o": [
+    "I have been with this company for five years.",
+    "I am in this company since five years.",
+    "I have been in this company from five years.",
+    "I am with this company for five years."
+   ],
+   "a": "I have been with this company for five years.",
+   "x": "Present perfect + for + length."
+  },
+  {
+   "t": "choose",
+   "q": "Arrival.",
+   "s": "What time did you get ___ the office?",
+   "o": [
+    "to",
+    "at",
+    "in",
+    "—"
+   ],
+   "a": "to",
+   "x": "Get to a place."
+  },
+  {
+   "t": "choose",
+   "q": "Responsibility.",
+   "s": "Who is responsible ___ this project?",
+   "o": [
+    "for",
+    "of",
+    "to",
+    "on"
+   ],
+   "a": "for",
+   "x": "Responsible for."
+  },
+  {
+   "t": "type",
+   "q": "Deadline.",
+   "s": "The payment must be made ___ the 25th.",
+   "hint": "by / until",
+   "a": [
+    "by"
+   ],
+   "x": "Deadline: by."
+  },
+  {
+   "t": "choose",
+   "q": "Skills.",
+   "s": "She's very good ___ handling difficult clients.",
+   "o": [
+    "at",
+    "in",
+    "on",
+    "with"
+   ],
+   "a": "at",
+   "x": "Good at + -ing."
+  }
+ ],
+ "decide": []
+}

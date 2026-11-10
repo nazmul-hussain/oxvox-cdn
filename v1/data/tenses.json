@@ -1,0 +1,2731 @@
+{
+ "title": "Tense Lab",
+ "intro": "Tense is about time and about how the speaker sees the action: finished or still going, a fact or a temporary thing, planned or decided now. Each unit shows the time on a line, the pattern, the traps Bangla speakers fall into, and then drills from real situations.",
+ "introBn": "বাংলায় আমরা অনেক সময় একই রূপ দিয়ে কাজ চালাই, কিন্তু ইংরেজিতে সময় আর কাজের অবস্থা (শেষ হয়েছে কিনা, এখনো চলছে কিনা) দেখে tense বাছতে হয়।",
+ "units": [
+  {
+   "id": "pres",
+   "title": "Present simple vs present continuous",
+   "level": "B1",
+   "idea": "Simple = facts, habits, permanent things. Continuous = happening around now, temporary, changing.",
+   "ideaBn": "Simple মানে নিয়মিত বা স্থায়ী সত্য; continuous মানে এই মুহূর্তে বা এই কদিন সাময়িকভাবে চলছে।",
+   "timeline": [
+    {
+     "kind": "repeat",
+     "from": -0.9,
+     "to": 0.9,
+     "label": "habit: I work in Dhaka"
+    },
+    {
+     "kind": "wave",
+     "from": -0.2,
+     "to": 0.2,
+     "label": "now: I'm working from home this week"
+    }
+   ],
+   "formula": [
+    {
+     "name": "Simple",
+     "pos": "I/you/we/they work · he/she works",
+     "neg": "don't / doesn't work",
+     "q": "Do you work? Does she work?"
+    },
+    {
+     "name": "Continuous",
+     "pos": "am / is / are + working",
+     "neg": "am not / isn't / aren't working",
+     "q": "Are you working?"
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Permanent situation vs temporary one.",
+     "bn": "স্থায়ী হলে simple, সাময়িক হলে continuous।",
+     "ex": "She lives in Sylhet, but she's staying with her aunt this month."
+    },
+    {
+     "rule": "Stative verbs (know, believe, want, need, belong, seem, own, prefer) are not normally continuous.",
+     "bn": "মনের অবস্থা বা মালিকানা বোঝানো verb সাধারণত -ing নেয় না।",
+     "ex": "I know the answer. (not: I am knowing)"
+    },
+    {
+     "rule": "Some verbs change meaning: think (opinion) vs thinking (considering), have (own) vs having (doing), see (understand) vs seeing (meeting).",
+     "bn": "একই verb দুই অর্থে দুই রূপ নেয়।",
+     "ex": "I think it's expensive. / I'm thinking of buying it."
+    },
+    {
+     "rule": "Always + continuous = an annoying repeated habit.",
+     "bn": "বিরক্তিকর অভ্যাস বোঝাতে always + -ing।",
+     "ex": "He's always leaving the gate open!"
+    },
+    {
+     "rule": "Changing trends use continuous.",
+     "bn": "ধীরে ধীরে বদলাচ্ছে এমন কিছু।",
+     "ex": "Prices are rising every month."
+    }
+   ],
+   "signals": [
+    "usually",
+    "every day",
+    "never",
+    "currently",
+    "at the moment",
+    "these days",
+    "this week",
+    "nowadays"
+   ],
+   "traps": [
+    {
+     "wrong": "I am knowing him for years.",
+     "right": "I have known him for years.",
+     "why": "Know is stative, and 'for years' needs present perfect.",
+     "bn": "'আমি তাকে বহু বছর ধরে চিনি' — বাংলায় present, ইংরেজিতে present perfect।"
+    },
+    {
+     "wrong": "He go to office every day.",
+     "right": "He goes to the office every day.",
+     "why": "He/she/it needs -s in present simple.",
+     "bn": "Third person singular-এ verb-এর সাথে s/es বসবে।"
+    },
+    {
+     "wrong": "Where you are going?",
+     "right": "Where are you going?",
+     "why": "In a question the helper verb comes before the subject.",
+     "bn": "প্রশ্নে auxiliary আগে, subject পরে।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Your friend calls. You are in the middle of cooking.",
+     "s": "Can I call you back? I ___ dinner.",
+     "o": [
+      "am cooking",
+      "cook",
+      "have cooked",
+      "cooked"
+     ],
+     "a": "am cooking",
+     "x": "The action is happening right now, so present continuous."
+    },
+    {
+     "t": "choose",
+     "q": "Talking about your job in an interview.",
+     "s": "I ___ for a software company in Gulshan.",
+     "o": [
+      "work",
+      "am working",
+      "worked",
+      "have work"
+     ],
+     "a": "work",
+     "x": "A permanent job is a fact about you: present simple. 'I'm working' would suggest a temporary job."
+    },
+    {
+     "t": "type",
+     "q": "A fact about the world.",
+     "s": "Water ___ at 100 degrees Celsius.",
+     "hint": "boil",
+     "a": [
+      "boils"
+     ],
+     "x": "Scientific facts use present simple; 'water' is singular so add -s."
+    },
+    {
+     "t": "type",
+     "q": "Your brother is usually lazy, but this week is different.",
+     "s": "He ___ really hard this week because exams start on Sunday.",
+     "hint": "study",
+     "a": [
+      "is studying",
+      "'s studying"
+     ],
+     "x": "Temporary situation (this week): present continuous."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "I am wanting a cup of tea.",
+      "I want a cup of tea.",
+      "I wanting a cup of tea.",
+      "I am want a cup of tea."
+     ],
+     "a": "I want a cup of tea.",
+     "x": "Want is a stative verb, so no -ing."
+    },
+    {
+     "t": "choose",
+     "q": "Your colleague asks why you look worried.",
+     "s": "I ___ about whether to accept the offer from Dubai.",
+     "o": [
+      "am thinking",
+      "think",
+      "thinks",
+      "have think"
+     ],
+     "a": "am thinking",
+     "x": "Think = considering, an activity, so continuous is correct here."
+    },
+    {
+     "t": "bn",
+     "q": "সে সবসময় দেরি করে আসে! (বিরক্তি নিয়ে)",
+     "o": [
+      "He is always coming late!",
+      "He always comes late.",
+      "He always came late!",
+      "He has always come late!"
+     ],
+     "a": "He is always coming late!",
+     "x": "Always + continuous shows annoyance. 'He always comes late' is neutral."
+    },
+    {
+     "t": "type",
+     "q": "Climate news.",
+     "s": "The sea level ___ every year.",
+     "hint": "rise",
+     "a": [
+      "is rising",
+      "'s rising"
+     ],
+     "x": "A changing trend: present continuous."
+    },
+    {
+     "t": "choose",
+     "q": "You are looking at your friend's new car.",
+     "s": "This car ___ to my uncle, not to me.",
+     "o": [
+      "belongs",
+      "is belonging",
+      "belong",
+      "is belong"
+     ],
+     "a": "belongs",
+     "x": "Belong is stative (possession). Never continuous."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct question.",
+     "o": [
+      "What you are doing?",
+      "What are you doing?",
+      "What do you doing?",
+      "What you doing are?"
+     ],
+     "a": "What are you doing?",
+     "x": "Question word + auxiliary + subject + verb-ing."
+    },
+    {
+     "t": "choose",
+     "q": "The train schedule says 7:40.",
+     "s": "Hurry up! The train ___ at 7:40.",
+     "o": [
+      "leaves",
+      "is leaving at",
+      "left",
+      "will leaving"
+     ],
+     "a": "leaves",
+     "x": "Timetables use present simple, even for the future."
+    },
+    {
+     "t": "choose",
+     "q": "A sports commentator, live.",
+     "s": "Rahim gets the ball, ___ past two defenders and shoots!",
+     "o": [
+      "runs",
+      "is running",
+      "ran",
+      "has run"
+     ],
+     "a": "runs",
+     "x": "Live commentary of quick actions uses present simple.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Telling a joke or story in a lively way.",
+     "s": "So yesterday this man ___ into my shop and asks for a refund.",
+     "o": [
+      "walks",
+      "is walking",
+      "has walked",
+      "walk"
+     ],
+     "a": "walks",
+     "x": "The 'historic present' makes a past story feel immediate, common in spoken English.",
+     "lv": "adv"
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence (look and taste are verbs of perception here).",
+     "o": [
+      "This soup is tasting too salty.",
+      "This soup tastes too salty.",
+      "This soup taste too salty.",
+      "This soup has tasting too salty."
+     ],
+     "a": "This soup tastes too salty.",
+     "x": "Taste = has a flavour, a state. 'I'm tasting the soup' (the action of trying it) is fine.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Your friend is unusually rude today.",
+     "s": "He ___ very selfish today. That's not like him.",
+     "o": [
+      "is being",
+      "is",
+      "has been be",
+      "being"
+     ],
+     "a": "is being",
+     "x": "Be + -ing describes temporary behaviour, not a permanent quality.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "perfect",
+   "title": "Present perfect vs past simple",
+   "level": "B1",
+   "idea": "Past simple = finished time (yesterday, in 2019, ago). Present perfect = past action connected to now, time not stated or not finished.",
+   "ideaBn": "সময় নির্দিষ্ট আর শেষ হলে past simple; সময় বলা নেই বা এখনো চলছে (today, this week, ever) হলে present perfect।",
+   "timeline": [
+    {
+     "kind": "point",
+     "from": -0.7,
+     "label": "past simple: I lost my phone yesterday"
+    },
+    {
+     "kind": "arrow",
+     "from": -0.5,
+     "to": 0.0,
+     "label": "present perfect: I've lost my phone (still lost)"
+    }
+   ],
+   "formula": [
+    {
+     "name": "Present perfect",
+     "pos": "have / has + V3 (eaten, gone, seen)",
+     "neg": "haven't / hasn't + V3",
+     "q": "Have you ever been...?"
+    },
+    {
+     "name": "Past simple",
+     "pos": "V2 (ate, went, saw)",
+     "neg": "didn't + base verb",
+     "q": "Did you go...?"
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Finished time word = past simple. Never 'I have seen him yesterday'.",
+     "bn": "yesterday, last, ago, in 2020, when থাকলে present perfect নয়।",
+     "ex": "I saw him yesterday."
+    },
+    {
+     "rule": "Experience in life, no time given: present perfect.",
+     "bn": "জীবনে কখনো করেছ কিনা — present perfect।",
+     "ex": "Have you ever been to Cox's Bazar?"
+    },
+    {
+     "rule": "Result now: present perfect.",
+     "bn": "কাজের ফল এখনো আছে।",
+     "ex": "I've cut my finger. It's bleeding."
+    },
+    {
+     "rule": "Unfinished period (today, this week, this year) = present perfect.",
+     "bn": "সময়টা এখনো শেষ হয়নি।",
+     "ex": "I've had three cups of tea today."
+    },
+    {
+     "rule": "Just, already, yet go with present perfect in British English.",
+     "bn": "just/already/yet → have + V3।",
+     "ex": "Has the parcel arrived yet? It's just arrived."
+    },
+    {
+     "rule": "Once you add details (where, when, how), switch to past simple.",
+     "bn": "খবর জানানোর পর বিস্তারিত বললে past simple।",
+     "ex": "I've been to Nepal. I went there in 2022 and climbed a small peak."
+    }
+   ],
+   "signals": [
+    "ever",
+    "never",
+    "just",
+    "already",
+    "yet",
+    "so far",
+    "recently",
+    "yesterday",
+    "ago",
+    "last week",
+    "in 2020"
+   ],
+   "traps": [
+    {
+     "wrong": "I have met him yesterday.",
+     "right": "I met him yesterday.",
+     "why": "Yesterday is finished time.",
+     "bn": "'গতকাল দেখা করেছি' — বাংলায় 'করেছি' দেখে present perfect ভাববেন না।"
+    },
+    {
+     "wrong": "When have you arrived?",
+     "right": "When did you arrive?",
+     "why": "'When' asks for a finished time.",
+     "bn": "When দিয়ে প্রশ্নে present perfect হয় না।"
+    },
+    {
+     "wrong": "I didn't finish yet.",
+     "right": "I haven't finished yet.",
+     "why": "Yet goes with present perfect (British).",
+     "bn": "'এখনো শেষ করিনি' = haven't finished yet।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Your boss asks about the report. It is ready now.",
+     "s": "Yes, I ___ it. It's on your desk.",
+     "o": [
+      "have finished",
+      "finished yesterday",
+      "am finishing",
+      "finish"
+     ],
+     "a": "have finished",
+     "x": "Result now, no time given: present perfect."
+    },
+    {
+     "t": "type",
+     "q": "Telling a story.",
+     "s": "I ___ my wallet on the bus last night.",
+     "hint": "lose",
+     "a": [
+      "lost"
+     ],
+     "x": "'Last night' is finished time: past simple."
+    },
+    {
+     "t": "bn",
+     "q": "আমি কখনো প্লেনে চড়িনি।",
+     "o": [
+      "I have never flown in a plane.",
+      "I never flew in a plane.",
+      "I didn't ever fly in a plane.",
+      "I am never flying in a plane."
+     ],
+     "a": "I have never flown in a plane.",
+     "x": "Life experience up to now: have never + V3."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "I have seen that film in 2021.",
+      "I saw that film in 2021.",
+      "I have saw that film in 2021.",
+      "I had see that film in 2021."
+     ],
+     "a": "I saw that film in 2021.",
+     "x": "In 2021 = finished time, so past simple."
+    },
+    {
+     "t": "type",
+     "q": "It's 3 pm. You keep drinking tea.",
+     "s": "I ___ four cups of tea today.",
+     "hint": "drink",
+     "a": [
+      "have drunk",
+      "'ve drunk",
+      "have had",
+      "'ve had"
+     ],
+     "x": "Today is not finished: present perfect."
+    },
+    {
+     "t": "choose",
+     "q": "Asking a guest.",
+     "s": "When ___ in Dhaka?",
+     "o": [
+      "did you arrive",
+      "have you arrived",
+      "are you arrived",
+      "had you arrive"
+     ],
+     "a": "did you arrive",
+     "x": "When asks for a point in finished time: past simple."
+    },
+    {
+     "t": "choose",
+     "q": "Your sister shows you her new phone.",
+     "s": "Wow! How long ___ it?",
+     "o": [
+      "have you had",
+      "do you have",
+      "are you having",
+      "did you have"
+     ],
+     "a": "have you had",
+     "x": "From the past up to now (and she still has it): present perfect."
+    },
+    {
+     "t": "type",
+     "q": "A news headline style.",
+     "s": "The prime minister ___ a new metro line. It opened this morning.",
+     "hint": "open",
+     "a": [
+      "has opened",
+      "'s opened"
+     ],
+     "x": "New news, result now: present perfect. Details (this morning) would follow in past simple."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct question.",
+     "o": [
+      "Did you finish your homework yet?",
+      "Have you finished your homework yet?",
+      "Have you finish your homework yet?",
+      "Are you finished your homework yet?"
+     ],
+     "a": "Have you finished your homework yet?",
+     "x": "Yet → present perfect, with V3 'finished'."
+    },
+    {
+     "t": "choose",
+     "q": "Your grandfather died in 2015. You talk about his life.",
+     "s": "He ___ in the army for twenty years.",
+     "o": [
+      "served",
+      "has served",
+      "has been serving",
+      "serves"
+     ],
+     "a": "served",
+     "x": "His life is finished, so the period is finished: past simple."
+    },
+    {
+     "t": "choose",
+     "q": "Your friend still works at the bank.",
+     "s": "She ___ at that bank since 2018.",
+     "o": [
+      "has worked",
+      "worked",
+      "works",
+      "is working"
+     ],
+     "a": "has worked",
+     "x": "Since + start point, still true now: present perfect."
+    },
+    {
+     "t": "choose",
+     "q": "Your friend is still at the company and has achieved a lot.",
+     "s": "This is the third time she ___ promoted this year.",
+     "o": [
+      "has been",
+      "was",
+      "is",
+      "had been"
+     ],
+     "a": "has been",
+     "x": "'This is the first/second/third time' takes present perfect.",
+     "lv": "adv"
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "It's the first time I eat sushi.",
+      "It's the first time I've eaten sushi.",
+      "It's the first time I ate sushi.",
+      "It's the first time I'm eating sushi."
+     ],
+     "a": "It's the first time I've eaten sushi.",
+     "x": "After 'It's the first time' use present perfect, never present simple.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Your friend Arif is still alive and writing.",
+     "s": "Arif ___ five novels. (He may write more.)",
+     "o": [
+      "has written",
+      "wrote",
+      "writes",
+      "had written"
+     ],
+     "a": "has written",
+     "x": "Living person, career not finished: present perfect. For a dead writer: wrote.",
+     "lv": "adv"
+    },
+    {
+     "t": "bn",
+     "q": "আমি এই সপ্তাহে তাকে দেখিনি, যদিও গত সপ্তাহে দুবার দেখেছিলাম।",
+     "o": [
+      "I haven't seen him this week, though I saw him twice last week.",
+      "I didn't see him this week, though I have seen him twice last week.",
+      "I haven't seen him this week, though I have seen him twice last week.",
+      "I don't see him this week, though I saw him twice last week."
+     ],
+     "a": "I haven't seen him this week, though I saw him twice last week.",
+     "x": "This week (unfinished) = present perfect; last week (finished) = past simple. Both in one sentence.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "perfcont",
+   "title": "Present perfect continuous, since and for",
+   "level": "B2",
+   "idea": "Have been + -ing = an activity from the past until now, focus on duration or on visible effects. Present perfect = focus on the result or the number.",
+   "ideaBn": "কতক্ষণ ধরে করছি সেটা জোর দিলে have been + ing; কতগুলো/কী ফল হলো সেটা জোর দিলে have + V3।",
+   "timeline": [
+    {
+     "kind": "span",
+     "from": -0.7,
+     "to": 0.0,
+     "label": "I've been waiting for two hours"
+    },
+    {
+     "kind": "point",
+     "from": 0.0,
+     "label": "now"
+    }
+   ],
+   "formula": [
+    {
+     "name": "Perfect continuous",
+     "pos": "have / has been + verb-ing",
+     "neg": "haven't been + -ing",
+     "q": "How long have you been...?"
+    },
+    {
+     "name": "Since / for",
+     "pos": "since + start point (2019, Monday, I was a child)",
+     "neg": "for + length (two hours, ten years)",
+     "q": "How long...?"
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Duration until now: have been + -ing.",
+     "bn": "কতক্ষণ ধরে চলছে।",
+     "ex": "It has been raining since morning."
+    },
+    {
+     "rule": "Visible effect of a recent activity.",
+     "bn": "কাজের চিহ্ন এখন দেখা যাচ্ছে।",
+     "ex": "Your eyes are red. Have you been crying?"
+    },
+    {
+     "rule": "How many / how much = present perfect simple.",
+     "bn": "সংখ্যা বা পরিমাণ বললে simple।",
+     "ex": "I've written three emails. (not: I've been writing three emails)"
+    },
+    {
+     "rule": "Stative verbs stay in simple form even with duration.",
+     "bn": "know, have (own), be — continuous হয় না।",
+     "ex": "I've known her since school."
+    },
+    {
+     "rule": "Since takes a point in time; for takes a length of time.",
+     "bn": "since = কখন থেকে, for = কতদিন ধরে।",
+     "ex": "since 2010 / for fourteen years"
+    }
+   ],
+   "signals": [
+    "for",
+    "since",
+    "how long",
+    "all day",
+    "lately",
+    "recently"
+   ],
+   "traps": [
+    {
+     "wrong": "I am waiting here for two hours.",
+     "right": "I have been waiting here for two hours.",
+     "why": "From the past until now = perfect continuous.",
+     "bn": "'আমি দুই ঘণ্টা ধরে অপেক্ষা করছি' — বাংলায় present continuous মনে হলেও ইংরেজিতে have been waiting।"
+    },
+    {
+     "wrong": "I live in Dhaka since 2015.",
+     "right": "I have lived / have been living in Dhaka since 2015.",
+     "why": "Since needs a perfect tense.",
+     "bn": "since থাকলে সাধারণত present perfect বা perfect continuous।"
+    },
+    {
+     "wrong": "I have been reading since two hours.",
+     "right": "I have been reading for two hours.",
+     "why": "Two hours is a length: for.",
+     "bn": "সময়ের পরিমাণ হলে for।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "bn",
+     "q": "আমি সকাল থেকে তোমার জন্য অপেক্ষা করছি।",
+     "o": [
+      "I have been waiting for you since morning.",
+      "I am waiting for you since morning.",
+      "I wait for you since morning.",
+      "I was waiting for you since morning."
+     ],
+     "a": "I have been waiting for you since morning.",
+     "x": "Started in the past, still going: have been + -ing, with since."
+    },
+    {
+     "t": "type",
+     "q": "Your friend arrives sweating.",
+     "s": "Sorry, I ___ all the way from the bus stop.",
+     "hint": "run",
+     "a": [
+      "have been running",
+      "'ve been running"
+     ],
+     "x": "Visible effect (sweat) of a recent activity: perfect continuous."
+    },
+    {
+     "t": "choose",
+     "q": "Talking about progress at work.",
+     "s": "So far I ___ 40 pages of the report.",
+     "o": [
+      "have written",
+      "have been writing",
+      "am writing",
+      "write"
+     ],
+     "a": "have written",
+     "x": "A number of pages (result) = present perfect simple."
+    },
+    {
+     "t": "choose",
+     "q": "Fill in the time word.",
+     "s": "She has been teaching at this school ___ 2012.",
+     "o": [
+      "since",
+      "for",
+      "from",
+      "during"
+     ],
+     "a": "since",
+     "x": "2012 is a starting point: since."
+    },
+    {
+     "t": "choose",
+     "q": "Fill in the time word.",
+     "s": "We have been friends ___ more than a decade.",
+     "o": [
+      "for",
+      "since",
+      "from",
+      "ago"
+     ],
+     "a": "for",
+     "x": "More than a decade is a length: for."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "I have been knowing her since school.",
+      "I know her since school.",
+      "I have known her since school.",
+      "I am knowing her since school."
+     ],
+     "a": "I have known her since school.",
+     "x": "Know is stative, so perfect simple even with duration."
+    },
+    {
+     "t": "type",
+     "q": "The ground is wet.",
+     "s": "It ___ . The streets are full of water.",
+     "hint": "rain",
+     "a": [
+      "has been raining",
+      "'s been raining"
+     ],
+     "x": "Visible result of a recent ongoing activity."
+    },
+    {
+     "t": "choose",
+     "q": "A doctor asks you.",
+     "s": "How long ___ this headache?",
+     "o": [
+      "have you had",
+      "have you been having",
+      "do you have",
+      "are you having"
+     ],
+     "a": "have you had",
+     "x": "Both can appear, but 'have' (suffer from) is usually stative: 'How long have you had...' is the natural question."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "He is working here for five years.",
+      "He has been working here for five years.",
+      "He works here since five years.",
+      "He has been working here since five years."
+     ],
+     "a": "He has been working here for five years.",
+     "x": "Duration until now + for + length."
+    },
+    {
+     "t": "type",
+     "q": "Your mother sees paint on your hands.",
+     "s": "What ___ ? There's paint all over your hands.",
+     "hint": "you / do",
+     "a": [
+      "have you been doing"
+     ],
+     "x": "Asking about a recent activity with visible signs: What have you been doing?"
+    },
+    {
+     "t": "choose",
+     "q": "A colleague looks tired and you want to know the activity, not the result.",
+     "s": "You look exhausted. ___ overtime again?",
+     "o": [
+      "Have you been working",
+      "Have you worked",
+      "Did you work",
+      "Are you working"
+     ],
+     "a": "Have you been working",
+     "x": "Visible effect, focus on the activity: perfect continuous.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "The repair is complete.",
+     "s": "The plumber ___ the pipe. You can use the tap now.",
+     "o": [
+      "has fixed",
+      "has been fixing",
+      "fixes",
+      "is fixing"
+     ],
+     "a": "has fixed",
+     "x": "Completed result: simple. 'Has been fixing' would mean the work may not be finished.",
+     "lv": "adv"
+    },
+    {
+     "t": "type",
+     "q": "Surprise at a long time.",
+     "s": "It's ages since I ___ you!",
+     "hint": "see",
+     "a": [
+      "saw",
+      "last saw"
+     ],
+     "x": "'It's (time) since + past simple' marks the last time it happened.",
+     "lv": "adv"
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "I haven't been seeing her for months.",
+      "I haven't seen her for months.",
+      "I don't see her for months.",
+      "I'm not seeing her since months."
+     ],
+     "a": "I haven't seen her for months.",
+     "x": "Negative duration of a single action: present perfect simple. The continuous sounds wrong here.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "past",
+   "title": "Past simple, past continuous, used to, would",
+   "level": "B1",
+   "idea": "Past continuous is the background scene; past simple is the event that happens in it. Used to and would describe old habits.",
+   "ideaBn": "পেছনে চলতে থাকা কাজ past continuous; হঠাৎ ঘটে যাওয়া ঘটনা past simple।",
+   "timeline": [
+    {
+     "kind": "span",
+     "from": -0.9,
+     "to": -0.3,
+     "label": "I was walking home"
+    },
+    {
+     "kind": "point",
+     "from": -0.55,
+     "label": "when it started to rain"
+    }
+   ],
+   "formula": [
+    {
+     "name": "Past continuous",
+     "pos": "was / were + verb-ing",
+     "neg": "wasn't / weren't + -ing",
+     "q": "What were you doing at 9?"
+    },
+    {
+     "name": "Used to",
+     "pos": "used to + base verb",
+     "neg": "didn't use to",
+     "q": "Did you use to...?"
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Interrupted action: long action in continuous, short action in simple.",
+     "bn": "চলছিল, এমন সময় ঘটল।",
+     "ex": "I was taking a shower when the power went out."
+    },
+    {
+     "rule": "Two actions one after another: both past simple.",
+     "bn": "পরপর কাজ — দুটোই past simple।",
+     "ex": "When he came in, I stood up. (first came, then stood)"
+    },
+    {
+     "rule": "Past continuous for a scene at a specific time.",
+     "bn": "নির্দিষ্ট সময়ে কী করছিলে।",
+     "ex": "At 10 pm last night I was watching the match."
+    },
+    {
+     "rule": "Used to = past habit or state that is no longer true.",
+     "bn": "আগে করতাম, এখন করি না।",
+     "ex": "I used to live in Rajshahi."
+    },
+    {
+     "rule": "Would = repeated past action only, not states.",
+     "bn": "would শুধু কাজের অভ্যাসে, অবস্থায় নয়।",
+     "ex": "Every Eid we would visit our grandparents. (but not: I would live in Rajshahi)"
+    }
+   ],
+   "signals": [
+    "when",
+    "while",
+    "as",
+    "at that moment",
+    "at 8 o'clock yesterday",
+    "suddenly"
+   ],
+   "traps": [
+    {
+     "wrong": "When I reached, he was left.",
+     "right": "When I arrived, he had left.",
+     "why": "Earlier action = past perfect; 'reach' needs an object.",
+     "bn": "'আমি পৌঁছানোর আগেই সে চলে গিয়েছিল' = had left।"
+    },
+    {
+     "wrong": "I use to play cricket when I was young.",
+     "right": "I used to play cricket when I was young.",
+     "why": "Positive form is 'used to'.",
+     "bn": "positive-এ used to, negative/প্রশ্নে use to।"
+    },
+    {
+     "wrong": "While I walked, I was seeing an accident.",
+     "right": "While I was walking, I saw an accident.",
+     "why": "Background = continuous, event = simple.",
+     "bn": "while এর পরে চলমান কাজ।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "type",
+     "q": "A sudden event during a long one.",
+     "s": "I ___ dinner when the guests arrived.",
+     "hint": "cook",
+     "a": [
+      "was cooking"
+     ],
+     "x": "Background action: past continuous."
+    },
+    {
+     "t": "choose",
+     "q": "Sequence of events.",
+     "s": "When the teacher entered, the students ___ up.",
+     "o": [
+      "stood",
+      "were standing",
+      "had stood",
+      "stand"
+     ],
+     "a": "stood",
+     "x": "First the teacher entered, then they stood: both past simple."
+    },
+    {
+     "t": "bn",
+     "q": "ছোটবেলায় আমি প্রতিদিন নদীতে সাঁতার কাটতাম।",
+     "o": [
+      "As a child, I used to swim in the river every day.",
+      "As a child, I was swimming in the river every day.",
+      "As a child, I have swum in the river every day.",
+      "As a child, I use to swim in the river every day."
+     ],
+     "a": "As a child, I used to swim in the river every day.",
+     "x": "Old habit that has stopped: used to."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "I would have long hair when I was a student.",
+      "I used to have long hair when I was a student.",
+      "I was having long hair when I was a student.",
+      "I use to have long hair when I was a student."
+     ],
+     "a": "I used to have long hair when I was a student.",
+     "x": "Having hair is a state, so would cannot be used. Used to works for states."
+    },
+    {
+     "t": "type",
+     "q": "The police ask you.",
+     "s": "What ___ at 9 pm last Friday?",
+     "hint": "you / do",
+     "a": [
+      "were you doing"
+     ],
+     "x": "Activity in progress at a specific past time: past continuous."
+    },
+    {
+     "t": "choose",
+     "q": "Two actions at the same time.",
+     "s": "While I was reading, my brother ___ music.",
+     "o": [
+      "was playing",
+      "played",
+      "has played",
+      "plays"
+     ],
+     "a": "was playing",
+     "x": "Two long actions in parallel: both continuous."
+    },
+    {
+     "t": "choose",
+     "q": "Question form.",
+     "s": "___ you use to live near here?",
+     "o": [
+      "Did",
+      "Were",
+      "Do",
+      "Have"
+     ],
+     "a": "Did",
+     "x": "Questions: Did + subject + use to."
+    },
+    {
+     "t": "type",
+     "q": "A story.",
+     "s": "As I was crossing the road, a rickshaw ___ me.",
+     "hint": "hit",
+     "a": [
+      "hit"
+     ],
+     "x": "Short sudden event: past simple. Hit-hit-hit."
+    },
+    {
+     "t": "choose",
+     "q": "Talking about your village days.",
+     "s": "In the evenings my grandmother ___ tell us stories.",
+     "o": [
+      "would",
+      "was",
+      "has",
+      "is used to"
+     ],
+     "a": "would",
+     "x": "Repeated past action: would (or used to)."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "She didn't used to like coffee.",
+      "She didn't use to like coffee.",
+      "She not used to like coffee.",
+      "She wasn't use to like coffee."
+     ],
+     "a": "She didn't use to like coffee.",
+     "x": "After didn't, the base form: use to."
+    },
+    {
+     "t": "choose",
+     "q": "Polite request in formal English.",
+     "s": "I ___ if you could help me with this form.",
+     "o": [
+      "was wondering",
+      "wondered",
+      "have wondered",
+      "wonder had"
+     ],
+     "a": "was wondering",
+     "x": "Past continuous here makes a request softer and more polite, not past time.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "A plan that changed.",
+     "s": "We ___ go to Sylhet, but the trains were cancelled.",
+     "o": [
+      "were going to",
+      "will",
+      "are going to",
+      "had go to"
+     ],
+     "a": "were going to",
+     "x": "Future in the past: was/were going to for a plan that did not happen.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Planned in the past, it happened later.",
+     "s": "I knew he ___ late, because he always is.",
+     "o": [
+      "would be",
+      "will be",
+      "is",
+      "has been"
+     ],
+     "a": "would be",
+     "x": "Future seen from the past: would.",
+     "lv": "adv"
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "I was used to walk to school every day.",
+      "I used to walk to school every day.",
+      "I am used to walk to school every day.",
+      "I would to walk to school every day."
+     ],
+     "a": "I used to walk to school every day.",
+     "x": "'Be used to' means accustomed and takes -ing (I'm used to walking). 'Used to' + base is the old habit.",
+     "lv": "adv"
+    },
+    {
+     "t": "bn",
+     "q": "আমি গরমে অভ্যস্ত, তাই আমার কোনো সমস্যা হয় না।",
+     "o": [
+      "I'm used to the heat, so it doesn't bother me.",
+      "I used to the heat, so it doesn't bother me.",
+      "I use to heat, so it doesn't bother me.",
+      "I'm used to be hot, so it doesn't bother me."
+     ],
+     "a": "I'm used to the heat, so it doesn't bother me.",
+     "x": "Be used to + noun / -ing = accustomed to.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "pastperf",
+   "title": "Past perfect and past perfect continuous",
+   "level": "B2",
+   "idea": "Past perfect = the earlier of two past actions, the 'past of the past'. Use it only when the order matters.",
+   "ideaBn": "অতীতের দুটি কাজের মধ্যে যেটি আগে ঘটেছিল তাতে had + V3।",
+   "timeline": [
+    {
+     "kind": "point",
+     "from": -0.8,
+     "label": "the film had started"
+    },
+    {
+     "kind": "point",
+     "from": -0.4,
+     "label": "we arrived"
+    },
+    {
+     "kind": "point",
+     "from": 0.0,
+     "label": "now"
+    }
+   ],
+   "formula": [
+    {
+     "name": "Past perfect",
+     "pos": "had + V3",
+     "neg": "hadn't + V3",
+     "q": "Had you met her before?"
+    },
+    {
+     "name": "Past perfect continuous",
+     "pos": "had been + verb-ing",
+     "neg": "hadn't been + -ing",
+     "q": "How long had you been waiting?"
+    }
+   ],
+   "uses": [
+    {
+     "rule": "The earlier action when you look back from a past moment.",
+     "bn": "পরের ঘটনার আগেই যা হয়ে গিয়েছিল।",
+     "ex": "By the time we got to the station, the train had left."
+    },
+    {
+     "rule": "Experience up to a past point.",
+     "bn": "সেই সময় পর্যন্ত জীবনে করা/না-করা।",
+     "ex": "It was the first time I had seen snow."
+    },
+    {
+     "rule": "Duration up to a past point: had been + -ing.",
+     "bn": "অতীতের এক সময় পর্যন্ত কতক্ষণ চলছিল।",
+     "ex": "She was tired because she had been working all night."
+    },
+    {
+     "rule": "After 'before' or 'after' the order is clear, so past simple is also fine.",
+     "bn": "before/after থাকলে past simple-ও চলে।",
+     "ex": "I left after he arrived. = I left after he had arrived."
+    },
+    {
+     "rule": "Do not use past perfect just because something is 'long ago'.",
+     "bn": "অনেক আগের ঘটনা মানেই past perfect নয়।",
+     "ex": "My father was born in 1960. (not: had been born)"
+    }
+   ],
+   "signals": [
+    "by the time",
+    "already",
+    "before",
+    "after",
+    "never ... before",
+    "it was the first time"
+   ],
+   "traps": [
+    {
+     "wrong": "I had gone to Cox's Bazar last year.",
+     "right": "I went to Cox's Bazar last year.",
+     "why": "Only one past action; no earlier past.",
+     "bn": "শুধু 'অনেক আগে' বলে had ব্যবহার করবেন না। অন্য একটি অতীত ঘটনার আগে হলে তবেই।"
+    },
+    {
+     "wrong": "When I reached the class, the teacher already started.",
+     "right": "When I reached the class, the teacher had already started.",
+     "why": "The start came before my arrival.",
+     "bn": "আগেই শুরু হয়ে গিয়েছিল = had already started।"
+    },
+    {
+     "wrong": "He told me he has finished.",
+     "right": "He told me he had finished.",
+     "why": "Reported in the past: backshift.",
+     "bn": "told দিয়ে বললে has → had।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "type",
+     "q": "You arrive late at the cinema.",
+     "s": "When we got there, the film ___ .",
+     "hint": "already / start",
+     "a": [
+      "had already started"
+     ],
+     "x": "The film started before we got there: had + V3."
+    },
+    {
+     "t": "bn",
+     "q": "আমি পৌঁছানোর আগেই সভা শেষ হয়ে গিয়েছিল।",
+     "o": [
+      "The meeting had ended before I arrived.",
+      "The meeting has ended before I arrived.",
+      "The meeting was ending before I arrived.",
+      "The meeting ended before I had been arriving."
+     ],
+     "a": "The meeting had ended before I arrived.",
+     "x": "Earlier past action: had ended."
+    },
+    {
+     "t": "choose",
+     "q": "First trip abroad.",
+     "s": "It was the first time I ___ on a plane.",
+     "o": [
+      "had been",
+      "was",
+      "have been",
+      "am"
+     ],
+     "a": "had been",
+     "x": "Experience up to that past moment: past perfect."
+    },
+    {
+     "t": "type",
+     "q": "Explaining why someone was exhausted.",
+     "s": "She was exhausted because she ___ for twelve hours.",
+     "hint": "drive",
+     "a": [
+      "had been driving"
+     ],
+     "x": "Duration up to a past point: had been + -ing."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "My grandfather had been born in 1940.",
+      "My grandfather was born in 1940.",
+      "My grandfather has been born in 1940.",
+      "My grandfather had born in 1940."
+     ],
+     "a": "My grandfather was born in 1940.",
+     "x": "A single past fact: past simple. 'Long ago' alone is no reason for past perfect."
+    },
+    {
+     "t": "choose",
+     "q": "Reading a story.",
+     "s": "He couldn't pay because he ___ his wallet at home.",
+     "o": [
+      "had left",
+      "has left",
+      "was leaving",
+      "leaves"
+     ],
+     "a": "had left",
+     "x": "Leaving the wallet happened before not paying."
+    },
+    {
+     "t": "choose",
+     "q": "Ground was wet in the morning.",
+     "s": "The ground was wet. It ___ all night.",
+     "o": [
+      "had been raining",
+      "has been raining",
+      "was rain",
+      "rains"
+     ],
+     "a": "had been raining",
+     "x": "Activity lasting until a past moment, with a visible result then."
+    },
+    {
+     "t": "type",
+     "q": "Order is already clear.",
+     "s": "After I ___ my homework, I went to play.",
+     "hint": "finish",
+     "a": [
+      "had finished",
+      "finished"
+     ],
+     "x": "With 'after', both past perfect and past simple are correct."
+    },
+    {
+     "t": "choose",
+     "q": "Your friend was nervous.",
+     "s": "She ___ in front of so many people before.",
+     "o": [
+      "had never spoken",
+      "never speaks",
+      "has never spoken",
+      "was never speaking"
+     ],
+     "a": "had never spoken",
+     "x": "Experience up to that past day: had never + V3."
+    },
+    {
+     "t": "choose",
+     "q": "Narrative, emphasis on what was hardly finished.",
+     "s": "Hardly ___ home when the phone rang.",
+     "o": [
+      "had I got",
+      "I had got",
+      "did I get",
+      "I got"
+     ],
+     "a": "had I got",
+     "x": "Hardly / No sooner + inverted past perfect: Hardly had I got home when...",
+     "lv": "adv"
+    },
+    {
+     "t": "type",
+     "q": "Inversion.",
+     "s": "No sooner ___ than the storm began.",
+     "hint": "the plane / land",
+     "a": [
+      "had the plane landed"
+     ],
+     "x": "No sooner + had + subject + V3 + than.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Unmet hope in the past.",
+     "s": "I ___ to finish by noon, but the internet went down.",
+     "o": [
+      "had hoped",
+      "have hoped",
+      "hoped had",
+      "was hope"
+     ],
+     "a": "had hoped",
+     "x": "Past perfect of hope/intend/expect for a plan that failed.",
+     "lv": "adv"
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "When I had arrived, I took a taxi.",
+      "When I arrived, I had taken a taxi.",
+      "After I had checked in, I went to my room.",
+      "After I had check in, I went to my room."
+     ],
+     "a": "After I had checked in, I went to my room.",
+     "x": "Past perfect for the earlier action; V3 is 'checked'.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "future",
+   "title": "Future: will, going to, present continuous, present simple",
+   "level": "B2",
+   "idea": "Will = decision now, promise, prediction from opinion. Going to = plan already made, prediction from evidence. Present continuous = fixed arrangement. Present simple = timetable.",
+   "ideaBn": "এখনই সিদ্ধান্ত নিলে will; আগে থেকে পরিকল্পনা থাকলে going to; সময়-তারিখ ঠিক করা থাকলে present continuous।",
+   "timeline": [
+    {
+     "kind": "point",
+     "from": 0.0,
+     "label": "decision now → I'll help you"
+    },
+    {
+     "kind": "arrow",
+     "from": -0.4,
+     "to": 0.6,
+     "label": "plan made before → I'm going to"
+    }
+   ],
+   "formula": [
+    {
+     "name": "Will",
+     "pos": "will + base verb",
+     "neg": "won't + base verb",
+     "q": "Will you...?"
+    },
+    {
+     "name": "Going to",
+     "pos": "am/is/are going to + base",
+     "neg": "isn't going to",
+     "q": "Are you going to...?"
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Decision at the moment of speaking: will.",
+     "bn": "কথা বলার সময় সিদ্ধান্ত।",
+     "ex": "The phone's ringing. I'll get it."
+    },
+    {
+     "rule": "Plan or intention made earlier: going to.",
+     "bn": "আগেই মন ঠিক করা।",
+     "ex": "I'm going to apply for a master's in Canada."
+    },
+    {
+     "rule": "Evidence you can see now: going to.",
+     "bn": "চোখের সামনে প্রমাণ।",
+     "ex": "Look at those clouds. It's going to rain."
+    },
+    {
+     "rule": "Arrangement with time and people fixed: present continuous.",
+     "bn": "অন্যদের সাথে ঠিক করা প্রোগ্রাম।",
+     "ex": "I'm meeting the client at 3 tomorrow."
+    },
+    {
+     "rule": "Offers, promises, threats, refusals: will / won't.",
+     "bn": "প্রতিশ্রুতি বা অস্বীকৃতি।",
+     "ex": "I won't tell anyone, I promise."
+    },
+    {
+     "rule": "Shall I / shall we for offers and suggestions.",
+     "bn": "প্রস্তাব দিতে shall I।",
+     "ex": "Shall I open the window?"
+    }
+   ],
+   "signals": [
+    "tomorrow",
+    "next week",
+    "soon",
+    "I think",
+    "probably",
+    "look!",
+    "at 3 pm on Friday"
+   ],
+   "traps": [
+    {
+     "wrong": "I will go to my cousin's wedding next Friday. I booked the bus.",
+     "right": "I'm going to my cousin's wedding next Friday.",
+     "why": "Fixed arrangement: present continuous (or going to).",
+     "bn": "সব ঠিকঠাক থাকলে will নয়, present continuous ভালো।"
+    },
+    {
+     "wrong": "Wait, I am going to help you!",
+     "right": "Wait, I'll help you!",
+     "why": "Decision just now: will.",
+     "bn": "এই মুহূর্তের সিদ্ধান্ত = will।"
+    },
+    {
+     "wrong": "Will I open the door?",
+     "right": "Shall I open the door?",
+     "why": "Offer with I: shall.",
+     "bn": "প্রস্তাব দিতে Shall I।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Your friend says, 'I have no pen.' You decide now.",
+     "s": "No problem, I ___ you mine.",
+     "o": [
+      "'ll lend",
+      "'m going to lend",
+      "'m lending",
+      "lend"
+     ],
+     "a": "'ll lend",
+     "x": "Decision made at the moment of speaking: will."
+    },
+    {
+     "t": "choose",
+     "q": "You decided last month to learn driving.",
+     "s": "I ___ learn to drive this winter.",
+     "o": [
+      "am going to",
+      "will",
+      "shall",
+      "would"
+     ],
+     "a": "am going to",
+     "x": "Plan made before: going to."
+    },
+    {
+     "t": "type",
+     "q": "Dark clouds everywhere.",
+     "s": "Take an umbrella. It ___ rain.",
+     "hint": "go to",
+     "a": [
+      "is going to",
+      "'s going to"
+     ],
+     "x": "Prediction from present evidence: going to."
+    },
+    {
+     "t": "bn",
+     "q": "আমি কাল সকাল দশটায় ডাক্তারের সাথে দেখা করছি। (অ্যাপয়েন্টমেন্ট নেওয়া আছে)",
+     "o": [
+      "I'm seeing the doctor at 10 tomorrow morning.",
+      "I see the doctor at 10 tomorrow morning.",
+      "I would see the doctor at 10 tomorrow morning.",
+      "I have seen the doctor at 10 tomorrow morning."
+     ],
+     "a": "I'm seeing the doctor at 10 tomorrow morning.",
+     "x": "Arrangement with a time: present continuous."
+    },
+    {
+     "t": "choose",
+     "q": "Flight timetable.",
+     "s": "Our flight to Chattogram ___ at 6:15 tomorrow.",
+     "o": [
+      "departs",
+      "will departing",
+      "is depart",
+      "departed"
+     ],
+     "a": "departs",
+     "x": "Official timetables: present simple."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the best offer.",
+     "o": [
+      "Will I carry your bag?",
+      "Shall I carry your bag?",
+      "Am I carrying your bag?",
+      "Do I carry your bag?"
+     ],
+     "a": "Shall I carry your bag?",
+     "x": "Offer with I: Shall I...?"
+    },
+    {
+     "t": "choose",
+     "q": "A promise.",
+     "s": "Don't worry, I ___ late again.",
+     "o": [
+      "won't be",
+      "am not going be",
+      "don't be",
+      "am not being"
+     ],
+     "a": "won't be",
+     "x": "Promises use will / won't."
+    },
+    {
+     "t": "choose",
+     "q": "Your opinion, no evidence.",
+     "s": "I think Bangladesh ___ the match tomorrow.",
+     "o": [
+      "will win",
+      "is winning",
+      "wins",
+      "won"
+     ],
+     "a": "will win",
+     "x": "Prediction based on opinion (I think): will."
+    },
+    {
+     "t": "type",
+     "q": "A machine refuses to work.",
+     "s": "The car ___ start! I've tried five times.",
+     "hint": "will + not",
+     "a": [
+      "won't",
+      "will not"
+     ],
+     "x": "Won't for a refusal, even for machines."
+    },
+    {
+     "t": "choose",
+     "q": "You're about to leave right this second.",
+     "s": "Hurry, the train ___ leave!",
+     "o": [
+      "is about to",
+      "will be about",
+      "is going about to",
+      "shall"
+     ],
+     "a": "is about to",
+     "x": "Be about to = very near future.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Official announcement.",
+     "s": "The President ___ visit Rajshahi next month.",
+     "o": [
+      "is to",
+      "is about",
+      "will to",
+      "shall to"
+     ],
+     "a": "is to",
+     "x": "Be to + base = formal arrangement, common in news.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Asking for a decision or advice.",
+     "s": "What ___ we do now? The shop is closed.",
+     "o": [
+      "shall",
+      "will",
+      "are",
+      "do"
+     ],
+     "a": "shall",
+     "x": "Shall we...? asks for a suggestion or decision.",
+     "lv": "adv"
+    },
+    {
+     "t": "bn",
+     "q": "আমি আগামীকাল এই সময়ে পরীক্ষা দিচ্ছি থাকব।",
+     "o": [
+      "I'll be taking an exam at this time tomorrow.",
+      "I take an exam at this time tomorrow.",
+      "I'll have taken an exam at this time tomorrow.",
+      "I'm going to take an exam at this time tomorrow ago."
+     ],
+     "a": "I'll be taking an exam at this time tomorrow.",
+     "x": "In progress at a future point: future continuous.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "futperf",
+   "title": "Future continuous and future perfect",
+   "level": "C1",
+   "idea": "Future continuous = in progress at a future moment. Future perfect = finished before a future moment (by + time).",
+   "ideaBn": "ভবিষ্যতের এক সময়ে চলতে থাকবে → will be + ing; সেই সময়ের মধ্যেই শেষ হয়ে যাবে → will have + V3।",
+   "timeline": [
+    {
+     "kind": "point",
+     "from": 0.6,
+     "label": "8 pm tomorrow"
+    },
+    {
+     "kind": "span",
+     "from": 0.45,
+     "to": 0.75,
+     "label": "I'll be flying"
+    },
+    {
+     "kind": "arrow",
+     "from": 0.1,
+     "to": 0.6,
+     "label": "by then I'll have finished"
+    }
+   ],
+   "formula": [
+    {
+     "name": "Future continuous",
+     "pos": "will be + verb-ing",
+     "neg": "won't be + -ing",
+     "q": "Will you be using the car tonight?"
+    },
+    {
+     "name": "Future perfect",
+     "pos": "will have + V3",
+     "neg": "won't have + V3",
+     "q": "Will you have finished by Friday?"
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Action in progress at a future time.",
+     "bn": "ভবিষ্যতের নির্দিষ্ট সময়ে যা চলবে।",
+     "ex": "This time next week I'll be lying on the beach."
+    },
+    {
+     "rule": "Polite question about plans (not a request).",
+     "bn": "ভদ্রভাবে কারো পরিকল্পনা জানতে।",
+     "ex": "Will you be using the printer this afternoon?"
+    },
+    {
+     "rule": "Finished before a future deadline: by + time.",
+     "bn": "by দিয়ে সময়সীমার আগেই শেষ।",
+     "ex": "By December, we'll have built the second floor."
+    },
+    {
+     "rule": "Duration up to a future point: will have been + -ing.",
+     "bn": "ভবিষ্যতের সময় পর্যন্ত কতদিন হবে।",
+     "ex": "In June I'll have been working here for ten years."
+    }
+   ],
+   "signals": [
+    "by",
+    "by the time",
+    "this time tomorrow",
+    "at 8 tonight",
+    "in two years' time"
+   ],
+   "traps": [
+    {
+     "wrong": "By next year I will finish my degree.",
+     "right": "By next year I will have finished my degree.",
+     "why": "By + time = finished before then: future perfect.",
+     "bn": "by থাকলে will have + V3 বেশি স্বাভাবিক।"
+    },
+    {
+     "wrong": "Don't call at 9, I will sleep.",
+     "right": "Don't call at 9, I will be sleeping.",
+     "why": "In progress at 9: future continuous.",
+     "bn": "সেই সময়ে ঘুমাতে থাকব = will be sleeping।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "type",
+     "q": "Don't call me at 9 tonight.",
+     "s": "At 9 I ___ my exam, so my phone will be off.",
+     "hint": "write",
+     "a": [
+      "will be writing",
+      "'ll be writing"
+     ],
+     "x": "In progress at a future moment: will be + -ing."
+    },
+    {
+     "t": "choose",
+     "q": "Project deadline.",
+     "s": "By Friday, the team ___ the app.",
+     "o": [
+      "will have launched",
+      "will launch",
+      "launches",
+      "is launching"
+     ],
+     "a": "will have launched",
+     "x": "Completed before the deadline: future perfect."
+    },
+    {
+     "t": "bn",
+     "q": "আগামী মাসের মধ্যে আমি বইটি শেষ করে ফেলব।",
+     "o": [
+      "I will have finished the book by next month.",
+      "I finish the book by next month.",
+      "I am finishing the book by next month.",
+      "I had finished the book by next month."
+     ],
+     "a": "I will have finished the book by next month.",
+     "x": "By + future time: will have + V3."
+    },
+    {
+     "t": "choose",
+     "q": "Asking politely about plans.",
+     "s": "___ the car tonight? I need it.",
+     "o": [
+      "Will you be using",
+      "Are you use",
+      "Have you used",
+      "Did you use"
+     ],
+     "a": "Will you be using",
+     "x": "Future continuous makes a soft, polite question about plans."
+    },
+    {
+     "t": "type",
+     "q": "Long service.",
+     "s": "Next March, my father ___ at the bank for 30 years.",
+     "hint": "work",
+     "a": [
+      "will have been working",
+      "'ll have been working",
+      "will have worked",
+      "'ll have worked"
+     ],
+     "x": "Duration up to a future point: will have been + -ing (or will have worked)."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "By the time you arrive, we will eat.",
+      "By the time you arrive, we will have eaten.",
+      "By the time you will arrive, we will have eaten.",
+      "By the time you arrive, we have ate."
+     ],
+     "a": "By the time you arrive, we will have eaten.",
+     "x": "After 'by the time' use present simple (you arrive); main clause future perfect."
+    },
+    {
+     "t": "choose",
+     "q": "Picture yourself tomorrow.",
+     "s": "This time tomorrow we ___ over the Himalayas.",
+     "o": [
+      "will be flying",
+      "will have flown",
+      "fly",
+      "flew"
+     ],
+     "a": "will be flying",
+     "x": "In progress at that moment."
+    },
+    {
+     "t": "type",
+     "q": "A long-term estimate.",
+     "s": "By 2030, scientists ___ a cure, I hope.",
+     "hint": "find",
+     "a": [
+      "will have found",
+      "'ll have found"
+     ],
+     "x": "Completed before a future point: future perfect.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Assumption about the present.",
+     "s": "Don't call Mina now. She ___ dinner at this time.",
+     "o": [
+      "will be having",
+      "will have",
+      "has",
+      "is have"
+     ],
+     "a": "will be having",
+     "x": "Will be + -ing can also guess what is happening now.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Assumption about the past.",
+     "s": "It's 6 pm. The parcel ___ by now.",
+     "o": [
+      "will have arrived",
+      "will arrive",
+      "arrives",
+      "would arrive"
+     ],
+     "a": "will have arrived",
+     "x": "Will have + V3 = confident guess that something has already happened.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "clauses",
+   "title": "Time clauses and conditionals",
+   "level": "C1",
+   "idea": "After when, if, as soon as, until, before, after, unless: no will. Use present for the future. Conditionals shift tense to show how real or unreal something is.",
+   "ideaBn": "when/if/as soon as/until এর পরে ভবিষ্যৎ বোঝাতেও will বসে না, present বসে। অবাস্তব কল্পনায় tense এক ধাপ পিছিয়ে যায়।",
+   "timeline": [
+    {
+     "kind": "point",
+     "from": 0.3,
+     "label": "when I get home"
+    },
+    {
+     "kind": "point",
+     "from": 0.5,
+     "label": "I'll call you"
+    }
+   ],
+   "formula": [
+    {
+     "name": "First (real future)",
+     "pos": "If + present, will + base",
+     "neg": "If it rains, we'll stay in.",
+     "q": "What will you do if...?"
+    },
+    {
+     "name": "Second (unreal now)",
+     "pos": "If + past, would + base",
+     "neg": "If I had money, I'd buy it.",
+     "q": "What would you do if...?"
+    },
+    {
+     "name": "Third (unreal past)",
+     "pos": "If + had V3, would have + V3",
+     "neg": "If I had known, I'd have come.",
+     "q": "What would you have done?"
+    },
+    {
+     "name": "Mixed",
+     "pos": "If + had V3, would + base (now)",
+     "neg": "If I had studied, I'd be a doctor now.",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "No will after time words for the future.",
+     "bn": "time clause-এ will নয়।",
+     "ex": "I'll call you when I get home. (not: when I will get home)"
+    },
+    {
+     "rule": "Present perfect in the time clause to stress completion.",
+     "bn": "আগে শেষ হওয়াটা জোর দিতে have + V3।",
+     "ex": "You can go out after you've finished your homework."
+    },
+    {
+     "rule": "Second conditional for imaginary present; use were for all subjects in formal English.",
+     "bn": "অবাস্তব বর্তমান — past দিয়ে।",
+     "ex": "If I were you, I'd take the job."
+    },
+    {
+     "rule": "Third conditional for regrets about the past.",
+     "bn": "অতীত নিয়ে আফসোস।",
+     "ex": "If we had left earlier, we wouldn't have missed the train."
+    },
+    {
+     "rule": "Wish + past = unreal now; wish + had V3 = regret about the past.",
+     "bn": "wish এর পরেও tense পিছিয়ে যায়।",
+     "ex": "I wish I lived closer. I wish I hadn't said that."
+    }
+   ],
+   "signals": [
+    "when",
+    "if",
+    "unless",
+    "as soon as",
+    "until",
+    "before",
+    "after",
+    "once",
+    "I wish",
+    "if only"
+   ],
+   "traps": [
+    {
+     "wrong": "I will call you when I will reach.",
+     "right": "I'll call you when I reach / get there.",
+     "why": "No will after when.",
+     "bn": "'পৌঁছে ফোন দেব' — when এর পরে present।"
+    },
+    {
+     "wrong": "If I would have money, I would buy a flat.",
+     "right": "If I had money, I would buy a flat.",
+     "why": "No would in the if-clause.",
+     "bn": "if অংশে would বসে না।"
+    },
+    {
+     "wrong": "If I knew, I would have told you.",
+     "right": "If I had known, I would have told you.",
+     "why": "Past regret: had + V3.",
+     "bn": "অতীতের অবাস্তব শর্তে had known।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "type",
+     "q": "Saying goodbye to your mother.",
+     "s": "I'll text you as soon as I ___ in Chattogram.",
+     "hint": "arrive",
+     "a": [
+      "arrive",
+      "get"
+     ],
+     "x": "After 'as soon as', present simple for the future."
+    },
+    {
+     "t": "bn",
+     "q": "আমি যদি তুমি হতাম, চাকরিটা নিতাম।",
+     "o": [
+      "If I were you, I would take the job.",
+      "If I am you, I will take the job.",
+      "If I would be you, I would take the job.",
+      "If I had been you, I take the job."
+     ],
+     "a": "If I were you, I would take the job.",
+     "x": "Imaginary present: If + were, would + base."
+    },
+    {
+     "t": "choose",
+     "q": "You missed the bus because you woke up late.",
+     "s": "If I ___ up earlier, I wouldn't have missed the bus.",
+     "o": [
+      "had woken",
+      "woke",
+      "would wake",
+      "have woken"
+     ],
+     "a": "had woken",
+     "x": "Unreal past: If + had + V3."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "Unless you will hurry, you'll be late.",
+      "Unless you hurry, you'll be late.",
+      "Unless you don't hurry, you'll be late.",
+      "Unless you hurried, you'll be late."
+     ],
+     "a": "Unless you hurry, you'll be late.",
+     "x": "Unless = if not. No will and no extra 'not'."
+    },
+    {
+     "t": "type",
+     "q": "Regret now about your job.",
+     "s": "I wish I ___ a better salary.",
+     "hint": "have",
+     "a": [
+      "had"
+     ],
+     "x": "Wish about the present: past simple."
+    },
+    {
+     "t": "choose",
+     "q": "Mixed: past cause, present result.",
+     "s": "If I had taken that job in Singapore, I ___ there now.",
+     "o": [
+      "would be living",
+      "would have lived",
+      "will live",
+      "lived"
+     ],
+     "a": "would be living",
+     "x": "Past condition, present result: would + base (or would be + -ing)."
+    },
+    {
+     "t": "type",
+     "q": "Regret about something you said.",
+     "s": "I wish I ___ that to her. She was so upset.",
+     "hint": "not say",
+     "a": [
+      "hadn't said",
+      "had not said"
+     ],
+     "x": "Regret about the past: wish + had + V3."
+    },
+    {
+     "t": "choose",
+     "q": "Real possibility.",
+     "s": "If it ___ tomorrow, the match will be cancelled.",
+     "o": [
+      "rains",
+      "will rain",
+      "rained",
+      "would rain"
+     ],
+     "a": "rains",
+     "x": "First conditional: If + present, will + base."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "Wait here until I will come back.",
+      "Wait here until I come back.",
+      "Wait here until I am coming back.",
+      "Wait here until I came back."
+     ],
+     "a": "Wait here until I come back.",
+     "x": "After until: present simple."
+    },
+    {
+     "t": "choose",
+     "q": "Completion before the next step.",
+     "s": "You can leave once you ___ the form.",
+     "o": [
+      "have signed",
+      "will sign",
+      "will have signed",
+      "signed"
+     ],
+     "a": "have signed",
+     "x": "Present perfect after 'once' stresses that signing must be completed first."
+    },
+    {
+     "t": "choose",
+     "q": "Formal first conditional.",
+     "s": "___ you need any help, please call the front desk.",
+     "o": [
+      "Should",
+      "Would",
+      "Will",
+      "Had"
+     ],
+     "a": "Should",
+     "x": "Inverted 'Should you...' = If you should... (formal).",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Formal third conditional.",
+     "s": "___ I known about the strike, I would have stayed home.",
+     "o": [
+      "Had",
+      "If",
+      "Have",
+      "Would"
+     ],
+     "a": "Had",
+     "x": "Inversion: Had I known = If I had known.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Criticism with 'It's time'.",
+     "s": "It's high time you ___ a proper job.",
+     "o": [
+      "found",
+      "find",
+      "will find",
+      "have found"
+     ],
+     "a": "found",
+     "x": "It's (high) time + past simple, but the meaning is present.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Preference about another person.",
+     "s": "I'd rather you ___ smoke in the car.",
+     "o": [
+      "didn't",
+      "don't",
+      "won't",
+      "not"
+     ],
+     "a": "didn't",
+     "x": "Would rather + another subject + past simple.",
+     "lv": "adv"
+    },
+    {
+     "t": "type",
+     "q": "Imaginary comparison.",
+     "s": "He talks as if he ___ the boss, but he isn't.",
+     "hint": "be",
+     "a": [
+      "were",
+      "was"
+     ],
+     "x": "As if + past for something not true.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Regret: a modal in the past.",
+     "s": "You ___ me. I would have helped you.",
+     "o": [
+      "should have told",
+      "should told",
+      "must tell",
+      "should have tell"
+     ],
+     "a": "should have told",
+     "x": "Should have + V3 = criticism or regret about the past.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Deduction about the past.",
+     "s": "The road is wet. It ___ in the night.",
+     "o": [
+      "must have rained",
+      "must rain",
+      "should rain",
+      "can have rained"
+     ],
+     "a": "must have rained",
+     "x": "Must have + V3 = strong certainty about the past.",
+     "lv": "adv"
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "If I would have known, I would have come.",
+      "If I had known, I would have came.",
+      "If I had known, I would have come.",
+      "If I knew, I will have come."
+     ],
+     "a": "If I had known, I would have come.",
+     "x": "Third conditional: had + V3, would have + V3 (come).",
+     "lv": "adv"
+    },
+    {
+     "t": "bn",
+     "q": "সে হয়তো বাসটা মিস করেছে, তাই দেরি হচ্ছে।",
+     "o": [
+      "He might have missed the bus, so he's late.",
+      "He might miss the bus, so he's late.",
+      "He must miss the bus, so he's late.",
+      "He might has missed the bus, so he's late."
+     ],
+     "a": "He might have missed the bus, so he's late.",
+     "x": "Might have + V3 = a possibility about the past.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "reported",
+   "title": "Reported speech and tense agreement",
+   "level": "C1",
+   "idea": "When the reporting verb is past (said, told, asked), move the tense one step back, unless the fact is still true and you want to show that.",
+   "ideaBn": "said/told দিয়ে অন্যের কথা বললে tense এক ধাপ পেছায়: is → was, has done → had done, will → would।",
+   "timeline": [
+    {
+     "kind": "point",
+     "from": -0.6,
+     "label": "She said: 'I am tired.'"
+    },
+    {
+     "kind": "point",
+     "from": 0.0,
+     "label": "now: She said she was tired."
+    }
+   ],
+   "formula": [
+    {
+     "name": "Backshift",
+     "pos": "present → past · past → past perfect",
+     "neg": "will → would · can → could",
+     "q": "is going to → was going to"
+    },
+    {
+     "name": "Questions",
+     "pos": "He asked where I lived.",
+     "neg": "(not: where did I live)",
+     "q": "She asked if/whether I was free."
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Move one step back after a past reporting verb.",
+     "bn": "এক ধাপ পেছনে।",
+     "ex": "'I'm busy.' → He said he was busy."
+    },
+    {
+     "rule": "Still true facts can keep the original tense.",
+     "bn": "চিরসত্য বা এখনো সত্য হলে না বদলালেও চলে।",
+     "ex": "She said Dhaka is the capital. / He said he lives in Mirpur (he still does)."
+    },
+    {
+     "rule": "Reported questions use statement word order, no do/does/did.",
+     "bn": "রিপোর্ট করা প্রশ্নে subject আগে।",
+     "ex": "He asked me where I worked."
+    },
+    {
+     "rule": "Commands: tell/ask + object + to + base.",
+     "bn": "আদেশ → told me to।",
+     "ex": "She told me to wait outside. She asked me not to shout."
+    },
+    {
+     "rule": "Present reporting verb (says) = no change.",
+     "bn": "says হলে tense বদলায় না।",
+     "ex": "He says he is coming."
+    }
+   ],
+   "signals": [
+    "said",
+    "told",
+    "asked",
+    "explained",
+    "wondered",
+    "wanted to know"
+   ],
+   "traps": [
+    {
+     "wrong": "He told that he is sick.",
+     "right": "He said that he was sick. / He told me that he was sick.",
+     "why": "Tell needs a person; backshift after past.",
+     "bn": "told এর পরে কাকে বলেছে সেটা লাগে।"
+    },
+    {
+     "wrong": "She asked me where do I live.",
+     "right": "She asked me where I lived.",
+     "why": "Statement word order in reported questions.",
+     "bn": "রিপোর্ট করা প্রশ্নে do/does বসে না।"
+    },
+    {
+     "wrong": "He said me to come.",
+     "right": "He told me to come.",
+     "why": "Say does not take a person directly.",
+     "bn": "said me নয়, told me।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "type",
+     "q": "Report it. Rahim: 'I am working late.'",
+     "s": "Rahim said he ___ late.",
+     "hint": "work",
+     "a": [
+      "was working"
+     ],
+     "x": "Present continuous → past continuous."
+    },
+    {
+     "t": "choose",
+     "q": "Report it. Nadia: 'I have lost my keys.'",
+     "s": "Nadia said she ___ her keys.",
+     "o": [
+      "had lost",
+      "has lost",
+      "lost",
+      "was losing"
+     ],
+     "a": "had lost",
+     "x": "Present perfect → past perfect."
+    },
+    {
+     "t": "choose",
+     "q": "Report it. Boss: 'I will call you tomorrow.'",
+     "s": "My boss said he ___ me the next day.",
+     "o": [
+      "would call",
+      "will call",
+      "calls",
+      "had call"
+     ],
+     "a": "would call",
+     "x": "Will → would; tomorrow → the next day."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct reported question.",
+     "o": [
+      "She asked me where did I work.",
+      "She asked me where I worked.",
+      "She asked me where was I working.",
+      "She asked to me where I work."
+     ],
+     "a": "She asked me where I worked.",
+     "x": "Statement word order and backshift."
+    },
+    {
+     "t": "bn",
+     "q": "সে আমাকে বাইরে অপেক্ষা করতে বলল।",
+     "o": [
+      "He told me to wait outside.",
+      "He said me to wait outside.",
+      "He told me wait outside.",
+      "He said to me that wait outside."
+     ],
+     "a": "He told me to wait outside.",
+     "x": "Command: tell + person + to + base."
+    },
+    {
+     "t": "type",
+     "q": "Report a yes/no question. 'Are you free on Friday?'",
+     "s": "He asked me ___ free on Friday.",
+     "hint": "if + be",
+     "a": [
+      "if I was",
+      "whether I was",
+      "if i was",
+      "whether i was"
+     ],
+     "x": "Yes/no questions: if / whether + statement order + backshift."
+    },
+    {
+     "t": "choose",
+     "q": "A general truth.",
+     "s": "Our teacher told us that the earth ___ around the sun.",
+     "o": [
+      "goes",
+      "had gone",
+      "would go",
+      "is going"
+     ],
+     "a": "goes",
+     "x": "A permanent truth can stay in the present."
+    },
+    {
+     "t": "choose",
+     "q": "Report it. 'I can't come.'",
+     "s": "She said she ___ come.",
+     "o": [
+      "couldn't",
+      "can't not",
+      "won't can",
+      "hadn't"
+     ],
+     "a": "couldn't",
+     "x": "Can → could."
+    },
+    {
+     "t": "choose",
+     "q": "Report it. 'Don't touch the wires!'",
+     "s": "The electrician warned us ___ the wires.",
+     "o": [
+      "not to touch",
+      "to not touched",
+      "don't touch",
+      "not touching"
+     ],
+     "a": "not to touch",
+     "x": "Warn/tell + object + not to + base.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Report with a suggestion verb.",
+     "s": "She suggested ___ a taxi.",
+     "o": [
+      "taking",
+      "to take",
+      "us to take",
+      "take"
+     ],
+     "a": "taking",
+     "x": "Suggest + -ing (or suggest that we take). Never 'suggested us to'.",
+     "lv": "adv"
+    },
+    {
+     "t": "type",
+     "q": "Report it. 'I was working yesterday.'",
+     "s": "He said he ___ the day before.",
+     "hint": "work",
+     "a": [
+      "had been working"
+     ],
+     "x": "Past continuous → past perfect continuous; yesterday → the day before.",
+     "lv": "adv"
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "He asked me what time is it.",
+      "He asked me what time it was.",
+      "He asked me what time was it.",
+      "He asked to me what time it is."
+     ],
+     "a": "He asked me what time it was.",
+     "x": "Statement order and backshift in reported questions.",
+     "lv": "adv"
+    }
+   ]
+  }
+ ],
+ "mastery": [
+  {
+   "t": "choose",
+   "q": "Job interview.",
+   "s": "I ___ in marketing for six years, and I currently manage a team of five.",
+   "o": [
+    "have been working",
+    "am working",
+    "worked",
+    "work"
+   ],
+   "a": "have been working",
+   "x": "From the past until now with 'for': perfect continuous."
+  },
+  {
+   "t": "type",
+   "q": "Email to a client.",
+   "s": "I ___ the invoice yesterday, but I'll send it again.",
+   "hint": "send",
+   "a": [
+    "sent"
+   ],
+   "x": "Yesterday: past simple."
+  },
+  {
+   "t": "bn",
+   "q": "আমি যখন ফোন করলাম, সে তখন রান্না করছিল।",
+   "o": [
+    "When I called, she was cooking.",
+    "When I was calling, she cooked.",
+    "When I called, she cooked.",
+    "When I have called, she was cooking."
+   ],
+   "a": "When I called, she was cooking.",
+   "x": "Short event (called) interrupts a background action (was cooking)."
+  },
+  {
+   "t": "choose",
+   "q": "On the phone.",
+   "s": "I can't talk now. I ___ the car.",
+   "o": [
+    "'m driving",
+    "drive",
+    "'ve driven",
+    "drove"
+   ],
+   "a": "'m driving",
+   "x": "Right now: present continuous."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "I'm living here since 2019.",
+    "I have been living here since 2019.",
+    "I live here since 2019.",
+    "I lived here since 2019."
+   ],
+   "a": "I have been living here since 2019.",
+   "x": "Since + still true: perfect (continuous)."
+  },
+  {
+   "t": "type",
+   "q": "Arriving at a party late.",
+   "s": "By the time I got there, most people ___ .",
+   "hint": "leave",
+   "a": [
+    "had left"
+   ],
+   "x": "Earlier past: past perfect."
+  },
+  {
+   "t": "choose",
+   "q": "Deadline talk.",
+   "s": "Don't worry. I ___ the slides by the meeting.",
+   "o": [
+    "will have finished",
+    "finish",
+    "finished",
+    "had finished"
+   ],
+   "a": "will have finished",
+   "x": "By + future point: future perfect."
+  },
+  {
+   "t": "bn",
+   "q": "তুমি কি কখনো সুন্দরবন গিয়েছ?",
+   "o": [
+    "Have you ever been to the Sundarbans?",
+    "Did you ever go to the Sundarbans?",
+    "Were you ever gone to the Sundarbans?",
+    "Do you ever go to the Sundarbans?"
+   ],
+   "a": "Have you ever been to the Sundarbans?",
+   "x": "Life experience: Have you ever been...? (British). 'Did you ever go' is American and less common in exams."
+  },
+  {
+   "t": "choose",
+   "q": "A plan made last week.",
+   "s": "We ___ a new flat next month. We've already signed the contract.",
+   "o": [
+    "are moving into",
+    "will move into",
+    "move into",
+    "moved into"
+   ],
+   "a": "are moving into",
+   "x": "Fixed arrangement: present continuous."
+  },
+  {
+   "t": "type",
+   "q": "Time clause.",
+   "s": "I'll lend you the book after I ___ it.",
+   "hint": "read",
+   "a": [
+    "have read",
+    "'ve read",
+    "read",
+    "finish"
+   ],
+   "x": "No will after 'after'. Present perfect stresses that reading is finished first."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "If I had known about the traffic, I would leave earlier.",
+    "If I had known about the traffic, I would have left earlier.",
+    "If I knew about the traffic, I would have left earlier.",
+    "If I would know about the traffic, I would have left earlier."
+   ],
+   "a": "If I had known about the traffic, I would have left earlier.",
+   "x": "Third conditional: had + V3, would have + V3."
+  },
+  {
+   "t": "choose",
+   "q": "Reported.",
+   "s": "The manager told us the shop ___ at 10 the next day.",
+   "o": [
+    "would open",
+    "will opens",
+    "opens tomorrow",
+    "has opened"
+   ],
+   "a": "would open",
+   "x": "Will → would after a past reporting verb."
+  },
+  {
+   "t": "choose",
+   "q": "Your neighbour's annoying habit.",
+   "s": "He ___ his music at midnight. I can't sleep!",
+   "o": [
+    "is always playing",
+    "always played",
+    "has always play",
+    "always is play"
+   ],
+   "a": "is always playing",
+   "x": "Always + continuous: annoyance."
+  },
+  {
+   "t": "type",
+   "q": "Old habit.",
+   "s": "When we were kids, we ___ cricket on the roof every evening.",
+   "hint": "play",
+   "a": [
+    "used to play",
+    "would play",
+    "played"
+   ],
+   "x": "Past habit: used to / would / past simple."
+  },
+  {
+   "t": "choose",
+   "q": "Evidence.",
+   "s": "Watch out! That glass ___ fall.",
+   "o": [
+    "is going to",
+    "will",
+    "shall",
+    "is"
+   ],
+   "a": "is going to",
+   "x": "You can see it about to happen: going to."
+  },
+  {
+   "t": "bn",
+   "q": "আমি তিনটা ইমেইল লিখেছি, আরো দুটো বাকি।",
+   "o": [
+    "I've written three emails, and two more are left.",
+    "I've been writing three emails, and two more are left.",
+    "I wrote three emails, and two more are left yesterday.",
+    "I'm writing three emails, and two more left."
+   ],
+   "a": "I've written three emails, and two more are left.",
+   "x": "A number (three) = present perfect simple."
+  },
+  {
+   "t": "choose",
+   "q": "Wish about now.",
+   "s": "I wish it ___ so hot today.",
+   "o": [
+    "weren't",
+    "isn't",
+    "won't be",
+    "hasn't been"
+   ],
+   "a": "weren't",
+   "x": "Wish + past for the present. 'Weren't' is the formal form for all subjects."
+  },
+  {
+   "t": "type",
+   "q": "Opinion.",
+   "s": "I ___ this restaurant is overrated.",
+   "hint": "think",
+   "a": [
+    "think"
+   ],
+   "x": "Think = opinion, a state: present simple."
+  },
+  {
+   "t": "choose",
+   "q": "Story ending.",
+   "s": "She was crying because she ___ bad news from home.",
+   "o": [
+    "had received",
+    "has received",
+    "receives",
+    "was received"
+   ],
+   "a": "had received",
+   "x": "The news came before the crying: past perfect."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "When did you have seen him?",
+    "When have you seen him?",
+    "When did you see him?",
+    "When you saw him?"
+   ],
+   "a": "When did you see him?",
+   "x": "When + past simple question."
+  }
+ ],
+ "decide": [
+  {
+   "q": "Does the sentence have a finished time (yesterday, ago, in 2020, last)?",
+   "yes": "Past simple.",
+   "no": "Go on."
+  },
+  {
+   "q": "Did it start in the past and is it still true or still going (since, for, so far, today)?",
+   "yes": "Present perfect (simple for results and numbers, continuous for duration).",
+   "no": "Go on."
+  },
+  {
+   "q": "Is it about the past, but before another past event?",
+   "yes": "Past perfect.",
+   "no": "Go on."
+  },
+  {
+   "q": "Is it a background action when something else happened?",
+   "yes": "Past continuous + past simple.",
+   "no": "Go on."
+  },
+  {
+   "q": "Is it a fact, habit, or timetable?",
+   "yes": "Present simple.",
+   "no": "Go on."
+  },
+  {
+   "q": "Is it happening now, temporary, or a changing trend?",
+   "yes": "Present continuous.",
+   "no": "Go on."
+  },
+  {
+   "q": "Is it future after when / if / until / as soon as?",
+   "yes": "Present simple (or present perfect), no will.",
+   "no": "Go on."
+  },
+  {
+   "q": "Is it future: decided now, planned, or arranged?",
+   "yes": "Now: will. Planned: going to. Arranged with a time: present continuous.",
+   "no": "Go on."
+  },
+  {
+   "q": "Will it be finished before a future deadline (by)?",
+   "yes": "Future perfect: will have + V3.",
+   "no": "Check the unit list again."
+  }
+ ]
+}

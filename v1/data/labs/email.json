@@ -1,0 +1,387 @@
+{
+ "title": "Email and chat",
+ "intro": "Most work communication is now written: email, Slack, WhatsApp. Write messages that are short, clear, polite and modern.",
+ "introBn": "এখন অফিসের বেশিরভাগ যোগাযোগই লেখায় — ছোট, পরিষ্কার, আর আধুনিক ইংরেজিতে লিখুন।",
+ "units": [
+  {
+   "id": "open",
+   "title": "Openings, closings and attachments",
+   "level": "B1",
+   "idea": "Modern business email is short, clear and friendly. Open with a greeting and purpose, close with a next step.",
+   "ideaBn": "আধুনিক ইমেইল ছোট, পরিষ্কার, আর বন্ধুত্বপূর্ণ।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Open",
+     "pos": "Hi Sara, · Dear Mr Rahman, · I hope you're well. · I'm writing to…",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Close",
+     "pos": "Let me know if you have any questions. · I look forward to hearing from you. · Best regards,",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "I'm writing to + base verb.",
+     "bn": "উদ্দেশ্য বলুন।",
+     "ex": "I'm writing to confirm our meeting."
+    },
+    {
+     "rule": "Attachments: Please find attached… / I've attached…",
+     "bn": "সংযুক্তি।",
+     "ex": "I've attached the updated invoice."
+    },
+    {
+     "rule": "Look forward to + -ing.",
+     "bn": "to এর পরে -ing।",
+     "ex": "I look forward to meeting you."
+    },
+    {
+     "rule": "Avoid 'Respected Sir' and 'Your obedient servant'.",
+     "bn": "পুরনো ধাঁচ এড়িয়ে চলুন।",
+     "ex": "Dear Mr Hossain, … Kind regards,"
+    }
+   ],
+   "signals": [
+    "I'm writing to",
+    "attached",
+    "look forward to",
+    "regards"
+   ],
+   "traps": [
+    {
+     "wrong": "I am looking forward to hear from you.",
+     "right": "I look forward to hearing from you.",
+     "why": "To is a preposition here: -ing.",
+     "bn": "look forward to + -ing।"
+    },
+    {
+     "wrong": "PFA.",
+     "right": "Please find the file attached. / I've attached the file.",
+     "why": "Abbreviations look lazy.",
+     "bn": "PFA লিখবেন না।"
+    },
+    {
+     "wrong": "Respected Sir,",
+     "right": "Dear Mr Ahmed,",
+     "why": "Use the name.",
+     "bn": "নাম ব্যবহার করুন।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Opening.",
+     "s": "I'm writing ___ about the delivery date.",
+     "o": [
+      "to ask",
+      "for asking",
+      "to asking",
+      "ask"
+     ],
+     "a": "to ask",
+     "x": "I'm writing to + base."
+    },
+    {
+     "t": "type",
+     "q": "Closing.",
+     "s": "I look forward to ___ from you.",
+     "hint": "hear",
+     "a": [
+      "hearing"
+     ],
+     "x": "Look forward to + -ing."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the best attachment line.",
+     "o": [
+      "PFA.",
+      "Please find attached the agenda for Monday.",
+      "Attached herewith please find the agenda kindly.",
+      "Agenda is attach."
+     ],
+     "a": "Please find attached the agenda for Monday.",
+     "x": "Clear and standard."
+    },
+    {
+     "t": "bn",
+     "q": "আমি সংশোধিত রিপোর্টটি সংযুক্ত করেছি।",
+     "o": [
+      "I've attached the revised report.",
+      "I have attach the revised report.",
+      "I attached revised report herewith.",
+      "Revised report is attached by me."
+     ],
+     "a": "I've attached the revised report.",
+     "x": "Present perfect: result now."
+    },
+    {
+     "t": "choose",
+     "q": "Greeting a new contact.",
+     "s": "___ Ms Chowdhury,",
+     "o": [
+      "Dear",
+      "Respected",
+      "Hey dear",
+      "To"
+     ],
+     "a": "Dear",
+     "x": "Dear + title + surname."
+    },
+    {
+     "t": "choose",
+     "q": "Next step.",
+     "s": "Please let me know if you ___ any questions.",
+     "o": [
+      "have",
+      "will have",
+      "had",
+      "are having"
+     ],
+     "a": "have",
+     "x": "If + present for the future."
+    }
+   ]
+  },
+  {
+   "id": "followup",
+   "title": "Following up, apologising, updating",
+   "level": "B2",
+   "idea": "Follow up politely, apologise clearly without over-apologising, and give updates with the present perfect.",
+   "ideaBn": "ফলো-আপে চাপ না দিয়ে মনে করিয়ে দিন; ক্ষমা চাইলে পরিষ্কার আর সংক্ষিপ্ত।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Follow up",
+     "pos": "Just following up on… · I wanted to check whether… · Any update on…?",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Apologise",
+     "pos": "Sorry for the delay. · I apologise for the confusion. · Thanks for your patience.",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Just following up on + noun.",
+     "bn": "on + noun।",
+     "ex": "Just following up on my email from Monday."
+    },
+    {
+     "rule": "Apologise for + noun/-ing.",
+     "bn": "for + -ing।",
+     "ex": "I apologise for sending the wrong file."
+    },
+    {
+     "rule": "Updates: present perfect.",
+     "bn": "আপডেট = have done।",
+     "ex": "We've fixed the bug and deployed the update."
+    },
+    {
+     "rule": "Thanks for your patience is better than Sorry again and again.",
+     "bn": "বারবার sorry নয়।",
+     "ex": "Thanks for your patience while we sort this out."
+    }
+   ],
+   "signals": [
+    "following up",
+    "sorry for",
+    "apologise for",
+    "update"
+   ],
+   "traps": [
+    {
+     "wrong": "Sorry for late reply.",
+     "right": "Sorry for the late reply.",
+     "why": "Article needed.",
+     "bn": "the late reply।"
+    },
+    {
+     "wrong": "I am apologising for the mistake.",
+     "right": "I apologise for the mistake.",
+     "why": "Apologise is a performative verb: simple.",
+     "bn": "apologise simple রূপে।"
+    },
+    {
+     "wrong": "Any update about this?",
+     "right": "Any update on this?",
+     "why": "Update on.",
+     "bn": "update on।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Follow-up.",
+     "s": "Just following up ___ the invoice I sent last week.",
+     "o": [
+      "on",
+      "about to",
+      "for",
+      "at"
+     ],
+     "a": "on",
+     "x": "Following up on."
+    },
+    {
+     "t": "choose",
+     "q": "Apology.",
+     "s": "Sorry for ___ delay.",
+     "o": [
+      "the",
+      "a",
+      "—",
+      "my the"
+     ],
+     "a": "the",
+     "x": "Sorry for the delay."
+    },
+    {
+     "t": "type",
+     "q": "Apology.",
+     "s": "I apologise for ___ the meeting.",
+     "hint": "miss",
+     "a": [
+      "missing"
+     ],
+     "x": "For + -ing."
+    },
+    {
+     "t": "choose",
+     "q": "Update.",
+     "s": "We ___ the issue. Everything should work now.",
+     "o": [
+      "have fixed",
+      "fixed yesterday",
+      "are fixing",
+      "fix"
+     ],
+     "a": "have fixed",
+     "x": "Result now: present perfect."
+    },
+    {
+     "t": "bn",
+     "q": "আপনার ধৈর্যের জন্য ধন্যবাদ।",
+     "o": [
+      "Thank you for your patience.",
+      "Thanks for your patient.",
+      "Thank you to your patience.",
+      "Thanks your patience."
+     ],
+     "a": "Thank you for your patience.",
+     "x": "Patience (noun) after your."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the best chat message to a manager.",
+     "o": [
+      "Sir, why no reply?",
+      "Hi Arif, just checking if you had a chance to look at the proposal.",
+      "Please reply urgent.",
+      "Reply me ASAP."
+     ],
+     "a": "Hi Arif, just checking if you had a chance to look at the proposal.",
+     "x": "Polite follow-up."
+    },
+    {
+     "t": "choose",
+     "q": "Chat.",
+     "s": "Can we ___ a quick call at 3?",
+     "o": [
+      "hop on",
+      "do on",
+      "make on",
+      "take on"
+     ],
+     "a": "hop on",
+     "x": "Hop on a call = join a quick call (informal).",
+     "lv": "adv"
+    }
+   ]
+  }
+ ],
+ "mastery": [
+  {
+   "t": "fix",
+   "q": "Pick the best subject + first line.",
+   "o": [
+    "Regarding the matter of the meeting kindly.",
+    "Meeting moved to Thursday — I'm writing to let you know the new time.",
+    "URGENT!!! READ",
+    "Dear Sir, Respected, I want to inform that"
+   ],
+   "a": "Meeting moved to Thursday — I'm writing to let you know the new time.",
+   "x": "Clear subject, clear purpose."
+  },
+  {
+   "t": "choose",
+   "q": "Closing.",
+   "s": "Let me know ___ you need anything else.",
+   "o": [
+    "if",
+    "that",
+    "what",
+    "unless"
+   ],
+   "a": "if",
+   "x": "Let me know if…"
+  },
+  {
+   "t": "type",
+   "q": "Closing.",
+   "s": "I look forward to ___ with you.",
+   "hint": "work",
+   "a": [
+    "working"
+   ],
+   "x": "Look forward to + -ing."
+  },
+  {
+   "t": "choose",
+   "q": "Update.",
+   "s": "I ___ the slides. They're in the shared folder.",
+   "o": [
+    "have uploaded",
+    "upload",
+    "am uploading",
+    "had uploaded"
+   ],
+   "a": "have uploaded",
+   "x": "Result now."
+  },
+  {
+   "t": "bn",
+   "q": "দেরিতে উত্তর দেওয়ার জন্য দুঃখিত।",
+   "o": [
+    "Sorry for the late reply.",
+    "Sorry for late reply.",
+    "Sorry to the late reply.",
+    "Sorry for replying lately."
+   ],
+   "a": "Sorry for the late reply.",
+   "x": "Sorry for the + noun."
+  },
+  {
+   "t": "choose",
+   "q": "Follow-up.",
+   "s": "I wanted to check ___ you received my email.",
+   "o": [
+    "whether",
+    "what",
+    "that if",
+    "which"
+   ],
+   "a": "whether",
+   "x": "Check whether / if."
+  }
+ ],
+ "decide": []
+}

@@ -1,0 +1,396 @@
+{
+ "title": "Politeness and tone",
+ "intro": "Grammar can be perfect and still sound rude. Learn how native speakers soften requests, refuse, disagree and complain, so people want to work with you.",
+ "introBn": "ব্যাকরণ ঠিক হলেও রূঢ় শোনাতে পারে — ভদ্রভাবে বলার কৌশল শিখুন।",
+ "units": [
+  {
+   "id": "requests",
+   "title": "Requests that sound polite",
+   "level": "B1",
+   "idea": "Direct imperatives sound rude in English, even with 'please'. Soften with could, would, would you mind, and a reason.",
+   "ideaBn": "বাংলায় 'ফাইলটা পাঠাও' স্বাভাবিক, কিন্তু ইংরেজিতে 'Send the file' কড়া শোনায়। Could you…? দিয়ে বলুন।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Soft",
+     "pos": "Could you send me the file? · Would you mind sending it? · Is there any chance you could…?",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Softer",
+     "pos": "I was wondering if you could… · Would it be possible to…?",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Could / would make requests polite.",
+     "bn": "could/would = ভদ্রতা।",
+     "ex": "Could you check this for me?"
+    },
+    {
+     "rule": "Would you mind + -ing. Answer 'Not at all' to agree.",
+     "bn": "mind এর পরে -ing; রাজি হলে Not at all।",
+     "ex": "Would you mind closing the window? — Not at all."
+    },
+    {
+     "rule": "Add a reason or thanks.",
+     "bn": "কারণ বা ধন্যবাদ যোগ করুন।",
+     "ex": "Could you send it by 5? I need it for the board meeting. Thanks a lot."
+    },
+    {
+     "rule": "Avoid 'Do the needful', 'Revert back', 'Kindly do it'.",
+     "bn": "এই পুরনো ধাঁচের বাক্য এড়িয়ে চলুন।",
+     "ex": "Please let me know what you need. I'll get back to you."
+    }
+   ],
+   "signals": [
+    "could you",
+    "would you mind",
+    "is it possible",
+    "I was wondering"
+   ],
+   "traps": [
+    {
+     "wrong": "Please do the needful.",
+     "right": "Could you please take care of this?",
+     "why": "Outdated and unclear.",
+     "bn": "do the needful অনেকের কাছে অস্পষ্ট।"
+    },
+    {
+     "wrong": "Would you mind to help me?",
+     "right": "Would you mind helping me?",
+     "why": "Mind + -ing.",
+     "bn": "mind এর পরে -ing।"
+    },
+    {
+     "wrong": "I will revert back soon.",
+     "right": "I'll get back to you soon.",
+     "why": "Revert already means go back; it sounds old.",
+     "bn": "revert back নয়।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "fix",
+     "q": "Pick the most polite request.",
+     "o": [
+      "Send me the report.",
+      "You must send me the report.",
+      "Could you send me the report when you have a moment?",
+      "Report, please."
+     ],
+     "a": "Could you send me the report when you have a moment?",
+     "x": "Could + softener."
+    },
+    {
+     "t": "choose",
+     "q": "Polite request.",
+     "s": "Would you mind ___ the door?",
+     "o": [
+      "closing",
+      "to close",
+      "close",
+      "closed"
+     ],
+     "a": "closing",
+     "x": "Mind + -ing."
+    },
+    {
+     "t": "choose",
+     "q": "Answer to 'Would you mind waiting a minute?' (yes, you agree)",
+     "s": "\"___ Take your time.\"",
+     "o": [
+      "Not at all.",
+      "Yes, I mind.",
+      "Yes, please.",
+      "I don't."
+     ],
+     "a": "Not at all.",
+     "x": "Not at all = I don't mind, I agree."
+    },
+    {
+     "t": "type",
+     "q": "Very polite.",
+     "s": "I ___ wondering if you could help me with the slides.",
+     "hint": "be",
+     "a": [
+      "was"
+     ],
+     "x": "I was wondering = very polite."
+    },
+    {
+     "t": "bn",
+     "q": "আমাকে কি একটু সাহায্য করতে পারবেন?",
+     "o": [
+      "Could you help me for a moment?",
+      "Help me a little.",
+      "You can help me?",
+      "Can you to help me?"
+     ],
+     "a": "Could you help me for a moment?",
+     "x": "Could you…? is polite."
+    },
+    {
+     "t": "choose",
+     "q": "Asking permission.",
+     "s": "___ I leave a bit early today? I have a doctor's appointment.",
+     "o": [
+      "Would it be OK if",
+      "Must",
+      "Do",
+      "Shall I to"
+     ],
+     "a": "Would it be OK if",
+     "x": "Soft permission + reason."
+    },
+    {
+     "t": "choose",
+     "q": "Formal email.",
+     "s": "Would it be possible ___ the meeting to Thursday?",
+     "o": [
+      "to move",
+      "moving",
+      "move",
+      "moved"
+     ],
+     "a": "to move",
+     "x": "Would it be possible to + base.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "no",
+   "title": "Saying no, disagreeing, complaining",
+   "level": "B2",
+   "idea": "Say no without saying 'no': thank, give a reason, offer an alternative. Disagree by agreeing partly first. Complain about the problem, not the person.",
+   "ideaBn": "সরাসরি 'না' না বলে ধন্যবাদ, কারণ আর বিকল্প দিন। দ্বিমত করার আগে আংশিক একমত হন।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Refuse",
+     "pos": "I'm afraid I can't… · I'd love to, but… · Unfortunately…",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Disagree",
+     "pos": "I see your point, but… · I'm not sure I agree… · That's true, however…",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Complain",
+     "pos": "I'm afraid there's a problem with… · I'd like to report…",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "I'm afraid… softens bad news.",
+     "bn": "খারাপ খবর বলতে I'm afraid।",
+     "ex": "I'm afraid we can't offer a discount."
+    },
+    {
+     "rule": "Partial agreement before disagreeing.",
+     "bn": "আগে মেনে নিন, পরে দ্বিমত।",
+     "ex": "You're right about the cost, but the timing worries me."
+    },
+    {
+     "rule": "Offer an alternative.",
+     "bn": "বিকল্প দিন।",
+     "ex": "I can't do Monday, but how about Tuesday morning?"
+    },
+    {
+     "rule": "Use 'I' statements, not 'You' blame.",
+     "bn": "দোষারোপ নয়।",
+     "ex": "I didn't receive the file. (not: You didn't send it.)"
+    }
+   ],
+   "signals": [
+    "I'm afraid",
+    "unfortunately",
+    "I see your point",
+    "how about"
+   ],
+   "traps": [
+    {
+     "wrong": "No, it's not possible.",
+     "right": "I'm afraid that won't be possible, but I can…",
+     "why": "Too blunt.",
+     "bn": "খুব রূঢ় শোনায়।"
+    },
+    {
+     "wrong": "You are wrong.",
+     "right": "I'm not sure I agree. Have we considered…?",
+     "why": "Attacks the person.",
+     "bn": "ব্যক্তিকে আক্রমণ নয়।"
+    },
+    {
+     "wrong": "You sent the wrong item!",
+     "right": "I'm afraid I received the wrong item.",
+     "why": "Focus on the problem.",
+     "bn": "সমস্যার কথা বলুন।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "fix",
+     "q": "Pick the best way to refuse an invitation.",
+     "o": [
+      "No. I'm busy.",
+      "I don't want to come.",
+      "I'd love to, but I've got a family event that evening. Maybe next time?",
+      "Not possible."
+     ],
+     "a": "I'd love to, but I've got a family event that evening. Maybe next time?",
+     "x": "Thanks + reason + alternative."
+    },
+    {
+     "t": "choose",
+     "q": "Bad news to a client.",
+     "s": "___ , the shipment has been delayed by two days.",
+     "o": [
+      "Unfortunately",
+      "Happily",
+      "Of course",
+      "Obviously"
+     ],
+     "a": "Unfortunately",
+     "x": "Signals bad news politely."
+    },
+    {
+     "t": "choose",
+     "q": "Meeting.",
+     "s": "I see your point, ___ I think we need more data.",
+     "o": [
+      "but",
+      "so",
+      "because",
+      "and so"
+     ],
+     "a": "but",
+     "x": "Partial agreement + but."
+    },
+    {
+     "t": "bn",
+     "q": "দুঃখিত, আমি সোমবার পারব না, কিন্তু মঙ্গলবার কেমন হয়?",
+     "o": [
+      "I'm afraid I can't make Monday, but how about Tuesday?",
+      "Sorry, Monday no, Tuesday?",
+      "I can't Monday, but what about Tuesday is?",
+      "I'm afraid I can't make Monday, but how about on Tuesday?"
+     ],
+     "a": "I'm afraid I can't make Monday, but how about Tuesday?",
+     "x": "Polite refusal + alternative; no 'on' after how about here."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the best complaint.",
+     "o": [
+      "You people are useless.",
+      "Your delivery is always wrong.",
+      "I'm afraid the order I received was incomplete. Could you look into it?",
+      "Why you sent wrong order?"
+     ],
+     "a": "I'm afraid the order I received was incomplete. Could you look into it?",
+     "x": "Problem-focused + request."
+    },
+    {
+     "t": "choose",
+     "q": "Disagreeing gently.",
+     "s": "I'm not ___ that's the best option.",
+     "o": [
+      "sure",
+      "agree",
+      "think",
+      "right that"
+     ],
+     "a": "sure",
+     "x": "I'm not sure (that)…",
+     "lv": "adv"
+    }
+   ]
+  }
+ ],
+ "mastery": [
+  {
+   "t": "fix",
+   "q": "Pick the most natural email line.",
+   "o": [
+    "Kindly do the needful.",
+    "Please revert back ASAP.",
+    "Could you let me know by Friday? Thanks in advance.",
+    "Reply me fast."
+   ],
+   "a": "Could you let me know by Friday? Thanks in advance.",
+   "x": "Clear, polite, modern."
+  },
+  {
+   "t": "choose",
+   "q": "Request.",
+   "s": "Is there any chance you ___ send it today?",
+   "o": [
+    "could",
+    "can to",
+    "would to",
+    "should"
+   ],
+   "a": "could",
+   "x": "Is there any chance you could…"
+  },
+  {
+   "t": "choose",
+   "q": "Refusal.",
+   "s": "I'd love to help, ___ I'm fully booked this week.",
+   "o": [
+    "but",
+    "so",
+    "and",
+    "because"
+   ],
+   "a": "but",
+   "x": "I'd love to, but…"
+  },
+  {
+   "t": "bn",
+   "q": "আমি কি একটু জানালাটা খুলতে পারি?",
+   "o": [
+    "Do you mind if I open the window?",
+    "Do you mind if I opened the window now?",
+    "Can I opening the window?",
+    "Mind I open the window?"
+   ],
+   "a": "Do you mind if I open the window?",
+   "x": "Do you mind if I + present."
+  },
+  {
+   "t": "type",
+   "q": "Polite request.",
+   "s": "Would you mind ___ that again, please?",
+   "hint": "repeat",
+   "a": [
+    "repeating"
+   ],
+   "x": "Mind + -ing."
+  },
+  {
+   "t": "choose",
+   "q": "Complaint opener.",
+   "s": "I'm ___ there's a mistake on the bill.",
+   "o": [
+    "afraid",
+    "sorry for",
+    "scary",
+    "fear"
+   ],
+   "a": "afraid",
+   "x": "I'm afraid there's…"
+  }
+ ],
+ "decide": []
+}

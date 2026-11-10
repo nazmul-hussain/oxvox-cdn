@@ -1,0 +1,433 @@
+{
+ "title": "Nouns and agreement",
+ "intro": "Informations, advices, 'one of my friend' — these small slips make English sound foreign. Master the noun rules and agreement once.",
+ "introBn": "ছোট ভুলগুলো ঠিক করলেই ইংরেজি পরিষ্কার শোনায়।",
+ "units": [
+  {
+   "id": "count",
+   "title": "Countable and uncountable",
+   "level": "B1",
+   "idea": "Some nouns cannot be counted in English even if they can in Bangla: information, advice, news, furniture, equipment, feedback, luggage. No plural -s, no a/an.",
+   "ideaBn": "information, advice, news, feedback, luggage — এগুলো কখনো s নেয় না, a/an-ও নয়।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Uncountable",
+     "pos": "some information · a piece of advice · much feedback · little time",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Countable",
+     "pos": "a suggestion · two tips · many complaints · few options",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "No -s, no a/an, singular verb.",
+     "bn": "s, a/an নয়; verb একবচন।",
+     "ex": "The information is correct."
+    },
+    {
+     "rule": "To count them: a piece of, an item of, a bit of.",
+     "bn": "গুনতে চাইলে a piece of।",
+     "ex": "Let me give you a piece of advice."
+    },
+    {
+     "rule": "much / little with uncountable; many / few with countable.",
+     "bn": "much আর many এর পার্থক্য।",
+     "ex": "How much luggage? How many bags?"
+    },
+    {
+     "rule": "News is singular.",
+     "bn": "news একবচন।",
+     "ex": "The news is good."
+    }
+   ],
+   "signals": [
+    "information",
+    "advice",
+    "news",
+    "feedback",
+    "equipment",
+    "much",
+    "many"
+   ],
+   "traps": [
+    {
+     "wrong": "Can you give me some informations?",
+     "right": "Can you give me some information?",
+     "why": "Information has no plural.",
+     "bn": "informations নেই।"
+    },
+    {
+     "wrong": "He gave me an advice.",
+     "right": "He gave me some advice / a piece of advice.",
+     "why": "Advice is uncountable.",
+     "bn": "an advice নয়।"
+    },
+    {
+     "wrong": "The news are bad.",
+     "right": "The news is bad.",
+     "why": "News takes a singular verb.",
+     "bn": "news is।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Email.",
+     "s": "Thank you for your ___ on the draft.",
+     "o": [
+      "feedback",
+      "feedbacks",
+      "a feedback",
+      "many feedback"
+     ],
+     "a": "feedback",
+     "x": "Uncountable."
+    },
+    {
+     "t": "choose",
+     "q": "Office.",
+     "s": "We need new ___ for the lab.",
+     "o": [
+      "equipment",
+      "equipments",
+      "an equipment",
+      "many equipments"
+     ],
+     "a": "equipment",
+     "x": "Uncountable."
+    },
+    {
+     "t": "type",
+     "q": "Breaking news.",
+     "s": "The news ___ spreading fast.",
+     "hint": "be",
+     "a": [
+      "is"
+     ],
+     "x": "News is singular."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "She gave me many useful advices.",
+      "She gave me a lot of useful advice.",
+      "She gave me an useful advice.",
+      "She gave me many useful advice."
+     ],
+     "a": "She gave me a lot of useful advice.",
+     "x": "Advice is uncountable; a lot of works for both."
+    },
+    {
+     "t": "choose",
+     "q": "Airport.",
+     "s": "How ___ luggage do you have?",
+     "o": [
+      "much",
+      "many",
+      "few",
+      "a"
+     ],
+     "a": "much",
+     "x": "Luggage is uncountable."
+    },
+    {
+     "t": "bn",
+     "q": "আমার কাছে খুব অল্প সময় আছে।",
+     "o": [
+      "I have very little time.",
+      "I have very few time.",
+      "I have very less times.",
+      "I have very little times."
+     ],
+     "a": "I have very little time.",
+     "x": "Time (uncountable): little."
+    },
+    {
+     "t": "choose",
+     "q": "Fewer or less.",
+     "s": "We received ___ complaints this month.",
+     "o": [
+      "fewer",
+      "less",
+      "little",
+      "much"
+     ],
+     "a": "fewer",
+     "x": "Countable plural: fewer (less is common in speech, but fewer is correct).",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Work.",
+     "s": "I have a lot of ___ to do today.",
+     "o": [
+      "work",
+      "works",
+      "a work",
+      "many works"
+     ],
+     "a": "work",
+     "x": "Work (job tasks) is uncountable.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "agree",
+   "title": "Subject–verb agreement",
+   "level": "B2",
+   "idea": "The verb agrees with the real subject, not the nearest noun. Watch out for 'one of', 'each', 'everyone', long subjects and 'there is/are'.",
+   "ideaBn": "verb আসল subject-এর সাথে মিলবে, পাশের noun-এর সাথে নয়।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Singular",
+     "pos": "Everyone is · Each employee has · One of my friends lives",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Plural",
+     "pos": "Both are · A number of people have · There are two issues",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "One of + plural noun + singular verb.",
+     "bn": "one of the … is।",
+     "ex": "One of our clients is unhappy."
+    },
+    {
+     "rule": "Everyone, everybody, each, every: singular.",
+     "bn": "সবাই = everyone is।",
+     "ex": "Everyone in the team knows."
+    },
+    {
+     "rule": "Find the head noun in long subjects.",
+     "bn": "মূল noun খুঁজুন।",
+     "ex": "The list of new products is ready."
+    },
+    {
+     "rule": "There is + singular, there are + plural.",
+     "bn": "there is/are পরের noun দেখে।",
+     "ex": "There are three emails waiting."
+    }
+   ],
+   "signals": [
+    "one of",
+    "each",
+    "everyone",
+    "there is / are",
+    "a number of"
+   ],
+   "traps": [
+    {
+     "wrong": "One of my colleague are sick.",
+     "right": "One of my colleagues is sick.",
+     "why": "Plural noun, singular verb.",
+     "bn": "one of এর পরে plural noun, verb একবচন।"
+    },
+    {
+     "wrong": "Everyone have a laptop.",
+     "right": "Everyone has a laptop.",
+     "why": "Everyone is singular.",
+     "bn": "everyone has।"
+    },
+    {
+     "wrong": "There is many problems.",
+     "right": "There are many problems.",
+     "why": "Plural noun: are.",
+     "bn": "there are।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Team talk.",
+     "s": "Everyone in the team ___ the new policy.",
+     "o": [
+      "supports",
+      "support",
+      "are supporting",
+      "have supported"
+     ],
+     "a": "supports",
+     "x": "Everyone: singular."
+    },
+    {
+     "t": "choose",
+     "q": "Complaint.",
+     "s": "One of the printers ___ not working.",
+     "o": [
+      "is",
+      "are",
+      "were",
+      "have"
+     ],
+     "a": "is",
+     "x": "One of ... is."
+    },
+    {
+     "t": "type",
+     "q": "Report.",
+     "s": "The quality of the products ___ improved.",
+     "hint": "have",
+     "a": [
+      "has"
+     ],
+     "x": "Head noun: quality (singular)."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "There is two issues we need to fix.",
+      "There are two issues we need to fix.",
+      "There have two issues we need to fix.",
+      "It has two issues we need to fix."
+     ],
+     "a": "There are two issues we need to fix.",
+     "x": "There are + plural."
+    },
+    {
+     "t": "choose",
+     "q": "Office.",
+     "s": "Each of the managers ___ a parking space.",
+     "o": [
+      "has",
+      "have",
+      "are having",
+      "having"
+     ],
+     "a": "has",
+     "x": "Each: singular."
+    },
+    {
+     "t": "bn",
+     "q": "আমার একজন বন্ধু কানাডায় থাকে।",
+     "o": [
+      "One of my friends lives in Canada.",
+      "One of my friend lives in Canada.",
+      "One of my friends live in Canada.",
+      "My one friend live in Canada."
+     ],
+     "a": "One of my friends lives in Canada.",
+     "x": "One of + plural + singular verb."
+    },
+    {
+     "t": "choose",
+     "q": "Statistics.",
+     "s": "A number of employees ___ asked for remote work.",
+     "o": [
+      "have",
+      "has",
+      "is",
+      "was"
+     ],
+     "a": "have",
+     "x": "A number of = many: plural.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Statistics.",
+     "s": "The number of employees ___ grown this year.",
+     "o": [
+      "has",
+      "have",
+      "are",
+      "were"
+     ],
+     "a": "has",
+     "x": "The number (one figure): singular.",
+     "lv": "adv"
+    }
+   ]
+  }
+ ],
+ "mastery": [
+  {
+   "t": "choose",
+   "q": "Email.",
+   "s": "Please send me more ___ about the course.",
+   "o": [
+    "information",
+    "informations",
+    "an information",
+    "many informations"
+   ],
+   "a": "information",
+   "x": "Uncountable."
+  },
+  {
+   "t": "choose",
+   "q": "Office.",
+   "s": "Neither of the options ___ perfect.",
+   "o": [
+    "is",
+    "are",
+    "were being",
+    "have"
+   ],
+   "a": "is",
+   "x": "Neither of: singular in formal English."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "The furnitures in the office is new.",
+    "The furniture in the office is new.",
+    "The furniture in the office are new.",
+    "The furnitures in the office are new."
+   ],
+   "a": "The furniture in the office is new.",
+   "x": "Uncountable, singular verb."
+  },
+  {
+   "t": "bn",
+   "q": "প্রত্যেক কর্মী একটা আইডি কার্ড পায়।",
+   "o": [
+    "Every employee gets an ID card.",
+    "Every employees get an ID card.",
+    "Every employee get a ID card.",
+    "All employee gets an ID card."
+   ],
+   "a": "Every employee gets an ID card.",
+   "x": "Every + singular + singular verb; an ID (vowel sound)."
+  },
+  {
+   "t": "type",
+   "q": "Report.",
+   "s": "There ___ a lot of traffic this morning.",
+   "hint": "be (past)",
+   "a": [
+    "was"
+   ],
+   "x": "Traffic is uncountable: was."
+  },
+  {
+   "t": "choose",
+   "q": "Talk.",
+   "s": "How ___ people attended?",
+   "o": [
+    "many",
+    "much",
+    "little",
+    "less"
+   ],
+   "a": "many",
+   "x": "People: countable plural."
+  }
+ ],
+ "decide": []
+}

@@ -1,0 +1,606 @@
+{
+ "title": "Questions people actually ask",
+ "intro": "Half of every conversation is questions. Get the word order right, ask politely, and check things with tags like a native.",
+ "introBn": "কথোপকথনের অর্ধেকই প্রশ্ন — সঠিক ক্রম আর ভদ্র রূপ শিখে নিন।",
+ "units": [
+  {
+   "id": "direct",
+   "title": "Direct questions",
+   "level": "A2",
+   "idea": "Question = (question word) + helper verb + subject + main verb. If there is no helper verb, use do, does or did.",
+   "ideaBn": "প্রশ্নে helper verb (is, are, do, does, did, have, can) subject-এর আগে বসে।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "With be",
+     "pos": "Where is the meeting? Are you ready?",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "With do",
+     "pos": "Where do you work? What did she say?",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Subject questions",
+     "pos": "Who called you? What happened? (no do)",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Helper before subject.",
+     "bn": "auxiliary আগে।",
+     "ex": "Where are you going?"
+    },
+    {
+     "rule": "Does / did + base verb.",
+     "bn": "does/did এর পরে verb-এর মূল রূপ।",
+     "ex": "What did you buy? (not: did you bought)"
+    },
+    {
+     "rule": "When who/what is the subject, no do.",
+     "bn": "প্রশ্নবোধক শব্দ নিজেই subject হলে do লাগে না।",
+     "ex": "Who sent this? What happened?"
+    },
+    {
+     "rule": "Prepositions often go at the end.",
+     "bn": "preposition শেষে বসে।",
+     "ex": "Who are you talking to? Where are you from?"
+    }
+   ],
+   "signals": [
+    "what",
+    "where",
+    "when",
+    "why",
+    "how",
+    "who",
+    "which"
+   ],
+   "traps": [
+    {
+     "wrong": "Why you are late?",
+     "right": "Why are you late?",
+     "why": "Helper before subject.",
+     "bn": "প্রশ্নে is/are আগে।"
+    },
+    {
+     "wrong": "What did you bought?",
+     "right": "What did you buy?",
+     "why": "After did: base verb.",
+     "bn": "did এর পরে V1।"
+    },
+    {
+     "wrong": "Who did call you?",
+     "right": "Who called you?",
+     "why": "Who is the subject: no did.",
+     "bn": "who কর্তা হলে did নয়।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "fix",
+     "q": "Pick the correct question.",
+     "o": [
+      "Where you work?",
+      "Where do you work?",
+      "Where you do work?",
+      "Where does you work?"
+     ],
+     "a": "Where do you work?",
+     "x": "Do + subject + base."
+    },
+    {
+     "t": "choose",
+     "q": "Meeting.",
+     "s": "What time ___ the meeting start?",
+     "o": [
+      "does",
+      "do",
+      "is",
+      "did"
+     ],
+     "a": "does",
+     "x": "Meeting = it: does."
+    },
+    {
+     "t": "type",
+     "q": "Yesterday.",
+     "s": "What ___ the client say yesterday?",
+     "hint": "helper verb",
+     "a": [
+      "did"
+     ],
+     "x": "Past: did + base."
+    },
+    {
+     "t": "choose",
+     "q": "Who did it?",
+     "s": "Who ___ the coffee machine?",
+     "o": [
+      "broke",
+      "did break",
+      "break",
+      "does broke"
+     ],
+     "a": "broke",
+     "x": "Who is the subject: no did."
+    },
+    {
+     "t": "bn",
+     "q": "তুমি কার সাথে কথা বলছ?",
+     "o": [
+      "Who are you talking to?",
+      "Who you are talking to?",
+      "To who you talking?",
+      "Who do you talking to?"
+     ],
+     "a": "Who are you talking to?",
+     "x": "Helper + subject + -ing, preposition at the end."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct question.",
+     "o": [
+      "How much this costs?",
+      "How much does this cost?",
+      "How much does this costs?",
+      "How much is this cost?"
+     ],
+     "a": "How much does this cost?",
+     "x": "Does + base verb."
+    },
+    {
+     "t": "choose",
+     "q": "Choosing.",
+     "s": "___ option do you prefer, A or B?",
+     "o": [
+      "Which",
+      "What",
+      "Who",
+      "Whose"
+     ],
+     "a": "Which",
+     "x": "Which for a limited choice.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Frequency.",
+     "s": "How ___ do you visit your village?",
+     "o": [
+      "often",
+      "many",
+      "long",
+      "much"
+     ],
+     "a": "often",
+     "x": "How often = frequency.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "indirect",
+   "title": "Indirect questions (polite)",
+   "level": "B1",
+   "idea": "To sound polite, start with 'Could you tell me…' or 'Do you know…' and then use normal statement word order. No do/does/did.",
+   "ideaBn": "ভদ্রভাবে প্রশ্ন করতে Could you tell me… এর পরে সাধারণ বাক্যের ক্রম — subject আগে, verb পরে।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Wh-",
+     "pos": "Could you tell me where the lift is?",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Yes/no",
+     "pos": "Do you know if / whether the bank is open?",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Statement order after the opener.",
+     "bn": "subject + verb।",
+     "ex": "Do you know what time it starts?"
+    },
+    {
+     "rule": "Yes/no questions use if or whether.",
+     "bn": "হ্যাঁ/না প্রশ্নে if।",
+     "ex": "Can you tell me if the parcel has arrived?"
+    },
+    {
+     "rule": "Openers: Could you tell me, Do you know, I was wondering, Would you mind telling me.",
+     "bn": "ভদ্র শুরু।",
+     "ex": "I was wondering whether you are free on Monday."
+    }
+   ],
+   "signals": [
+    "Could you tell me",
+    "Do you know",
+    "if",
+    "whether",
+    "I wonder"
+   ],
+   "traps": [
+    {
+     "wrong": "Can you tell me where is the station?",
+     "right": "Can you tell me where the station is?",
+     "why": "Statement order.",
+     "bn": "is শেষে।"
+    },
+    {
+     "wrong": "Do you know what time does it open?",
+     "right": "Do you know what time it opens?",
+     "why": "No does.",
+     "bn": "does বাদ।"
+    },
+    {
+     "wrong": "Could you tell me is he available?",
+     "right": "Could you tell me if he is available?",
+     "why": "Yes/no: if.",
+     "bn": "if লাগবে।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "fix",
+     "q": "Pick the polite and correct question.",
+     "o": [
+      "Could you tell me where is the HR office?",
+      "Could you tell me where the HR office is?",
+      "Could you tell me where does the HR office?",
+      "Could you tell me the HR office where is?"
+     ],
+     "a": "Could you tell me where the HR office is?",
+     "x": "Statement order."
+    },
+    {
+     "t": "choose",
+     "q": "Reception.",
+     "s": "Do you know ___ Mr Karim will be back?",
+     "o": [
+      "when",
+      "when does",
+      "when will",
+      "does when"
+     ],
+     "a": "when",
+     "x": "Do you know when + subject + verb."
+    },
+    {
+     "t": "type",
+     "q": "Polite yes/no question.",
+     "s": "Could you tell me ___ the payment has gone through?",
+     "hint": "connector",
+     "a": [
+      "if",
+      "whether"
+     ],
+     "x": "Yes/no: if / whether."
+    },
+    {
+     "t": "bn",
+     "q": "আপনি কি জানেন অফিস কয়টায় খোলে?",
+     "o": [
+      "Do you know what time the office opens?",
+      "Do you know what time does the office open?",
+      "Do you know what time opens the office?",
+      "You know what time the office opens?"
+     ],
+     "a": "Do you know what time the office opens?",
+     "x": "Statement order, no does."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "I was wondering if could you help me.",
+      "I was wondering if you could help me.",
+      "I was wondering could you help me?",
+      "I was wondering if you can to help me."
+     ],
+     "a": "I was wondering if you could help me.",
+     "x": "If + subject + could."
+    },
+    {
+     "t": "choose",
+     "q": "Customer call.",
+     "s": "Would you mind telling me ___ ?",
+     "o": [
+      "how much it costs",
+      "how much does it cost",
+      "how much costs it",
+      "how much it does cost"
+     ],
+     "a": "how much it costs",
+     "x": "Statement order.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "tags",
+   "title": "Tag questions and short answers",
+   "level": "B2",
+   "idea": "A tag checks or invites agreement: positive sentence + negative tag, negative sentence + positive tag. Short answers repeat the helper verb.",
+   "ideaBn": "বাক্য positive হলে tag negative, বাক্য negative হলে tag positive। 'তাই না?' = tag question।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Tags",
+     "pos": "You're coming, aren't you? · She didn't call, did she?",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Short answers",
+     "pos": "Yes, I am. · No, she didn't. · So do I. · Neither have I.",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Use the same helper as the sentence.",
+     "bn": "একই auxiliary।",
+     "ex": "You've finished, haven't you?"
+    },
+    {
+     "rule": "No helper → do/does/did.",
+     "bn": "auxiliary না থাকলে do।",
+     "ex": "He works here, doesn't he?"
+    },
+    {
+     "rule": "I am → aren't I? Let's → shall we?",
+     "bn": "বিশেষ রূপ।",
+     "ex": "I'm late, aren't I? Let's start, shall we?"
+    },
+    {
+     "rule": "Agree: So + helper + I (positive), Neither + helper + I (negative).",
+     "bn": "আমিও = So do I / Neither do I।",
+     "ex": "'I love biryani.' 'So do I.' 'I can't swim.' 'Neither can I.'"
+    }
+   ],
+   "signals": [
+    "isn't it?",
+    "don't you?",
+    "didn't she?",
+    "So do I",
+    "Neither can I"
+   ],
+   "traps": [
+    {
+     "wrong": "You are coming, isn't it?",
+     "right": "You are coming, aren't you?",
+     "why": "Tag uses the same subject and helper.",
+     "bn": "সবকিছুতে isn't it বলবেন না।"
+    },
+    {
+     "wrong": "Me too. (to 'I don't like it')",
+     "right": "Me neither. / Neither do I.",
+     "why": "Negative agreement needs neither.",
+     "bn": "negative-এ me too নয়।"
+    },
+    {
+     "wrong": "Yes, I do. (to 'Are you ready?')",
+     "right": "Yes, I am.",
+     "why": "Short answer repeats the helper of the question.",
+     "bn": "প্রশ্নের auxiliary দিয়ে উত্তর।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Checking.",
+     "s": "You've sent the file, ___ ?",
+     "o": [
+      "haven't you",
+      "isn't it",
+      "didn't you",
+      "don't you"
+     ],
+     "a": "haven't you",
+     "x": "Have → haven't."
+    },
+    {
+     "t": "choose",
+     "q": "Checking.",
+     "s": "She works in Finance, ___ ?",
+     "o": [
+      "doesn't she",
+      "isn't she",
+      "isn't it",
+      "don't she"
+     ],
+     "a": "doesn't she",
+     "x": "No helper: does → doesn't."
+    },
+    {
+     "t": "type",
+     "q": "Suggestion.",
+     "s": "Let's take a short break, ___ we?",
+     "hint": "tag",
+     "a": [
+      "shall"
+     ],
+     "x": "Let's → shall we?"
+    },
+    {
+     "t": "choose",
+     "q": "Agreeing.",
+     "s": "'I didn't enjoy the seminar.' '___ did I.'",
+     "o": [
+      "Neither",
+      "So",
+      "Too",
+      "Either"
+     ],
+     "a": "Neither",
+     "x": "Negative agreement: Neither did I."
+    },
+    {
+     "t": "bn",
+     "q": "আমি দেরি করেছি, তাই না?",
+     "o": [
+      "I'm late, aren't I?",
+      "I'm late, isn't it?",
+      "I'm late, am I not it?",
+      "I'm late, don't I?"
+     ],
+     "a": "I'm late, aren't I?",
+     "x": "I am → aren't I."
+    },
+    {
+     "t": "choose",
+     "q": "Short answer.",
+     "s": "'Can you join the call?' 'Yes, I ___.'",
+     "o": [
+      "can",
+      "do",
+      "am",
+      "will"
+     ],
+     "a": "can",
+     "x": "Repeat the helper: can."
+    },
+    {
+     "t": "choose",
+     "q": "Checking.",
+     "s": "Nobody called, ___ ?",
+     "o": [
+      "did they",
+      "didn't they",
+      "did he",
+      "didn't it"
+     ],
+     "a": "did they",
+     "x": "Nobody is negative → positive tag, subject they.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Agreeing.",
+     "s": "'I've never been to Japan.' '___ have I.'",
+     "o": [
+      "Neither",
+      "So",
+      "Also",
+      "Either"
+     ],
+     "a": "Neither",
+     "x": "Never is negative: Neither have I.",
+     "lv": "adv"
+    }
+   ]
+  }
+ ],
+ "mastery": [
+  {
+   "t": "fix",
+   "q": "Pick the correct question.",
+   "o": [
+    "What you did at the weekend?",
+    "What did you do at the weekend?",
+    "What did you did at the weekend?",
+    "What you do at the weekend did?"
+   ],
+   "a": "What did you do at the weekend?",
+   "x": "Did + base."
+  },
+  {
+   "t": "choose",
+   "q": "Polite.",
+   "s": "Could you tell me where ___ ?",
+   "o": [
+    "the toilet is",
+    "is the toilet",
+    "the toilet does",
+    "does the toilet"
+   ],
+   "a": "the toilet is",
+   "x": "Statement order."
+  },
+  {
+   "t": "choose",
+   "q": "Tag.",
+   "s": "The meeting is at 3, ___ ?",
+   "o": [
+    "isn't it",
+    "doesn't it",
+    "is it",
+    "wasn't it"
+   ],
+   "a": "isn't it",
+   "x": "Is → isn't it."
+  },
+  {
+   "t": "bn",
+   "q": "কে তোমাকে এটা বলেছে?",
+   "o": [
+    "Who told you this?",
+    "Who did tell you this?",
+    "Who did told you this?",
+    "Who you told this?"
+   ],
+   "a": "Who told you this?",
+   "x": "Who = subject: no did."
+  },
+  {
+   "t": "type",
+   "q": "Agreeing.",
+   "s": "'I'm really tired.' '___ am I.'",
+   "hint": "So / Neither",
+   "a": [
+    "So"
+   ],
+   "x": "Positive agreement: So am I."
+  },
+  {
+   "t": "choose",
+   "q": "Interview.",
+   "s": "How long ___ you been working there?",
+   "o": [
+    "have",
+    "did",
+    "are",
+    "do"
+   ],
+   "a": "have",
+   "x": "Have you been working..."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "Do you know if is she coming?",
+    "Do you know if she is coming?",
+    "Do you know is she coming?",
+    "Do you know if she coming is?"
+   ],
+   "a": "Do you know if she is coming?",
+   "x": "If + statement order."
+  },
+  {
+   "t": "choose",
+   "q": "Short answer.",
+   "s": "'Did you get my message?' 'Yes, I ___.'",
+   "o": [
+    "did",
+    "got",
+    "do",
+    "have"
+   ],
+   "a": "did",
+   "x": "Repeat did."
+  }
+ ],
+ "decide": []
+}

@@ -34,3 +34,16 @@ Indexes to create in Atlas:
 - Codes match the app's language list (`lib/core/languages.dart`): bn, ar, hi, ur, fa, he, ne, si, ta, te, zh, ja, ko, th, vi, id, ms, fil, es, pt, fr, de, it, ru, uk, pl, tr, sw, am, ha.
 - Bangla (`bn`) is the `meaning` field in `plan_default.json`; Arabic is `arabic.json`. Other languages go in the `meanings` map.
 - The app downloads a language file the first time the learner picks it, and refreshes all of them when `contentVersion` changes.
+
+## Learning journey and lab modules
+- `v1/data/labs.json` (manifest key `labs`): the journey map. `tracks[]` → `nodes[]` with `kind`:
+  `lab` (opens a lab module by manifest `key`), `words` (opens a word topic by `topic` id), or `soon` (shown locked).
+  Each node has `title`, `icon` (Material icon name), `level` and a one-line `story` (Rafi's journey).
+- Lab modules: `v1/data/tenses.json` (key `tenses`) and `v1/data/labs/<id>.json` (key `lab_<id>`).
+  Shape: `title`, `intro`, `introBn`, `units[]` (`id`, `title`, `level`, `idea`, `ideaBn`, `timeline[]`, `formula[]`,
+  `uses[]`, `signals[]`, `traps[]`, `drills[]`), `mastery[]`, `decide[]`.
+- Drill: `t` = `choose` | `type` | `fix` | `bn`, `q` situation or Bangla prompt, `s` sentence with one `___`,
+  `o` options, `a` answer (list of accepted answers for `type`), `hint`, `x` explanation, `lv: "adv"` for advanced.
+- Write modules with `scripts/labs/<id>.py` (validates every drill), add the key to `manifest.files`, run
+  `scripts/build_manifest.py`. The app downloads any new `lab_*` key without a release; to make a `soon`
+  node live, change it to `kind: "lab"` with its `key` in `labs.json`.

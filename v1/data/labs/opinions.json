@@ -1,0 +1,458 @@
+{
+ "title": "Opinions, agreeing, disagreeing",
+ "intro": "Meetings in English need more than good grammar. Learn to give your view clearly, agree and disagree without offending anyone, and stay in control when you interrupt or need something explained.",
+ "introBn": "মিটিংয়ে মতামত দেওয়া, একমত বা দ্বিমত করা, কথার মাঝে ঢোকা আর প্রশ্ন করে বুঝে নেওয়ার ভদ্র ইংরেজি শিখুন।",
+ "units": [
+  {
+   "id": "giving",
+   "title": "Giving opinions and agreeing",
+   "level": "B1",
+   "idea": "Introduce opinions with a soft opener such as I think, In my view or As I see it. Agree clearly, or agree partly before adding your own point.",
+   "ideaBn": "মতামত দেওয়ার আগে I think, In my view বা As I see it ব্যবহার করুন। পুরোপুরি বা আংশিকভাবে একমত হওয়ার ভাষাও শিখুন।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Opinion",
+     "pos": "I think… · In my view,… · As I see it,… · Personally, I feel…",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Agree",
+     "pos": "I agree (with you). · Absolutely. · That's a good point.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Partly agree",
+     "pos": "I agree up to a point, but… · That's true, but…",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Use 'I think' + clause; for negatives say 'I don't think…'.",
+     "bn": "নেতিবাচক মতামতে I don't think… বলুন, I think… not নয়।",
+     "ex": "I don't think the deadline is realistic."
+    },
+    {
+     "rule": "'In my view' and 'As I see it' sound more formal and thoughtful.",
+     "bn": "মিটিংয়ে In my view বেশি ভারী ও চিন্তাশীল শোনায়।",
+     "ex": "In my view, we should hire two more developers."
+    },
+    {
+     "rule": "Agree is a verb: I agree, not I am agree.",
+     "bn": "agree ক্রিয়া, তাই I am agree ভুল।",
+     "ex": "I agree with Rafi on this."
+    },
+    {
+     "rule": "Agree partly, then add your point with 'but'.",
+     "bn": "আগে আংশিক একমত, তারপর but দিয়ে নিজের কথা।",
+     "ex": "I agree up to a point, but the budget is still too tight."
+    },
+    {
+     "rule": "'According to me' is not natural; use 'In my opinion'.",
+     "bn": "According to me স্বাভাবিক নয়।",
+     "ex": "In my opinion, the client will accept the offer."
+    }
+   ],
+   "signals": [
+    "I think",
+    "in my view",
+    "as I see it",
+    "I agree",
+    "up to a point",
+    "personally"
+   ],
+   "traps": [
+    {
+     "wrong": "I am agree with you.",
+     "right": "I agree with you.",
+     "why": "Agree is already a verb.",
+     "bn": "agree এর আগে am লাগে না।"
+    },
+    {
+     "wrong": "According to me, the plan is good.",
+     "right": "In my opinion, the plan is good.",
+     "why": "According to is for other people's views or sources.",
+     "bn": "নিজের মতের জন্য In my opinion।"
+    },
+    {
+     "wrong": "I think it is not a good idea.",
+     "right": "I don't think it's a good idea.",
+     "why": "English moves the negative to 'think'.",
+     "bn": "না-বাচক অংশ think এর সাথে বসান।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "A meeting about a new office.",
+     "s": "___ , moving to Gulshan would cost too much.",
+     "o": [
+      "In my view",
+      "According to me",
+      "To my view",
+      "In my mind"
+     ],
+     "a": "In my view",
+     "x": "Natural fixed opener."
+    },
+    {
+     "t": "type",
+     "q": "You share your colleague's opinion.",
+     "s": "I ___ with you completely.",
+     "hint": "agree",
+     "a": [
+      "agree"
+     ],
+     "x": "I agree, never I am agree."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "I think it won't work.",
+      "I am think it won't work.",
+      "I don't think it will work.",
+      "I not think it will work."
+     ],
+     "a": "I don't think it will work.",
+     "x": "Natural English negates think.",
+     "lv": "adv"
+    },
+    {
+     "t": "bn",
+     "q": "আমি তোমার সাথে একমত।",
+     "o": [
+      "I agree with you.",
+      "I am agree with you.",
+      "I agree to you.",
+      "I am agreeing you."
+     ],
+     "a": "I agree with you.",
+     "x": "Agree with + person."
+    },
+    {
+     "t": "choose",
+     "q": "Your boss suggests Friday. You partly agree.",
+     "s": "I agree up to a ___ , but Friday is busy for the clients.",
+     "o": [
+      "point",
+      "level",
+      "limit",
+      "part"
+     ],
+     "a": "point",
+     "x": "Fixed phrase: up to a point."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the most natural reply to 'We should start earlier.'",
+     "o": [
+      "Yes, correct.",
+      "Absolutely. That would give us more time.",
+      "You are right, obviously.",
+      "Agreed is me."
+     ],
+     "a": "Absolutely. That would give us more time.",
+     "x": "Agree + a reason."
+    },
+    {
+     "t": "type",
+     "q": "Giving a personal opinion.",
+     "s": "As I ___ it, the problem is communication.",
+     "hint": "see",
+     "a": [
+      "see"
+     ],
+     "x": "As I see it = in my opinion."
+    },
+    {
+     "t": "bn",
+     "q": "ব্যক্তিগতভাবে, আমার মনে হয় আমাদের অপেক্ষা করা উচিত।",
+     "o": [
+      "Personally, I think we should wait.",
+      "Personally, I am thinking we should to wait.",
+      "According to me, we should wait.",
+      "Personally, my think is we wait."
+     ],
+     "a": "Personally, I think we should wait.",
+     "x": "Personally + I think.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "disagree",
+   "title": "Disagreeing, interrupting, clarifying",
+   "level": "B2",
+   "idea": "Disagree politely by softening: I'm not sure I agree, I see what you mean, but… In meetings, interrupt with permission and check meaning with clear questions.",
+   "ideaBn": "ভদ্রভাবে দ্বিমত করুন। মিটিংয়ে অনুমতি নিয়ে কথার মাঝে ঢুকুন আর বুঝতে না পারলে স্পষ্ট প্রশ্ন করুন।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Disagree",
+     "pos": "I'm not sure I agree. · I see what you mean, but… · I'm afraid I disagree.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Interrupt",
+     "pos": "Sorry to interrupt, but… · Can I just come in here?",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Clarify",
+     "pos": "Sorry, what do you mean by…? · Could you go over that again? · So are you saying…?",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Soften disagreement with I'm not sure or I'm afraid.",
+     "bn": "I'm not sure / I'm afraid দিয়ে দ্বিমত নরম করুন।",
+     "ex": "I'm not sure I agree. The client wants it sooner."
+    },
+    {
+     "rule": "Show you understood before disagreeing.",
+     "bn": "দ্বিমতের আগে বোঝান যে আপনি শুনেছেন।",
+     "ex": "I see what you mean, but the cost is too high."
+    },
+    {
+     "rule": "Interrupt with an apology.",
+     "bn": "কথার মাঝে ঢুকতে আগে sorry বলুন।",
+     "ex": "Sorry to interrupt, but we only have ten minutes left."
+    },
+    {
+     "rule": "Ask about a specific word or idea.",
+     "bn": "নির্দিষ্ট শব্দ বা বিষয় নিয়ে প্রশ্ন করুন।",
+     "ex": "Sorry, what do you mean by 'phase two'?"
+    },
+    {
+     "rule": "Check understanding with 'So are you saying…?'",
+     "bn": "বুঝেছেন কিনা যাচাই করতে So are you saying…?",
+     "ex": "So are you saying we need to delay the launch?"
+    }
+   ],
+   "signals": [
+    "I'm not sure",
+    "I see what you mean",
+    "sorry to interrupt",
+    "come in here",
+    "what do you mean by",
+    "are you saying"
+   ],
+   "traps": [
+    {
+     "wrong": "You are wrong.",
+     "right": "I'm not sure that's right.",
+     "why": "Too direct and personal.",
+     "bn": "সরাসরি 'ভুল' বলা রূঢ় শোনায়।"
+    },
+    {
+     "wrong": "What you mean?",
+     "right": "What do you mean?",
+     "why": "Questions need 'do'.",
+     "bn": "প্রশ্নে do লাগে।"
+    },
+    {
+     "wrong": "Repeat again, please.",
+     "right": "Could you say that again, please?",
+     "why": "'Repeat again' doubles the idea and sounds like an order.",
+     "bn": "repeat again দ্বিরুক্তি এবং আদেশের মতো শোনায়।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "fix",
+     "q": "Pick the most polite way to disagree with a senior colleague.",
+     "o": [
+      "You are wrong about this.",
+      "No, that's not true.",
+      "I see what you mean, but I'm not sure the client will agree.",
+      "That's a bad idea."
+     ],
+     "a": "I see what you mean, but I'm not sure the client will agree.",
+     "x": "Acknowledge, then soften."
+    },
+    {
+     "t": "choose",
+     "q": "You need to speak while the manager is talking.",
+     "s": "Sorry to ___ , but the client is on the phone.",
+     "o": [
+      "interrupt",
+      "interrupting",
+      "disturb you to",
+      "interruption"
+     ],
+     "a": "interrupt",
+     "x": "Sorry to + base verb."
+    },
+    {
+     "t": "type",
+     "q": "You did not understand a word.",
+     "s": "Sorry, what do you ___ by 'soft launch'?",
+     "hint": "mean",
+     "a": [
+      "mean"
+     ],
+     "x": "What do you mean by…?"
+    },
+    {
+     "t": "bn",
+     "q": "আপনি কি বলছেন আমাদের বাজেট কমাতে হবে?",
+     "o": [
+      "So are you saying we need to cut the budget?",
+      "So you are say we cut budget?",
+      "So are you telling that we need cut the budget?",
+      "So you saying we need to cut the budget?"
+     ],
+     "a": "So are you saying we need to cut the budget?",
+     "x": "So are you saying + clause."
+    },
+    {
+     "t": "choose",
+     "q": "Polite disagreement.",
+     "s": "I'm ___ I disagree. The numbers don't support that.",
+     "o": [
+      "afraid",
+      "fear",
+      "scared",
+      "sorry for"
+     ],
+     "a": "afraid",
+     "x": "I'm afraid softens bad news."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the best request for clarification.",
+     "o": [
+      "Repeat again.",
+      "What you said?",
+      "Could you go over the last point again, please?",
+      "Say again slowly."
+     ],
+     "a": "Could you go over the last point again, please?",
+     "x": "Polite and specific."
+    },
+    {
+     "t": "type",
+     "q": "Joining a discussion.",
+     "s": "Can I just ___ in here? I have some data on this.",
+     "hint": "come",
+     "a": [
+      "come"
+     ],
+     "x": "Come in = join a discussion."
+    },
+    {
+     "t": "choose",
+     "q": "Strong but polite disagreement in a formal meeting.",
+     "s": "I'm not sure I ___ go along with that, to be honest.",
+     "o": [
+      "would",
+      "am",
+      "did",
+      "have"
+     ],
+     "a": "would",
+     "x": "I'm not sure I would… softens a strong no.",
+     "lv": "adv"
+    },
+    {
+     "t": "bn",
+     "q": "আমি বুঝতে পারছি আপনি কী বলতে চাইছেন, কিন্তু সময় খুব কম।",
+     "o": [
+      "I see what you mean, but there isn't much time.",
+      "I understand what you want to say, but time is very less.",
+      "I see what you are meaning, but time is few.",
+      "I see your mean, but there isn't much time."
+     ],
+     "a": "I see what you mean, but there isn't much time.",
+     "x": "Natural phrase; time is not 'less'.",
+     "lv": "adv"
+    }
+   ]
+  }
+ ],
+ "mastery": [
+  {
+   "t": "fix",
+   "q": "Pick the correct sentence.",
+   "o": [
+    "I am agree with the plan.",
+    "I agree with the plan.",
+    "I agreed with the plan now.",
+    "I am agreeing the plan."
+   ],
+   "a": "I agree with the plan.",
+   "x": "Agree is a verb."
+  },
+  {
+   "t": "choose",
+   "q": "Opinion in a report.",
+   "s": "___ , the new system will save time.",
+   "o": [
+    "In my opinion",
+    "According to me",
+    "On my opinion",
+    "In my mind's view"
+   ],
+   "a": "In my opinion",
+   "x": "Fixed phrase."
+  },
+  {
+   "t": "type",
+   "q": "Negative opinion.",
+   "s": "I ___ think we can finish by Thursday.",
+   "hint": "do not",
+   "a": [
+    "don't",
+    "do not"
+   ],
+   "x": "Negate think."
+  },
+  {
+   "t": "bn",
+   "q": "দুঃখিত, বাধা দিচ্ছি, কিন্তু আমাদের সময় শেষ।",
+   "o": [
+    "Sorry to interrupt, but we're out of time.",
+    "Sorry for disturb, but our time is finish.",
+    "Sorry to interrupting, but time is over.",
+    "Sorry, I interrupt, but we have no more time is."
+   ],
+   "a": "Sorry to interrupt, but we're out of time.",
+   "x": "Sorry to + base verb."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the most natural partial agreement.",
+   "o": [
+    "You are fully wrong.",
+    "That's true, but we also need to think about the cost.",
+    "Yes, but no.",
+    "Partly correct you are."
+   ],
+   "a": "That's true, but we also need to think about the cost.",
+   "x": "Agree, then add a point."
+  },
+  {
+   "t": "choose",
+   "q": "Checking meaning.",
+   "s": "So are you ___ that the client cancelled?",
+   "o": [
+    "saying",
+    "telling",
+    "speaking",
+    "meaning to say that"
+   ],
+   "a": "saying",
+   "x": "Are you saying…?"
+  }
+ ],
+ "decide": []
+}

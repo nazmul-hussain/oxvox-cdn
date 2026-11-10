@@ -1,0 +1,461 @@
+{
+ "title": "Phone and video calls",
+ "intro": "Calls are harder than face-to-face: no body language and bad connections. Learn the fixed phrases for opening, holding, leaving messages, fixing tech problems and checking details.",
+ "introBn": "ফোন ও ভিডিও কলে শরীরী ভাষা থাকে না, লাইনও খারাপ হয়। কল শুরু, অপেক্ষা, মেসেজ, সমস্যা আর তথ্য যাচাইয়ের বাক্য শিখুন।",
+ "units": [
+  {
+   "id": "phone",
+   "title": "Opening, holding and leaving messages",
+   "level": "A2",
+   "idea": "On the phone, say who you are with 'This is…', ask for people with 'Could I speak to…?', ask callers to hold, and leave clear messages with your name, number and reason.",
+   "ideaBn": "ফোনে নিজের পরিচয় দিতে This is…, কাউকে চাইতে Could I speak to…?, অপেক্ষা করাতে hold on, আর মেসেজে নাম, নম্বর ও কারণ বলুন।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Open",
+     "pos": "Hello, this is Rafi from Nexa Solutions. · Could I speak to Ms Khan, please?",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Hold",
+     "pos": "Could you hold on a moment? · I'll put you through. · Sorry to keep you waiting.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Message",
+     "pos": "Can I take a message? · Could you ask her to call me back? · My number is 01711 234 567.",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Say 'This is…' or 'It's…' on the phone, not 'I am…'.",
+     "bn": "ফোনে I am নয়, This is…।",
+     "ex": "Hi, this is Rafi calling from Dhaka."
+    },
+    {
+     "rule": "Ask for someone with 'Could I speak to…?'",
+     "bn": "কাউকে চাইতে Could I speak to…?",
+     "ex": "Could I speak to someone in Accounts, please?"
+    },
+    {
+     "rule": "Hold on / put through / call back are phrasal verbs.",
+     "bn": "hold on, put through, call back।",
+     "ex": "Hold on, I'll put you through to her."
+    },
+    {
+     "rule": "Leave a message: name, reason, number, best time.",
+     "bn": "মেসেজে নাম, কারণ, নম্বর, সময়।",
+     "ex": "It's Rafi about the invoice. Please call me on 01711 234 567 after 2."
+    },
+    {
+     "rule": "Close with thanks and 'Bye'.",
+     "bn": "ধন্যবাদ দিয়ে শেষ করুন।",
+     "ex": "Thanks for your help. Bye for now."
+    }
+   ],
+   "signals": [
+    "this is…",
+    "could I speak to…?",
+    "hold on",
+    "put you through",
+    "call back",
+    "take a message"
+   ],
+   "traps": [
+    {
+     "wrong": "Hello, I am Rafi speaking.",
+     "right": "Hello, this is Rafi.",
+     "why": "On the phone we say 'This is'.",
+     "bn": "ফোনে This is Rafi।"
+    },
+    {
+     "wrong": "Please hold the line, I am transferring.",
+     "right": "Please hold on, I'll put you through.",
+     "why": "'Put through' is the natural phrase.",
+     "bn": "স্বাভাবিক কথা put through।"
+    },
+    {
+     "wrong": "Tell him to call me back to me.",
+     "right": "Could you ask him to call me back?",
+     "why": "No extra 'to me'; ask politely.",
+     "bn": "'to me' লাগবে না।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Calling a client.",
+     "s": "Good morning, ___ Rafi from Nexa Solutions.",
+     "o": [
+      "this is",
+      "I am",
+      "here is",
+      "me is"
+     ],
+     "a": "this is",
+     "x": "Phone: this is + name."
+    },
+    {
+     "t": "choose",
+     "q": "Asking for someone.",
+     "s": "Could I ___ to Mr Chowdhury, please?",
+     "o": [
+      "speak",
+      "say",
+      "tell",
+      "talk with to"
+     ],
+     "a": "speak",
+     "x": "Could I speak to…?"
+    },
+    {
+     "t": "type",
+     "q": "Receptionist.",
+     "s": "One moment, I'll put you ___ to the manager.",
+     "hint": "particle",
+     "a": [
+      "through"
+     ],
+     "x": "Put through = connect."
+    },
+    {
+     "t": "choose",
+     "q": "Person isn't there.",
+     "s": "I'm afraid she's in a meeting. Can I ___ a message?",
+     "o": [
+      "take",
+      "make",
+      "give",
+      "do"
+     ],
+     "a": "take",
+     "x": "Take a message."
+    },
+    {
+     "t": "bn",
+     "q": "একটু অপেক্ষা করবেন? আমি দেখে নিচ্ছি।",
+     "o": [
+      "Could you hold on a moment? I'll just check.",
+      "Please wait little, I am seeing.",
+      "Can you hold a moment I check?",
+      "Could you hold on a moment? I'll just checking."
+     ],
+     "a": "Could you hold on a moment? I'll just check.",
+     "x": "Hold on + I'll just check."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the best voicemail.",
+     "o": [
+      "Rafi. Call me.",
+      "Hello, it's me, you know my number.",
+      "Hi, it's Rafi from Nexa about the delivery date. Could you call me back on 01711 234 567? Thanks.",
+      "Why you are not picking up?"
+     ],
+     "a": "Hi, it's Rafi from Nexa about the delivery date. Could you call me back on 01711 234 567? Thanks.",
+     "x": "Name, reason, number, thanks."
+    },
+    {
+     "t": "type",
+     "q": "After a long wait.",
+     "s": "Sorry to keep you ___.",
+     "hint": "verb",
+     "a": [
+      "waiting"
+     ],
+     "x": "Keep someone waiting.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Asking for a return call.",
+     "s": "Could you ask him to call me ___ this afternoon?",
+     "o": [
+      "back",
+      "again back",
+      "return",
+      "to"
+     ],
+     "a": "back",
+     "x": "Call back."
+    }
+   ]
+  },
+  {
+   "id": "video",
+   "title": "Video calls, connection problems and checking details",
+   "level": "B1",
+   "idea": "Online calls go wrong: the line breaks up, someone is on mute, the screen freezes. Name the problem politely, check you understood, and spell names and numbers clearly.",
+   "ideaBn": "অনলাইন কলে লাইন কেটে যায়, কেউ মিউটে থাকে। ভদ্রভাবে সমস্যা বলুন, বুঝেছেন কিনা যাচাই করুন, আর নাম ও নম্বর স্পষ্ট করে বানান করুন।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Problems",
+     "pos": "You're breaking up. · You're on mute. · Your screen has frozen. · Can you hear me OK?",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Check",
+     "pos": "Sorry, could you say that again? · Just to confirm, you said Tuesday? · So what you mean is…",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Spell",
+     "pos": "That's R-A-F-I. · B for Bravo. · Double O. · Oh-one-seven-one-one.",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Present continuous for problems now.",
+     "bn": "এখনকার সমস্যায় -ing।",
+     "ex": "Sorry, you're breaking up. I'll call you back."
+    },
+    {
+     "rule": "'You're on mute' (not 'Your mic is mute').",
+     "bn": "মিউট বোঝাতে You're on mute।",
+     "ex": "I think you're on mute, Mr Tan."
+    },
+    {
+     "rule": "Repeat back to confirm.",
+     "bn": "নিশ্চিত হতে আবার বলুন।",
+     "ex": "Just to confirm, the deadline is the 15th, right?"
+    },
+    {
+     "rule": "Read phone numbers in groups; say 'double' and 'oh'.",
+     "bn": "নম্বর ভাগ করে বলুন; double, oh।",
+     "ex": "Zero one seven one one, double two, three four."
+    },
+    {
+     "rule": "Spell with code words to avoid mistakes.",
+     "bn": "ভুল এড়াতে A for Alpha।",
+     "ex": "H for Hotel, A for Alpha, S for Sierra, A, N."
+    }
+   ],
+   "signals": [
+    "you're breaking up",
+    "you're on mute",
+    "can you hear me?",
+    "just to confirm",
+    "could you spell that?",
+    "double"
+   ],
+   "traps": [
+    {
+     "wrong": "Your voice is cutting cutting.",
+     "right": "You're breaking up.",
+     "why": "Use the fixed phrase.",
+     "bn": "স্বাভাবিক কথা You're breaking up।"
+    },
+    {
+     "wrong": "Can you repeat again?",
+     "right": "Could you say that again, please?",
+     "why": "'Repeat again' doubles the idea.",
+     "bn": "repeat মানেই again।"
+    },
+    {
+     "wrong": "Did you understand?",
+     "right": "Does that make sense? / Is that clear?",
+     "why": "Direct 'Did you understand?' can sound like a teacher.",
+     "bn": "শিক্ষকের মতো শোনায়।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Bad connection.",
+     "s": "Sorry, Mr Tan, you're ___ up. Could you repeat that?",
+     "o": [
+      "breaking",
+      "cutting",
+      "falling",
+      "dropping"
+     ],
+     "a": "breaking",
+     "x": "You're breaking up."
+    },
+    {
+     "t": "choose",
+     "q": "Client is talking but you hear nothing.",
+     "s": "I think you're on ___.",
+     "o": [
+      "mute",
+      "silent",
+      "mutes",
+      "muted mode"
+     ],
+     "a": "mute",
+     "x": "You're on mute."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the most natural question.",
+     "o": [
+      "Can you repeat again?",
+      "Repeat please.",
+      "Sorry, could you say that again?",
+      "What you said?"
+     ],
+     "a": "Sorry, could you say that again?",
+     "x": "Polite and natural."
+    },
+    {
+     "t": "type",
+     "q": "Checking a detail.",
+     "s": "Just ___ confirm, the call is at 3 pm Dhaka time?",
+     "hint": "word",
+     "a": [
+      "to"
+     ],
+     "x": "Just to confirm…"
+    },
+    {
+     "t": "bn",
+     "q": "আপনার স্ক্রিনটা আটকে গেছে।",
+     "o": [
+      "Your screen has frozen.",
+      "Your screen is stucking.",
+      "Your screen got hang.",
+      "Your screen has freezed."
+     ],
+     "a": "Your screen has frozen.",
+     "x": "Freeze → frozen."
+    },
+    {
+     "t": "choose",
+     "q": "Spelling an email.",
+     "s": "It's r-a-f-i ___ nexa dot com.",
+     "o": [
+      "at",
+      "on",
+      "in",
+      "to"
+     ],
+     "a": "at",
+     "x": "@ = at."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the clearest way to say 01722 334 455.",
+     "o": [
+      "One crore seven…",
+      "Zero one seven double two, double three, double four, double five.",
+      "Zero one seven two two three three four four five five.",
+      "One seven two two."
+     ],
+     "a": "Zero one seven double two, double three, double four, double five.",
+     "x": "Groups and 'double'.",
+     "lv": "adv"
+    },
+    {
+     "t": "choose",
+     "q": "Checking the other person understood.",
+     "s": "So that's the plan. Does that make ___?",
+     "o": [
+      "sense",
+      "understand",
+      "clear",
+      "meaning"
+     ],
+     "a": "sense",
+     "x": "Does that make sense?"
+    },
+    {
+     "t": "type",
+     "q": "You can't hear well.",
+     "s": "Sorry, can you ___ me OK? The line is bad.",
+     "hint": "verb",
+     "a": [
+      "hear"
+     ],
+     "x": "Can you hear me?",
+     "lv": "adv"
+    }
+   ]
+  }
+ ],
+ "mastery": [
+  {
+   "t": "choose",
+   "q": "Answering at work.",
+   "s": "Good afternoon, Nexa Solutions. Rafi ___.",
+   "o": [
+    "speaking",
+    "talking",
+    "is here",
+    "saying"
+   ],
+   "a": "speaking",
+   "x": "Name + speaking."
+  },
+  {
+   "t": "choose",
+   "q": "Connecting a caller.",
+   "s": "Hold on, please. I'll put you ___.",
+   "o": [
+    "through",
+    "on",
+    "in",
+    "over"
+   ],
+   "a": "through",
+   "x": "Put through."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the correct line.",
+   "o": [
+    "Can you repeat again?",
+    "You're breaking up. Shall I call you back?",
+    "Your voice is going cut.",
+    "Your mic is mute."
+   ],
+   "a": "You're breaking up. Shall I call you back?",
+   "x": "Natural fixed phrases."
+  },
+  {
+   "t": "bn",
+   "q": "একটু বানান করে বলবেন?",
+   "o": [
+    "Could you spell that, please?",
+    "Please do spelling.",
+    "Can you spelling it?",
+    "Spell me please it."
+   ],
+   "a": "Could you spell that, please?",
+   "x": "Could you spell that?"
+  },
+  {
+   "t": "type",
+   "q": "Leaving a message.",
+   "s": "Could you ask her to call me ___?",
+   "hint": "particle",
+   "a": [
+    "back"
+   ],
+   "x": "Call back."
+  },
+  {
+   "t": "choose",
+   "q": "Video call.",
+   "s": "Sorry, I think you're ___ mute.",
+   "o": [
+    "on",
+    "in",
+    "at",
+    "with"
+   ],
+   "a": "on",
+   "x": "On mute.",
+   "lv": "adv"
+  }
+ ],
+ "decide": []
+}

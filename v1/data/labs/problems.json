@@ -1,0 +1,456 @@
+{
+ "title": "Complaining and solving problems",
+ "intro": "Things go wrong: laptops crash, orders arrive late, people make mistakes. Learn to describe a problem precisely, complain without sounding rude, apologise properly and agree on a fix.",
+ "introBn": "সমস্যা স্পষ্টভাবে বলা, ভদ্রভাবে অভিযোগ করা, আন্তরিকভাবে ক্ষমা চাওয়া আর সমাধান প্রস্তাব করার ইংরেজি শিখুন।",
+ "units": [
+  {
+   "id": "describe",
+   "title": "Describing a problem and complaining",
+   "level": "B1",
+   "idea": "Describe the problem clearly with patterns like it keeps -ing, it won't start, there seems to be. Then complain politely: focus on the facts and ask for action.",
+   "ideaBn": "সমস্যা স্পষ্টভাবে বলুন: it keeps -ing, it won't…, there seems to be…। অভিযোগে দোষারোপ নয়, তথ্য দিন আর সমাধান চান।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Describe",
+     "pos": "My laptop keeps freezing. · The AC won't turn on. · There seems to be a mistake on the invoice.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Complain",
+     "pos": "I'm afraid I have a problem with… · I'd like to make a complaint about… · I was told… but…",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Keep + -ing: something happens again and again (annoying).",
+     "bn": "বারবার ঘটলে keep + -ing।",
+     "ex": "The Wi-Fi keeps dropping during calls."
+    },
+    {
+     "rule": "Won't + verb: a machine or person refuses to work.",
+     "bn": "কাজ না করলে won't।",
+     "ex": "The printer won't print in colour."
+    },
+    {
+     "rule": "There seems to be…: a soft way to report a problem.",
+     "bn": "নরমভাবে সমস্যা জানাতে there seems to be।",
+     "ex": "There seems to be a problem with my salary slip."
+    },
+    {
+     "rule": "Give facts: what, when, what you expected.",
+     "bn": "কী, কবে, কী আশা করেছিলেন তা বলুন।",
+     "ex": "I ordered it on 3 May, but it still hasn't arrived."
+    },
+    {
+     "rule": "End with a clear request.",
+     "bn": "শেষে স্পষ্ট অনুরোধ করুন।",
+     "ex": "Could you send a replacement, please?"
+    }
+   ],
+   "signals": [
+    "keeps -ing",
+    "won't",
+    "there seems to be",
+    "still hasn't",
+    "I'm afraid",
+    "replacement"
+   ],
+   "traps": [
+    {
+     "wrong": "My phone is not working since yesterday.",
+     "right": "My phone hasn't been working since yesterday.",
+     "why": "Since needs the present perfect.",
+     "bn": "since থাকলে present perfect।"
+    },
+    {
+     "wrong": "The laptop keeps to crash.",
+     "right": "The laptop keeps crashing.",
+     "why": "Keep + -ing.",
+     "bn": "keep এর পরে -ing।"
+    },
+    {
+     "wrong": "Your service is very bad, you people never help.",
+     "right": "I'm afraid I've had a problem with your service. Could you help me sort it out?",
+     "why": "Attacks the people, not the problem.",
+     "bn": "মানুষকে দোষ না দিয়ে সমস্যার কথা বলুন।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "The projector stops every few minutes.",
+     "s": "The projector ___ switching off.",
+     "o": [
+      "keeps",
+      "is keep",
+      "keep on to",
+      "always is"
+     ],
+     "a": "keeps",
+     "x": "Keep + -ing for repeated problems."
+    },
+    {
+     "t": "type",
+     "q": "Your car refuses to start.",
+     "s": "My car ___ start this morning.",
+     "hint": "will not",
+     "a": [
+      "won't",
+      "will not",
+      "wouldn't",
+      "would not"
+     ],
+     "x": "Won't/wouldn't = refuses."
+    },
+    {
+     "t": "choose",
+     "q": "Soft report on a bill.",
+     "s": "There ___ to be a mistake on the bill.",
+     "o": [
+      "seems",
+      "seem",
+      "is seeming",
+      "looks"
+     ],
+     "a": "seems",
+     "x": "There seems to be…"
+    },
+    {
+     "t": "fix",
+     "q": "Pick the best complaint email opening.",
+     "o": [
+      "Your company is cheating customers.",
+      "I am very angry. Fix this now.",
+      "I'm writing about order #4521, which still hasn't arrived after two weeks.",
+      "Where is my order???"
+     ],
+     "a": "I'm writing about order #4521, which still hasn't arrived after two weeks.",
+     "x": "Facts first, calm tone."
+    },
+    {
+     "t": "bn",
+     "q": "ইন্টারনেট বারবার চলে যাচ্ছে।",
+     "o": [
+      "The internet keeps going down.",
+      "The internet is again and again going.",
+      "Internet keeps to go off.",
+      "The internet is going and going."
+     ],
+     "a": "The internet keeps going down.",
+     "x": "Keep + -ing."
+    },
+    {
+     "t": "type",
+     "q": "Since + present perfect.",
+     "s": "The AC ___ working since Monday.",
+     "hint": "not work",
+     "a": [
+      "hasn't been",
+      "has not been"
+     ],
+     "x": "Present perfect continuous with since."
+    },
+    {
+     "t": "choose",
+     "q": "Polite request at the end.",
+     "s": "Could you ___ into it and let me know?",
+     "o": [
+      "look",
+      "see",
+      "check up to",
+      "watch"
+     ],
+     "a": "look",
+     "x": "Look into = investigate."
+    },
+    {
+     "t": "bn",
+     "q": "দুঃখিত, কিন্তু আমি ভুল সাইজ পেয়েছি।",
+     "o": [
+      "I'm afraid I've received the wrong size.",
+      "Sorry but I got wrong size.",
+      "I'm afraid you sent me wrong size, you people.",
+      "Sorry, I have been received the wrong size."
+     ],
+     "a": "I'm afraid I've received the wrong size.",
+     "x": "Polite, problem-focused.",
+     "lv": "adv"
+    }
+   ]
+  },
+  {
+   "id": "solve",
+   "title": "Apologising and solving",
+   "level": "B2",
+   "idea": "Apologise sincerely and take responsibility, then propose a solution. Use should have and could have to talk about what went wrong in the past.",
+   "ideaBn": "আন্তরিকভাবে ক্ষমা চান, দায় নিন, তারপর সমাধান দিন। অতীতের ভুল নিয়ে বলতে should have / could have।",
+   "timeline": [],
+   "formula": [
+    {
+     "name": "Apologise",
+     "pos": "I'm really sorry about… · I apologise for the delay. · That's completely our fault.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Solve",
+     "pos": "What we can do is… · Why don't we…? · I'll make sure it doesn't happen again.",
+     "neg": "",
+     "q": ""
+    },
+    {
+     "name": "Past",
+     "pos": "We should have checked. · You could have told me.",
+     "neg": "",
+     "q": ""
+    }
+   ],
+   "uses": [
+    {
+     "rule": "Apologise for + noun or -ing.",
+     "bn": "apologise for এর পরে noun বা -ing।",
+     "ex": "We apologise for the delay in replying."
+    },
+    {
+     "rule": "Offer a concrete solution and time.",
+     "bn": "নির্দিষ্ট সমাধান আর সময় দিন।",
+     "ex": "I'll send a replacement today, and it should reach you by Thursday."
+    },
+    {
+     "rule": "Should have + past participle: the right action that didn't happen.",
+     "bn": "যা করা উচিত ছিল কিন্তু হয়নি: should have + V3।",
+     "ex": "I should have double-checked the figures."
+    },
+    {
+     "rule": "Could have + past participle: a possible action, often a soft criticism.",
+     "bn": "করা যেত: could have + V3; নরম সমালোচনা।",
+     "ex": "You could have called me. I'd have helped."
+    },
+    {
+     "rule": "Suggest with Why don't we…? or How about + -ing?",
+     "bn": "প্রস্তাবে Why don't we…? বা How about + -ing।",
+     "ex": "How about extending the deadline by two days?"
+    }
+   ],
+   "signals": [
+    "apologise for",
+    "our fault",
+    "should have",
+    "could have",
+    "why don't we",
+    "make sure"
+   ],
+   "traps": [
+    {
+     "wrong": "I should have check it.",
+     "right": "I should have checked it.",
+     "why": "Use the past participle after have.",
+     "bn": "have এর পরে V3।"
+    },
+    {
+     "wrong": "Sorry for the inconvenience caused to you.",
+     "right": "I'm so sorry for the trouble this has caused.",
+     "why": "Sounds robotic and old-fashioned.",
+     "bn": "যান্ত্রিক শোনায়।"
+    },
+    {
+     "wrong": "We will apologise for the delay.",
+     "right": "We apologise for the delay.",
+     "why": "Apologise now, not in the future.",
+     "bn": "এখনই ক্ষমা চাইছেন, will নয়।"
+    }
+   ],
+   "drills": [
+    {
+     "t": "choose",
+     "q": "Taking responsibility.",
+     "s": "I'm really sorry. That's completely ___ fault.",
+     "o": [
+      "my",
+      "mine",
+      "me",
+      "the my"
+     ],
+     "a": "my",
+     "x": "My fault."
+    },
+    {
+     "t": "type",
+     "q": "A mistake you made yesterday.",
+     "s": "I should have ___ the client before sending it.",
+     "hint": "ask",
+     "a": [
+      "asked"
+     ],
+     "x": "Should have + past participle."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the best reply to an angry customer.",
+     "o": [
+      "Not our problem.",
+      "Sorry for the inconvenience caused.",
+      "I'm so sorry about this. I'll arrange a refund today and email you the confirmation.",
+      "Please be patient, sir."
+     ],
+     "a": "I'm so sorry about this. I'll arrange a refund today and email you the confirmation.",
+     "x": "Apology + concrete solution."
+    },
+    {
+     "t": "choose",
+     "q": "Suggesting a solution.",
+     "s": "Why ___ we split the work between the two teams?",
+     "o": [
+      "don't",
+      "not",
+      "do",
+      "won't"
+     ],
+     "a": "don't",
+     "x": "Why don't we…?"
+    },
+    {
+     "t": "bn",
+     "q": "তুমি আমাকে আগে জানাতে পারতে।",
+     "o": [
+      "You could have told me earlier.",
+      "You could told me before.",
+      "You can have told me earlier.",
+      "You should told me earlier."
+     ],
+     "a": "You could have told me earlier.",
+     "x": "Could have + V3."
+    },
+    {
+     "t": "choose",
+     "q": "Formal apology.",
+     "s": "We apologise ___ any confusion this may have caused.",
+     "o": [
+      "for",
+      "about",
+      "to",
+      "of"
+     ],
+     "a": "for",
+     "x": "Apologise for."
+    },
+    {
+     "t": "type",
+     "q": "Suggesting.",
+     "s": "How about ___ the meeting online instead?",
+     "hint": "hold",
+     "a": [
+      "holding"
+     ],
+     "x": "How about + -ing."
+    },
+    {
+     "t": "fix",
+     "q": "Pick the correct sentence.",
+     "o": [
+      "We should have test the app before launch.",
+      "We should had tested the app before launch.",
+      "We should have tested the app before launch.",
+      "We should tested the app before launch."
+     ],
+     "a": "We should have tested the app before launch.",
+     "x": "Should have + V3.",
+     "lv": "adv"
+    },
+    {
+     "t": "bn",
+     "q": "আমি নিশ্চিত করব যেন এটা আর না ঘটে।",
+     "o": [
+      "I'll make sure it doesn't happen again.",
+      "I'll make sure it won't happen again never.",
+      "I will sure that it not happen again.",
+      "I'll make sure it isn't happen again."
+     ],
+     "a": "I'll make sure it doesn't happen again.",
+     "x": "Make sure + present.",
+     "lv": "adv"
+    }
+   ]
+  }
+ ],
+ "mastery": [
+  {
+   "t": "choose",
+   "q": "Repeated problem.",
+   "s": "The app keeps ___ when I open the camera.",
+   "o": [
+    "crashing",
+    "crash",
+    "to crash",
+    "crashed"
+   ],
+   "a": "crashing",
+   "x": "Keep + -ing."
+  },
+  {
+   "t": "type",
+   "q": "Past regret.",
+   "s": "We could have ___ more time if we'd planned better.",
+   "hint": "save",
+   "a": [
+    "saved"
+   ],
+   "x": "Could have + V3."
+  },
+  {
+   "t": "fix",
+   "q": "Pick the most natural apology to a client.",
+   "o": [
+    "We regret for the inconvenience.",
+    "Sorry for the inconvenience caused to you.",
+    "I'm really sorry for the delay. Your order will go out first thing tomorrow.",
+    "Delay happened, sorry."
+   ],
+   "a": "I'm really sorry for the delay. Your order will go out first thing tomorrow.",
+   "x": "Sincere + solution."
+  },
+  {
+   "t": "bn",
+   "q": "মনে হচ্ছে আমার অ্যাকাউন্টে কোনো সমস্যা আছে।",
+   "o": [
+    "There seems to be a problem with my account.",
+    "It seems there is problem in my account.",
+    "There seem to be a problem with my account.",
+    "Seems a problem is my account."
+   ],
+   "a": "There seems to be a problem with my account.",
+   "x": "There seems to be…"
+  },
+  {
+   "t": "choose",
+   "q": "Refusing machine.",
+   "s": "The door ___ open. Can you call security?",
+   "o": [
+    "won't",
+    "doesn't want",
+    "can't to",
+    "not"
+   ],
+   "a": "won't",
+   "x": "Won't = refuses to."
+  },
+  {
+   "t": "choose",
+   "q": "Since + present perfect.",
+   "s": "The lift ___ out of order since last week.",
+   "o": [
+    "has been",
+    "is",
+    "was",
+    "is being"
+   ],
+   "a": "has been",
+   "x": "Present perfect with since."
+  }
+ ],
+ "decide": []
+}
