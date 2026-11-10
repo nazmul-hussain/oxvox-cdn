@@ -1,13 +1,16 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 7,
-  "updatedAt": "2026-11-06T18:49:43Z",
+  "contentVersion": 8,
+  "updatedAt": "2026-11-10T08:34:50Z",
   "files": {
     "words": "v1/data/words.json",
     "listeningLessons": "v1/data/listening_lessons.json",
     "planDefault": "v1/data/plan_default.json",
     "arabic": "v1/data/arabic.json",
-    "exampleBn": "v1/data/example_bn.json"
+    "exampleBn": "v1/data/example_bn.json",
+    "planIndex": "v1/data/plan_index.json",
+    "topics": "v1/data/topics.json",
+    "listeningQuestions": "v1/data/listening_questions.json"
   },
   "audioDir": "listening",
   "meanings": {
@@ -39,5 +42,43 @@
     "sw": "v1/data/meanings/sw.json",
     "am": "v1/data/meanings/am.json",
     "ha": "v1/data/meanings/ha.json"
+  },
+  "hashes": {
+    "words": "ebb1229a2966f14f",
+    "listeningLessons": "7cf0de97cc635b7f",
+    "planDefault": "e80863e309a0a777",
+    "arabic": "9aa892ff71f2f860",
+    "exampleBn": "38c42a34645f1973",
+    "planIndex": "33ab9e1195a6babd",
+    "topics": "26e75b70967b4a0e",
+    "listeningQuestions": "b24fd31f9a7a51fd",
+    "meanings/hi": "4614e81d5687ce80",
+    "meanings/ur": "28239f1a5b025570",
+    "meanings/fa": "2cb1fc10f5756115",
+    "meanings/he": "b4160a1cbfc3e2fa",
+    "meanings/ne": "435bf1e555a6d6c4",
+    "meanings/si": "91dee500e07a6089",
+    "meanings/ta": "57276cfab8657201",
+    "meanings/te": "8819e85aa3b2a564",
+    "meanings/zh": "df6ae5bbc211f4b9",
+    "meanings/ja": "498bbee7e4c6a3f1",
+    "meanings/ko": "e420ddefdc29fb6d",
+    "meanings/th": "116158825bcdd246",
+    "meanings/vi": "ef52ff358a968452",
+    "meanings/id": "94f0040d45dde744",
+    "meanings/ms": "e9e64487298ee83f",
+    "meanings/fil": "76b7225e47b22c22",
+    "meanings/es": "5cdf3f667276b12b",
+    "meanings/pt": "6c1b995d9370f5c5",
+    "meanings/fr": "896248d4276d90d9",
+    "meanings/de": "a334965b386db8a3",
+    "meanings/it": "b0223d55ce64332f",
+    "meanings/ru": "db083ef4cbc8d1eb",
+    "meanings/uk": "26e9c6904cab689b",
+    "meanings/pl": "d1360ec7866cb7ae",
+    "meanings/tr": "ebad1fcbcc59982d",
+    "meanings/sw": "07fc57d4546e586a",
+    "meanings/am": "a13b8403e655730a",
+    "meanings/ha": "b26dceb2eb084f13"
   }
 }
